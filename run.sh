@@ -1,13 +1,13 @@
 echo "-------------------------------------"
-echo "Start to build the project!"
+echo "Start to copy file to /vol/automed/data/usgs"
+cp /vol/automed/data/usgs/q0.pig
 echo "-------------------------------------"
-cmake --build ~/AdvancedDB17CW2/build
-echo "Finished build..."
+echo "Finished copied..."
 
 echo " "
 echo "-------------------------------------"
-echo "Run the project..."
+echo "Run the file..."
 echo "-------------------------------------"
-~/AdvancedDB17CW2/build/ADBCoursework2
+pig -x local q0.pig
 echo " "
 echo "Finshed..."
