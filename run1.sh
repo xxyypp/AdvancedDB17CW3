@@ -3,12 +3,6 @@ echo "Before run, try to delete exist folder r1"
 rm -Rf q1
 echo "Clear!"
 echo "--------------------------------------------------------------------------"
-echo "--------------------------------------------------------------------------"
-echo "Start to copy file to /vol/automed/data/usgs"
-cp /vol/automed/data/usgs/q1.pig
-echo "--------------------------------------------------------------------------"
-echo "Finished copied..."
-
 echo " "
 echo "--------------------------------------------------------------------------"
 echo "Run the file..."

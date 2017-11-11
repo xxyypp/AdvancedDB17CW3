@@ -20,8 +20,10 @@ feature_data = FOREACH feature
 state_data = FOREACH state
              GENERATE name AS state_data_name;
 
-feature_and_state = JOIN feature_data BY feature_county LEFT,
+feature_and_state_bag = JOIN feature_data BY feature_county LEFT,
                          state_data BY state_data_name;
+
+feature_and_state = DISTINCT feature_and_state_bag;
 
 feature_without_state = FILTER feature_and_state
                         BY feature_state_name IS NULL;
