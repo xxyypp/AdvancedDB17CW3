@@ -17,11 +17,11 @@ group_the_result = GROUP join_feature_populated_bag BY feature_state_name;
 
 --Calculate state details
 state_details = FOREACH group_the_result
-                GENERATE join_feature_populated_bag.feature_data::feature_state_name,
+                GENERATE join_feature_populated_bag.feature_data::feature_state_name AS state_name,
                           COUNT(join_feature_populated_bag.populated_place_data::populated_population) AS population,
                           AVG(join_feature_populated_bag.populated_place_data::populated_elevation) AS elevation;
 
 sorted_result = ORDER state_details
-                BY feature_state_name ASC;
+                BY state_name ASC;
 
 STORE sorted_result INTO 'q2' USING PigStorage(',');
