@@ -13,6 +13,8 @@ populated_place_data = FOREACH populated_place
 join_feature_populated_bag = JOIN feature_data BY feature_county,
                                   populated_place_data BY populated_county;
 
+join_feature_populated = DISTINCT join_feature_populated_bag;
+
 group_the_result = GROUP join_feature_populated_bag BY feature_state_name;
 
 --Calculate state details
