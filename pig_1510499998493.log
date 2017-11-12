@@ -1,8 +1,8 @@
 Pig Stack Trace
 ---------------
-ERROR 1066: Unable to open iterator for alias grou
+ERROR 1066: Unable to open iterator for alias result_bag
 
-org.apache.pig.impl.logicalLayer.FrontendException: ERROR 1066: Unable to open iterator for alias grou
+org.apache.pig.impl.logicalLayer.FrontendException: ERROR 1066: Unable to open iterator for alias result_bag
 	at org.apache.pig.PigServer.openIterator(PigServer.java:892)
 	at org.apache.pig.tools.grunt.GruntParser.processDump(GruntParser.java:774)
 	at org.apache.pig.tools.pigscript.parser.PigScriptParser.parse(PigScriptParser.java:372)
