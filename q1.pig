@@ -3,43 +3,29 @@ RUN /vol/automed/data/usgs/load_tables.pig
 
 --Project column feature of feature
 feature_data = FOREACH feature
-               GENERATE county AS feature_county, state_name AS feature_state_name;
+               GENERATE county, UPPER(state_name) AS feature_statename;
 
 --Project column feature of state
 state_data = FOREACH state
-             GENERATE code AS state_code, name AS state_name;
+             GENERATE name;
 
---Project column feature of populated_place
-populated_place_data = FOREACH populated_place
-                       GENERATE county AS populated_county, state_code AS populated_state_code;
+-- Join two table
+state_and_feature_bag = JOIN feature_data BY feature_statename LEFT,
+                          state_data BY name;
 
---Join state & populated data
-join_state_populated_bag = JOIN state_data BY state_code,
-                            populated_place_data BY populated_state_code;
+state_and_feature = DISTINCT state_and_feature_bag;
 
---Set based
---join_state_populated = DISTINCT join_state_populated_bag;
+feature_not_in_state = FILTER state_and_feature
+                       BY state_data::name IS NULL;
 
---Find difference
-feature_and_join_bag = JOIN feature_data BY feature_county LEFT,
-                        --join_state_populated BY populated_county;
-                        join_state_populated_bag BY populated_county;
+--Generate the result
+result_bag = FOREACH feature_not_in_state
+             GENERATE feature_data::feature_statename AS state_name;
 
---feature_and_join = DISTINCT feature_and_join_bag;
+result = DISTINCT result_bag;
 
---feature_without_join = FILTER feature_and_join
-feature_without_join = FILTER feature_and_join_bag
-                       --BY join_state_populated::state_data::state_code IS NULL;
-                       BY join_state_populated_bag::state_data::state_code IS NULL;
+-- Order the result
+sorted_result = ORDER result
+               BY state_name ASC;
 
---Find state_name
-state_name_not_in_state_bag = FOREACH feature_without_join
-                              GENERATE UPPER(feature_state_name) AS state_name;
-
-state_name_not_in_state = DISTINCT state_name_not_in_state_bag;
-
---Order
-sorted_result = ORDER state_name_not_in_state
-                BY state_name ASC;
-
-STORE sorted_result INTO 'q1' USING PigStorage(',');                 
+STORE sorted_result INTO 'result_distinct' USING PigStorage(',');
