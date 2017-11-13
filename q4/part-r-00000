@@ -1,29 +1,128 @@
-0,Totokoitu,
-0,Totokoitu,
-0,Vaipae,
-0,Vaipae,
-0,Vaipae,
-0,Vaipae,
-0,Vaipae,
-0,Via-Piake,
-0,Via-Piake,
-0,Via-Piake,
-0,Totokoitu,
-0,Totokoitu,
-0,Totokoitu,
-0,Via-Piake,
-0,Via-Piake,
-0,Arutunga,
-0,Arutunga,
-0,Arutunga,
-0,Arutunga,
-0,Arutunga,
-0,Temuriavai,
-0,Temuriavai,
-0,Temuriavai,
-0,Temuriavai,
-0,Temuriavai,
-1,Montgomery,195471
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Nukuao,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneroa,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Oneunga,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Orovaru,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
+0,Pokoinu,
 1,Birmingham,264527
 1,Birmingham,204490
 1,Birmingham,195471
@@ -36,6 +135,107 @@
 1,Mobile,79797
 1,Montgomery,264527
 1,Montgomery,204490
+1,Montgomery,195471
+1,Montgomery,160325
+1,Montgomery,79797
+1,Huntsville,264527
+1,Huntsville,204490
+1,Huntsville,195471
+1,Huntsville,160325
+1,Huntsville,79797
+1,Tuscaloosa,264527
+1,Tuscaloosa,204490
+1,Tuscaloosa,195471
+1,Tuscaloosa,160325
+1,Tuscaloosa,79797
+1,Birmingham,264527
+1,Birmingham,204490
+1,Birmingham,195471
+1,Birmingham,160325
+1,Birmingham,79797
+1,Mobile,264527
+1,Mobile,204490
+1,Mobile,195471
+1,Mobile,160325
+1,Mobile,79797
+1,Montgomery,264527
+1,Montgomery,204490
+1,Montgomery,195471
+1,Montgomery,160325
+1,Montgomery,79797
+1,Huntsville,264527
+1,Huntsville,204490
+1,Huntsville,195471
+1,Huntsville,160325
+1,Huntsville,79797
+1,Tuscaloosa,264527
+1,Tuscaloosa,204490
+1,Tuscaloosa,195471
+1,Tuscaloosa,160325
+1,Tuscaloosa,79797
+1,Birmingham,264527
+1,Birmingham,204490
+1,Birmingham,195471
+1,Birmingham,160325
+1,Birmingham,79797
+1,Mobile,264527
+1,Mobile,204490
+1,Mobile,195471
+1,Mobile,160325
+1,Mobile,79797
+1,Montgomery,264527
+1,Montgomery,204490
+1,Montgomery,195471
+1,Montgomery,160325
+1,Montgomery,79797
+1,Huntsville,264527
+1,Huntsville,204490
+1,Huntsville,195471
+1,Huntsville,160325
+1,Huntsville,79797
+1,Tuscaloosa,264527
+1,Tuscaloosa,204490
+1,Tuscaloosa,195471
+1,Tuscaloosa,160325
+1,Tuscaloosa,79797
+1,Birmingham,264527
+1,Birmingham,204490
+1,Birmingham,195471
+1,Birmingham,160325
+1,Birmingham,79797
+1,Mobile,264527
+1,Mobile,204490
+1,Mobile,195471
+1,Mobile,160325
+1,Mobile,79797
+1,Montgomery,264527
+1,Montgomery,204490
+1,Montgomery,195471
+1,Montgomery,160325
+1,Montgomery,79797
+1,Huntsville,264527
+1,Huntsville,204490
+1,Huntsville,195471
+1,Huntsville,160325
+1,Huntsville,79797
+1,Tuscaloosa,264527
+1,Tuscaloosa,204490
+1,Tuscaloosa,195471
+1,Tuscaloosa,160325
+1,Tuscaloosa,79797
+1,Birmingham,264527
+1,Birmingham,204490
+1,Birmingham,195471
+1,Birmingham,160325
+1,Birmingham,79797
+1,Mobile,264527
+1,Mobile,204490
+1,Mobile,195471
+1,Mobile,160325
+1,Mobile,79797
+1,Montgomery,264527
+1,Montgomery,204490
+1,Montgomery,195471
 1,Montgomery,160325
 1,Montgomery,79797
 1,Huntsville,264527
@@ -73,7 +273,106 @@
 2,Ketchikan,28758
 2,Ketchikan,11249
 2,Ketchikan,8781
-4,Mesa,313649
+2,Anchorage,253649
+2,Anchorage,34321
+2,Anchorage,28758
+2,Anchorage,11249
+2,Anchorage,8781
+2,Fairbanks,253649
+2,Fairbanks,34321
+2,Fairbanks,28758
+2,Fairbanks,11249
+2,Fairbanks,8781
+2,Juneau,253649
+2,Juneau,34321
+2,Juneau,28758
+2,Juneau,11249
+2,Juneau,8781
+2,College,253649
+2,College,34321
+2,College,28758
+2,College,11249
+2,College,8781
+2,Ketchikan,253649
+2,Ketchikan,34321
+2,Ketchikan,28758
+2,Ketchikan,11249
+2,Ketchikan,8781
+2,Anchorage,253649
+2,Anchorage,34321
+2,Anchorage,28758
+2,Anchorage,11249
+2,Anchorage,8781
+2,Fairbanks,253649
+2,Fairbanks,34321
+2,Fairbanks,28758
+2,Fairbanks,11249
+2,Fairbanks,8781
+2,Juneau,253649
+2,Juneau,34321
+2,Juneau,28758
+2,Juneau,11249
+2,Juneau,8781
+2,College,253649
+2,College,34321
+2,College,28758
+2,College,11249
+2,College,8781
+2,Ketchikan,253649
+2,Ketchikan,34321
+2,Ketchikan,28758
+2,Ketchikan,11249
+2,Ketchikan,8781
+2,Anchorage,253649
+2,Anchorage,34321
+2,Anchorage,28758
+2,Anchorage,11249
+2,Anchorage,8781
+2,Fairbanks,253649
+2,Fairbanks,34321
+2,Fairbanks,28758
+2,Fairbanks,11249
+2,Fairbanks,8781
+2,Juneau,253649
+2,Juneau,34321
+2,Juneau,28758
+2,Juneau,11249
+2,Juneau,8781
+2,College,253649
+2,College,34321
+2,College,28758
+2,College,11249
+2,College,8781
+2,Ketchikan,253649
+2,Ketchikan,34321
+2,Ketchikan,28758
+2,Ketchikan,11249
+2,Ketchikan,8781
+2,Anchorage,253649
+2,Anchorage,34321
+2,Anchorage,28758
+2,Anchorage,11249
+2,Anchorage,8781
+2,Fairbanks,253649
+2,Fairbanks,34321
+2,Fairbanks,28758
+2,Fairbanks,11249
+2,Fairbanks,8781
+2,Juneau,253649
+2,Juneau,34321
+2,Juneau,28758
+2,Juneau,11249
+2,Juneau,8781
+2,College,253649
+2,College,34321
+2,College,28758
+2,College,11249
+2,College,8781
+2,Ketchikan,253649
+2,Ketchikan,34321
+2,Ketchikan,28758
+2,Ketchikan,11249
+2,Ketchikan,8781
 4,Phoenix,1048949
 4,Phoenix,434726
 4,Phoenix,313649
@@ -86,6 +385,7 @@
 4,Tucson,152439
 4,Mesa,1048949
 4,Mesa,434726
+4,Mesa,313649
 4,Mesa,168439
 4,Mesa,152439
 4,Glendale,1048949
@@ -98,6 +398,107 @@
 4,Scottsdale,313649
 4,Scottsdale,168439
 4,Scottsdale,152439
+4,Phoenix,1048949
+4,Phoenix,434726
+4,Phoenix,313649
+4,Phoenix,168439
+4,Phoenix,152439
+4,Tucson,1048949
+4,Tucson,434726
+4,Tucson,313649
+4,Tucson,168439
+4,Tucson,152439
+4,Mesa,1048949
+4,Mesa,434726
+4,Mesa,313649
+4,Mesa,168439
+4,Mesa,152439
+4,Glendale,1048949
+4,Glendale,434726
+4,Glendale,313649
+4,Glendale,168439
+4,Glendale,152439
+4,Scottsdale,1048949
+4,Scottsdale,434726
+4,Scottsdale,313649
+4,Scottsdale,168439
+4,Scottsdale,152439
+4,Phoenix,1048949
+4,Phoenix,434726
+4,Phoenix,313649
+4,Phoenix,168439
+4,Phoenix,152439
+4,Tucson,1048949
+4,Tucson,434726
+4,Tucson,313649
+4,Tucson,168439
+4,Tucson,152439
+4,Mesa,1048949
+4,Mesa,434726
+4,Mesa,313649
+4,Mesa,168439
+4,Mesa,152439
+4,Glendale,1048949
+4,Glendale,434726
+4,Glendale,313649
+4,Glendale,168439
+4,Glendale,152439
+4,Scottsdale,1048949
+4,Scottsdale,434726
+4,Scottsdale,313649
+4,Scottsdale,168439
+4,Scottsdale,152439
+4,Phoenix,1048949
+4,Phoenix,434726
+4,Phoenix,313649
+4,Phoenix,168439
+4,Phoenix,152439
+4,Tucson,1048949
+4,Tucson,434726
+4,Tucson,313649
+4,Tucson,168439
+4,Tucson,152439
+4,Mesa,1048949
+4,Mesa,434726
+4,Mesa,313649
+4,Mesa,168439
+4,Mesa,152439
+4,Glendale,1048949
+4,Glendale,434726
+4,Glendale,313649
+4,Glendale,168439
+4,Glendale,152439
+4,Scottsdale,1048949
+4,Scottsdale,434726
+4,Scottsdale,313649
+4,Scottsdale,168439
+4,Scottsdale,152439
+4,Phoenix,1048949
+4,Phoenix,434726
+4,Phoenix,313649
+4,Phoenix,168439
+4,Phoenix,152439
+4,Tucson,1048949
+4,Tucson,434726
+4,Tucson,313649
+4,Tucson,168439
+4,Tucson,152439
+4,Mesa,1048949
+4,Mesa,434726
+4,Mesa,313649
+4,Mesa,168439
+4,Mesa,152439
+4,Glendale,1048949
+4,Glendale,434726
+4,Glendale,313649
+4,Glendale,168439
+4,Glendale,152439
+4,Scottsdale,1048949
+4,Scottsdale,434726
+4,Scottsdale,313649
+4,Scottsdale,168439
+4,Scottsdale,152439
+5,Little Rock,178136
 5,Little Rock,74480
 5,Little Rock,62197
 5,Little Rock,57971
@@ -110,7 +511,6 @@
 5,North Little Rock,178136
 5,North Little Rock,74480
 5,North Little Rock,62197
-5,Little Rock,178136
 5,North Little Rock,57971
 5,North Little Rock,50209
 5,Pine Bluff,178136
@@ -123,7 +523,106 @@
 5,Jonesboro,62197
 5,Jonesboro,57971
 5,Jonesboro,50209
-6,San Jose,816884
+5,Little Rock,178136
+5,Little Rock,74480
+5,Little Rock,62197
+5,Little Rock,57971
+5,Little Rock,50209
+5,Fort Smith,178136
+5,Fort Smith,74480
+5,Fort Smith,62197
+5,Fort Smith,57971
+5,Fort Smith,50209
+5,North Little Rock,178136
+5,North Little Rock,74480
+5,North Little Rock,62197
+5,North Little Rock,57971
+5,North Little Rock,50209
+5,Pine Bluff,178136
+5,Pine Bluff,74480
+5,Pine Bluff,62197
+5,Pine Bluff,57971
+5,Pine Bluff,50209
+5,Jonesboro,178136
+5,Jonesboro,74480
+5,Jonesboro,62197
+5,Jonesboro,57971
+5,Jonesboro,50209
+5,Little Rock,178136
+5,Little Rock,74480
+5,Little Rock,62197
+5,Little Rock,57971
+5,Little Rock,50209
+5,Fort Smith,178136
+5,Fort Smith,74480
+5,Fort Smith,62197
+5,Fort Smith,57971
+5,Fort Smith,50209
+5,North Little Rock,178136
+5,North Little Rock,74480
+5,North Little Rock,62197
+5,North Little Rock,57971
+5,North Little Rock,50209
+5,Pine Bluff,178136
+5,Pine Bluff,74480
+5,Pine Bluff,62197
+5,Pine Bluff,57971
+5,Pine Bluff,50209
+5,Jonesboro,178136
+5,Jonesboro,74480
+5,Jonesboro,62197
+5,Jonesboro,57971
+5,Jonesboro,50209
+5,Little Rock,178136
+5,Little Rock,74480
+5,Little Rock,62197
+5,Little Rock,57971
+5,Little Rock,50209
+5,Fort Smith,178136
+5,Fort Smith,74480
+5,Fort Smith,62197
+5,Fort Smith,57971
+5,Fort Smith,50209
+5,North Little Rock,178136
+5,North Little Rock,74480
+5,North Little Rock,62197
+5,North Little Rock,57971
+5,North Little Rock,50209
+5,Pine Bluff,178136
+5,Pine Bluff,74480
+5,Pine Bluff,62197
+5,Pine Bluff,57971
+5,Pine Bluff,50209
+5,Jonesboro,178136
+5,Jonesboro,74480
+5,Jonesboro,62197
+5,Jonesboro,57971
+5,Jonesboro,50209
+5,Little Rock,178136
+5,Little Rock,74480
+5,Little Rock,62197
+5,Little Rock,57971
+5,Little Rock,50209
+5,Fort Smith,178136
+5,Fort Smith,74480
+5,Fort Smith,62197
+5,Fort Smith,57971
+5,Fort Smith,50209
+5,North Little Rock,178136
+5,North Little Rock,74480
+5,North Little Rock,62197
+5,North Little Rock,57971
+5,North Little Rock,50209
+5,Pine Bluff,178136
+5,Pine Bluff,74480
+5,Pine Bluff,62197
+5,Pine Bluff,57971
+5,Pine Bluff,50209
+5,Jonesboro,178136
+5,Jonesboro,74480
+5,Jonesboro,62197
+5,Jonesboro,57971
+5,Jonesboro,50209
 6,Los Angeles,3448613
 6,Los Angeles,1151977
 6,Los Angeles,816884
@@ -136,6 +635,7 @@
 6,San Diego,433852
 6,San Jose,3448613
 6,San Jose,1151977
+6,San Jose,816884
 6,San Jose,734676
 6,San Jose,433852
 6,San Francisco,3448613
@@ -148,6 +648,206 @@
 6,Long Beach,816884
 6,Long Beach,734676
 6,Long Beach,433852
+6,Los Angeles,3448613
+6,Los Angeles,1151977
+6,Los Angeles,816884
+6,Los Angeles,734676
+6,Los Angeles,433852
+6,San Diego,3448613
+6,San Diego,1151977
+6,San Diego,816884
+6,San Diego,734676
+6,San Diego,433852
+6,San Jose,3448613
+6,San Jose,1151977
+6,San Jose,816884
+6,San Jose,734676
+6,San Jose,433852
+6,San Francisco,3448613
+6,San Francisco,1151977
+6,San Francisco,816884
+6,San Francisco,734676
+6,San Francisco,433852
+6,Long Beach,3448613
+6,Long Beach,1151977
+6,Long Beach,816884
+6,Long Beach,734676
+6,Long Beach,433852
+6,Los Angeles,3448613
+6,Los Angeles,1151977
+6,Los Angeles,816884
+6,Los Angeles,734676
+6,Los Angeles,433852
+6,San Diego,3448613
+6,San Diego,1151977
+6,San Diego,816884
+6,San Diego,734676
+6,San Diego,433852
+6,San Jose,3448613
+6,San Jose,1151977
+6,San Jose,816884
+6,San Jose,734676
+6,San Jose,433852
+6,San Francisco,3448613
+6,San Francisco,1151977
+6,San Francisco,816884
+6,San Francisco,734676
+6,San Francisco,433852
+6,Long Beach,3448613
+6,Long Beach,1151977
+6,Long Beach,816884
+6,Long Beach,734676
+6,Long Beach,433852
+6,Los Angeles,3448613
+6,Los Angeles,1151977
+6,Los Angeles,816884
+6,Los Angeles,734676
+6,Los Angeles,433852
+6,San Diego,3448613
+6,San Diego,1151977
+6,San Diego,816884
+6,San Diego,734676
+6,San Diego,433852
+6,San Jose,3448613
+6,San Jose,1151977
+6,San Jose,816884
+6,San Jose,734676
+6,San Jose,433852
+6,San Francisco,3448613
+6,San Francisco,1151977
+6,San Francisco,816884
+6,San Francisco,734676
+6,San Francisco,433852
+6,Long Beach,3448613
+6,Long Beach,1151977
+6,Long Beach,816884
+6,Long Beach,734676
+6,Long Beach,433852
+6,Los Angeles,3448613
+6,Los Angeles,1151977
+6,Los Angeles,816884
+6,Los Angeles,734676
+6,Los Angeles,433852
+6,San Diego,3448613
+6,San Diego,1151977
+6,San Diego,816884
+6,San Diego,734676
+6,San Diego,433852
+6,San Jose,3448613
+6,San Jose,1151977
+6,San Jose,816884
+6,San Jose,734676
+6,San Jose,433852
+6,San Francisco,3448613
+6,San Francisco,1151977
+6,San Francisco,816884
+6,San Francisco,734676
+6,San Francisco,433852
+6,Long Beach,3448613
+6,Long Beach,1151977
+6,Long Beach,816884
+6,Long Beach,734676
+6,Long Beach,433852
+8,Denver,493559
+8,Denver,316480
+8,Denver,250717
+8,Denver,126031
+8,Denver,100471
+8,Colorado Springs,493559
+8,Colorado Springs,316480
+8,Colorado Springs,250717
+8,Colorado Springs,126031
+8,Colorado Springs,100471
+8,Aurora,493559
+8,Aurora,316480
+8,Aurora,250717
+8,Aurora,126031
+8,Aurora,100471
+8,Lakewood,493559
+8,Lakewood,316480
+8,Lakewood,250717
+8,Lakewood,126031
+8,Lakewood,100471
+8,Pueblo,493559
+8,Pueblo,316480
+8,Pueblo,250717
+8,Pueblo,126031
+8,Pueblo,100471
+8,Denver,493559
+8,Denver,316480
+8,Denver,250717
+8,Denver,126031
+8,Denver,100471
+8,Colorado Springs,493559
+8,Colorado Springs,316480
+8,Colorado Springs,250717
+8,Colorado Springs,126031
+8,Colorado Springs,100471
+8,Aurora,493559
+8,Aurora,316480
+8,Aurora,250717
+8,Aurora,126031
+8,Aurora,100471
+8,Lakewood,493559
+8,Lakewood,316480
+8,Lakewood,250717
+8,Lakewood,126031
+8,Lakewood,100471
+8,Pueblo,493559
+8,Pueblo,316480
+8,Pueblo,250717
+8,Pueblo,126031
+8,Pueblo,100471
+8,Denver,493559
+8,Denver,316480
+8,Denver,250717
+8,Denver,126031
+8,Denver,100471
+8,Colorado Springs,493559
+8,Colorado Springs,316480
+8,Colorado Springs,250717
+8,Colorado Springs,126031
+8,Colorado Springs,100471
+8,Aurora,493559
+8,Aurora,316480
+8,Aurora,250717
+8,Aurora,126031
+8,Aurora,100471
+8,Lakewood,493559
+8,Lakewood,316480
+8,Lakewood,250717
+8,Lakewood,126031
+8,Lakewood,100471
+8,Pueblo,493559
+8,Pueblo,316480
+8,Pueblo,250717
+8,Pueblo,126031
+8,Pueblo,100471
+8,Denver,493559
+8,Denver,316480
+8,Denver,250717
+8,Denver,126031
+8,Denver,100471
+8,Colorado Springs,493559
+8,Colorado Springs,316480
+8,Colorado Springs,250717
+8,Colorado Springs,126031
+8,Colorado Springs,100471
+8,Aurora,493559
+8,Aurora,316480
+8,Aurora,250717
+8,Aurora,126031
+8,Aurora,100471
+8,Lakewood,493559
+8,Lakewood,316480
+8,Lakewood,250717
+8,Lakewood,126031
+8,Lakewood,100471
+8,Pueblo,493559
+8,Pueblo,316480
+8,Pueblo,250717
+8,Pueblo,126031
+8,Pueblo,100471
 8,Denver,493559
 8,Denver,316480
 8,Denver,250717
@@ -198,6 +898,107 @@
 9,Waterbury,119604
 9,Waterbury,107199
 9,Waterbury,103523
+9,Bridgeport,132919
+9,Bridgeport,124196
+9,Bridgeport,119604
+9,Bridgeport,107199
+9,Bridgeport,103523
+9,Hartford,132919
+9,Hartford,124196
+9,Hartford,119604
+9,Hartford,107199
+9,Hartford,103523
+9,New Haven,132919
+9,New Haven,124196
+9,New Haven,119604
+9,New Haven,107199
+9,New Haven,103523
+9,Stamford,132919
+9,Stamford,124196
+9,Stamford,119604
+9,Stamford,107199
+9,Stamford,103523
+9,Waterbury,132919
+9,Waterbury,124196
+9,Waterbury,119604
+9,Waterbury,107199
+9,Waterbury,103523
+9,Bridgeport,132919
+9,Bridgeport,124196
+9,Bridgeport,119604
+9,Bridgeport,107199
+9,Bridgeport,103523
+9,Hartford,132919
+9,Hartford,124196
+9,Hartford,119604
+9,Hartford,107199
+9,Hartford,103523
+9,New Haven,132919
+9,New Haven,124196
+9,New Haven,119604
+9,New Haven,107199
+9,New Haven,103523
+9,Stamford,132919
+9,Stamford,124196
+9,Stamford,119604
+9,Stamford,107199
+9,Stamford,103523
+9,Waterbury,132919
+9,Waterbury,124196
+9,Waterbury,119604
+9,Waterbury,107199
+9,Waterbury,103523
+9,Bridgeport,132919
+9,Bridgeport,124196
+9,Bridgeport,119604
+9,Bridgeport,107199
+9,Bridgeport,103523
+9,Hartford,132919
+9,Hartford,124196
+9,Hartford,119604
+9,Hartford,107199
+9,Hartford,103523
+9,New Haven,132919
+9,New Haven,124196
+9,New Haven,119604
+9,New Haven,107199
+9,New Haven,103523
+9,Stamford,132919
+9,Stamford,124196
+9,Stamford,119604
+9,Stamford,107199
+9,Stamford,103523
+9,Waterbury,132919
+9,Waterbury,124196
+9,Waterbury,119604
+9,Waterbury,107199
+9,Waterbury,103523
+9,Bridgeport,132919
+9,Bridgeport,124196
+9,Bridgeport,119604
+9,Bridgeport,107199
+9,Bridgeport,103523
+9,Hartford,132919
+9,Hartford,124196
+9,Hartford,119604
+9,Hartford,107199
+9,Hartford,103523
+9,New Haven,132919
+9,New Haven,124196
+9,New Haven,119604
+9,New Haven,107199
+9,New Haven,103523
+9,Stamford,132919
+9,Stamford,124196
+9,Stamford,119604
+9,Stamford,107199
+9,Stamford,103523
+9,Waterbury,132919
+9,Waterbury,124196
+9,Waterbury,119604
+9,Waterbury,107199
+9,Waterbury,103523
+10,Wilmington,72799
 10,Wilmington,28876
 10,Wilmington,27386
 10,Wilmington,15307
@@ -210,7 +1011,6 @@
 10,Newark,72799
 10,Newark,28876
 10,Newark,27386
-10,Wilmington,72799
 10,Newark,15307
 10,Newark,9800
 10,Brookside,72799
@@ -223,31 +1023,331 @@
 10,Claymont,27386
 10,Claymont,15307
 10,Claymont,9800
-11,Park Place,
+10,Wilmington,72799
+10,Wilmington,28876
+10,Wilmington,27386
+10,Wilmington,15307
+10,Wilmington,9800
+10,Dover,72799
+10,Dover,28876
+10,Dover,27386
+10,Dover,15307
+10,Dover,9800
+10,Newark,72799
+10,Newark,28876
+10,Newark,27386
+10,Newark,15307
+10,Newark,9800
+10,Brookside,72799
+10,Brookside,28876
+10,Brookside,27386
+10,Brookside,15307
+10,Brookside,9800
+10,Claymont,72799
+10,Claymont,28876
+10,Claymont,27386
+10,Claymont,15307
+10,Claymont,9800
+10,Wilmington,72799
+10,Wilmington,28876
+10,Wilmington,27386
+10,Wilmington,15307
+10,Wilmington,9800
+10,Dover,72799
+10,Dover,28876
+10,Dover,27386
+10,Dover,15307
+10,Dover,9800
+10,Newark,72799
+10,Newark,28876
+10,Newark,27386
+10,Newark,15307
+10,Newark,9800
+10,Brookside,72799
+10,Brookside,28876
+10,Brookside,27386
+10,Brookside,15307
+10,Brookside,9800
+10,Claymont,72799
+10,Claymont,28876
+10,Claymont,27386
+10,Claymont,15307
+10,Claymont,9800
+10,Wilmington,72799
+10,Wilmington,28876
+10,Wilmington,27386
+10,Wilmington,15307
+10,Wilmington,9800
+10,Dover,72799
+10,Dover,28876
+10,Dover,27386
+10,Dover,15307
+10,Dover,9800
+10,Newark,72799
+10,Newark,28876
+10,Newark,27386
+10,Newark,15307
+10,Newark,9800
+10,Brookside,72799
+10,Brookside,28876
+10,Brookside,27386
+10,Brookside,15307
+10,Brookside,9800
+10,Claymont,72799
+10,Claymont,28876
+10,Claymont,27386
+10,Claymont,15307
+10,Claymont,9800
+10,Wilmington,72799
+10,Wilmington,28876
+10,Wilmington,27386
+10,Wilmington,15307
+10,Wilmington,9800
+10,Dover,72799
+10,Dover,28876
+10,Dover,27386
+10,Dover,15307
+10,Dover,9800
+10,Newark,72799
+10,Newark,28876
+10,Newark,27386
+10,Newark,15307
+10,Newark,9800
+10,Brookside,72799
+10,Brookside,28876
+10,Brookside,27386
+10,Brookside,15307
+10,Brookside,9800
+10,Claymont,72799
+10,Claymont,28876
+10,Claymont,27386
+10,Claymont,15307
+10,Claymont,9800
 11,Washington,567094
 11,Washington,
 11,Washington,
 11,Washington,
 11,Washington,
-11,Northeast Boundary (subdivision),567094
-11,Northeast Boundary (subdivision),
-11,Northeast Boundary (subdivision),
-11,Northeast Boundary (subdivision),
-11,Northeast Boundary (subdivision),
-11,Park Place,567094
-11,Park Place,
-11,Park Place,
-11,Park Place,
-11,Park View,567094
-11,Park View,
-11,Park View,
-11,Park View,
-11,Park View,
-11,Penn Branch (subdivision),567094
-11,Penn Branch (subdivision),
-11,Penn Branch (subdivision),
-11,Penn Branch (subdivision),
-11,Penn Branch (subdivision),
+11,Adams Morgan (subdivision),567094
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Anacostia,567094
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Barnaby Terrace,567094
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Woods,567094
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Washington,567094
+11,Washington,
+11,Washington,
+11,Washington,
+11,Washington,
+11,Adams Morgan (subdivision),567094
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Anacostia,567094
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Barnaby Terrace,567094
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Woods,567094
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Washington,567094
+11,Washington,
+11,Washington,
+11,Washington,
+11,Washington,
+11,Adams Morgan (subdivision),567094
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Anacostia,567094
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Barnaby Terrace,567094
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Woods,567094
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Washington,567094
+11,Washington,
+11,Washington,
+11,Washington,
+11,Washington,
+11,Adams Morgan (subdivision),567094
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Anacostia,567094
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Barnaby Terrace,567094
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Woods,567094
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Washington,567094
+11,Washington,
+11,Washington,
+11,Washington,
+11,Washington,
+11,Adams Morgan (subdivision),567094
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Adams Morgan (subdivision),
+11,Anacostia,567094
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Anacostia,
+11,Barnaby Terrace,567094
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Terrace,
+11,Barnaby Woods,567094
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+11,Barnaby Woods,
+12,Jacksonville,665070
+12,Jacksonville,373024
+12,Jacksonville,285523
+12,Jacksonville,238585
+12,Jacksonville,194120
+12,Miami,665070
+12,Miami,373024
+12,Miami,285523
+12,Miami,238585
+12,Miami,194120
+12,Tampa,665070
+12,Tampa,373024
+12,Tampa,285523
+12,Tampa,238585
+12,Tampa,194120
+12,Saint Petersburg,665070
+12,Saint Petersburg,373024
+12,Saint Petersburg,285523
+12,Saint Petersburg,238585
+12,Saint Petersburg,194120
+12,Hialeah,665070
+12,Hialeah,373024
+12,Hialeah,285523
+12,Hialeah,238585
+12,Hialeah,194120
+12,Jacksonville,665070
+12,Jacksonville,373024
+12,Jacksonville,285523
+12,Jacksonville,238585
+12,Jacksonville,194120
+12,Miami,665070
+12,Miami,373024
+12,Miami,285523
+12,Miami,238585
+12,Miami,194120
+12,Tampa,665070
+12,Tampa,373024
+12,Tampa,285523
+12,Tampa,238585
+12,Tampa,194120
+12,Saint Petersburg,665070
+12,Saint Petersburg,373024
+12,Saint Petersburg,285523
+12,Saint Petersburg,238585
+12,Saint Petersburg,194120
+12,Hialeah,665070
+12,Hialeah,373024
+12,Hialeah,285523
+12,Hialeah,238585
+12,Hialeah,194120
+12,Jacksonville,665070
+12,Jacksonville,373024
+12,Jacksonville,285523
+12,Jacksonville,238585
+12,Jacksonville,194120
+12,Miami,665070
+12,Miami,373024
+12,Miami,285523
+12,Miami,238585
+12,Miami,194120
+12,Tampa,665070
+12,Tampa,373024
+12,Tampa,285523
+12,Tampa,238585
+12,Tampa,194120
+12,Saint Petersburg,665070
+12,Saint Petersburg,373024
+12,Saint Petersburg,285523
+12,Saint Petersburg,238585
+12,Saint Petersburg,194120
+12,Hialeah,665070
+12,Hialeah,373024
+12,Hialeah,285523
+12,Hialeah,238585
+12,Hialeah,194120
+12,Jacksonville,665070
+12,Jacksonville,373024
+12,Jacksonville,285523
+12,Jacksonville,238585
+12,Jacksonville,194120
+12,Miami,665070
+12,Miami,373024
+12,Miami,285523
+12,Miami,238585
+12,Miami,194120
+12,Tampa,665070
+12,Tampa,373024
+12,Tampa,285523
+12,Tampa,238585
+12,Tampa,194120
+12,Saint Petersburg,665070
+12,Saint Petersburg,373024
+12,Saint Petersburg,285523
+12,Saint Petersburg,238585
+12,Saint Petersburg,194120
+12,Hialeah,665070
+12,Hialeah,373024
+12,Hialeah,285523
+12,Hialeah,238585
+12,Hialeah,194120
 12,Jacksonville,665070
 12,Jacksonville,373024
 12,Jacksonville,285523
@@ -298,6 +1398,206 @@
 13,Albany,140597
 13,Albany,109191
 13,Albany,81062
+13,Atlanta,396052
+13,Atlanta,186470
+13,Atlanta,140597
+13,Atlanta,109191
+13,Atlanta,81062
+13,Columbus,396052
+13,Columbus,186470
+13,Columbus,140597
+13,Columbus,109191
+13,Columbus,81062
+13,Savannah,396052
+13,Savannah,186470
+13,Savannah,140597
+13,Savannah,109191
+13,Savannah,81062
+13,Macon,396052
+13,Macon,186470
+13,Macon,140597
+13,Macon,109191
+13,Macon,81062
+13,Albany,396052
+13,Albany,186470
+13,Albany,140597
+13,Albany,109191
+13,Albany,81062
+13,Atlanta,396052
+13,Atlanta,186470
+13,Atlanta,140597
+13,Atlanta,109191
+13,Atlanta,81062
+13,Columbus,396052
+13,Columbus,186470
+13,Columbus,140597
+13,Columbus,109191
+13,Columbus,81062
+13,Savannah,396052
+13,Savannah,186470
+13,Savannah,140597
+13,Savannah,109191
+13,Savannah,81062
+13,Macon,396052
+13,Macon,186470
+13,Macon,140597
+13,Macon,109191
+13,Macon,81062
+13,Albany,396052
+13,Albany,186470
+13,Albany,140597
+13,Albany,109191
+13,Albany,81062
+13,Atlanta,396052
+13,Atlanta,186470
+13,Atlanta,140597
+13,Atlanta,109191
+13,Atlanta,81062
+13,Columbus,396052
+13,Columbus,186470
+13,Columbus,140597
+13,Columbus,109191
+13,Columbus,81062
+13,Savannah,396052
+13,Savannah,186470
+13,Savannah,140597
+13,Savannah,109191
+13,Savannah,81062
+13,Macon,396052
+13,Macon,186470
+13,Macon,140597
+13,Macon,109191
+13,Macon,81062
+13,Albany,396052
+13,Albany,186470
+13,Albany,140597
+13,Albany,109191
+13,Albany,81062
+13,Atlanta,396052
+13,Atlanta,186470
+13,Atlanta,140597
+13,Atlanta,109191
+13,Atlanta,81062
+13,Columbus,396052
+13,Columbus,186470
+13,Columbus,140597
+13,Columbus,109191
+13,Columbus,81062
+13,Savannah,396052
+13,Savannah,186470
+13,Savannah,140597
+13,Savannah,109191
+13,Savannah,81062
+13,Macon,396052
+13,Macon,186470
+13,Macon,140597
+13,Macon,109191
+13,Macon,81062
+13,Albany,396052
+13,Albany,186470
+13,Albany,140597
+13,Albany,109191
+13,Albany,81062
+15,Honolulu,385881
+15,Honolulu,37808
+15,Honolulu,36818
+15,Honolulu,35448
+15,Honolulu,31435
+15,Hilo,385881
+15,Hilo,37808
+15,Hilo,36818
+15,Hilo,35448
+15,Hilo,31435
+15,Kailua,385881
+15,Kailua,37808
+15,Kailua,36818
+15,Kailua,35448
+15,Kailua,31435
+15,Kaneohe,385881
+15,Kaneohe,37808
+15,Kaneohe,36818
+15,Kaneohe,35448
+15,Kaneohe,31435
+15,Waipahu,385881
+15,Waipahu,37808
+15,Waipahu,36818
+15,Waipahu,35448
+15,Waipahu,31435
+15,Honolulu,385881
+15,Honolulu,37808
+15,Honolulu,36818
+15,Honolulu,35448
+15,Honolulu,31435
+15,Hilo,385881
+15,Hilo,37808
+15,Hilo,36818
+15,Hilo,35448
+15,Hilo,31435
+15,Kailua,385881
+15,Kailua,37808
+15,Kailua,36818
+15,Kailua,35448
+15,Kailua,31435
+15,Kaneohe,385881
+15,Kaneohe,37808
+15,Kaneohe,36818
+15,Kaneohe,35448
+15,Kaneohe,31435
+15,Waipahu,385881
+15,Waipahu,37808
+15,Waipahu,36818
+15,Waipahu,35448
+15,Waipahu,31435
+15,Honolulu,385881
+15,Honolulu,37808
+15,Honolulu,36818
+15,Honolulu,35448
+15,Honolulu,31435
+15,Hilo,385881
+15,Hilo,37808
+15,Hilo,36818
+15,Hilo,35448
+15,Hilo,31435
+15,Kailua,385881
+15,Kailua,37808
+15,Kailua,36818
+15,Kailua,35448
+15,Kailua,31435
+15,Kaneohe,385881
+15,Kaneohe,37808
+15,Kaneohe,36818
+15,Kaneohe,35448
+15,Kaneohe,31435
+15,Waipahu,385881
+15,Waipahu,37808
+15,Waipahu,36818
+15,Waipahu,35448
+15,Waipahu,31435
+15,Honolulu,385881
+15,Honolulu,37808
+15,Honolulu,36818
+15,Honolulu,35448
+15,Honolulu,31435
+15,Hilo,385881
+15,Hilo,37808
+15,Hilo,36818
+15,Hilo,35448
+15,Hilo,31435
+15,Kailua,385881
+15,Kailua,37808
+15,Kailua,36818
+15,Kailua,35448
+15,Kailua,31435
+15,Kaneohe,385881
+15,Kaneohe,37808
+15,Kaneohe,36818
+15,Kaneohe,35448
+15,Kaneohe,31435
+15,Waipahu,385881
+15,Waipahu,37808
+15,Waipahu,36818
+15,Waipahu,35448
+15,Waipahu,31435
 15,Honolulu,385881
 15,Honolulu,37808
 15,Honolulu,36818
@@ -348,7 +1648,106 @@
 16,Twin Falls,49634
 16,Twin Falls,35333
 16,Twin Falls,31568
-17,Peoria,112878
+16,Boise,145987
+16,Boise,49928
+16,Boise,49634
+16,Boise,35333
+16,Boise,31568
+16,Idaho Falls,145987
+16,Idaho Falls,49928
+16,Idaho Falls,49634
+16,Idaho Falls,35333
+16,Idaho Falls,31568
+16,Pocatello,145987
+16,Pocatello,49928
+16,Pocatello,49634
+16,Pocatello,35333
+16,Pocatello,31568
+16,Nampa,145987
+16,Nampa,49928
+16,Nampa,49634
+16,Nampa,35333
+16,Nampa,31568
+16,Twin Falls,145987
+16,Twin Falls,49928
+16,Twin Falls,49634
+16,Twin Falls,35333
+16,Twin Falls,31568
+16,Boise,145987
+16,Boise,49928
+16,Boise,49634
+16,Boise,35333
+16,Boise,31568
+16,Idaho Falls,145987
+16,Idaho Falls,49928
+16,Idaho Falls,49634
+16,Idaho Falls,35333
+16,Idaho Falls,31568
+16,Pocatello,145987
+16,Pocatello,49928
+16,Pocatello,49634
+16,Pocatello,35333
+16,Pocatello,31568
+16,Nampa,145987
+16,Nampa,49928
+16,Nampa,49634
+16,Nampa,35333
+16,Nampa,31568
+16,Twin Falls,145987
+16,Twin Falls,49928
+16,Twin Falls,49634
+16,Twin Falls,35333
+16,Twin Falls,31568
+16,Boise,145987
+16,Boise,49928
+16,Boise,49634
+16,Boise,35333
+16,Boise,31568
+16,Idaho Falls,145987
+16,Idaho Falls,49928
+16,Idaho Falls,49634
+16,Idaho Falls,35333
+16,Idaho Falls,31568
+16,Pocatello,145987
+16,Pocatello,49928
+16,Pocatello,49634
+16,Pocatello,35333
+16,Pocatello,31568
+16,Nampa,145987
+16,Nampa,49928
+16,Nampa,49634
+16,Nampa,35333
+16,Nampa,31568
+16,Twin Falls,145987
+16,Twin Falls,49928
+16,Twin Falls,49634
+16,Twin Falls,35333
+16,Twin Falls,31568
+16,Boise,145987
+16,Boise,49928
+16,Boise,49634
+16,Boise,35333
+16,Boise,31568
+16,Idaho Falls,145987
+16,Idaho Falls,49928
+16,Idaho Falls,49634
+16,Idaho Falls,35333
+16,Idaho Falls,31568
+16,Pocatello,145987
+16,Pocatello,49928
+16,Pocatello,49634
+16,Pocatello,35333
+16,Pocatello,31568
+16,Nampa,145987
+16,Nampa,49928
+16,Nampa,49634
+16,Nampa,35333
+16,Nampa,31568
+16,Twin Falls,145987
+16,Twin Falls,49928
+16,Twin Falls,49634
+16,Twin Falls,35333
+16,Twin Falls,31568
 17,Chicago,2731743
 17,Chicago,143263
 17,Chicago,112878
@@ -361,6 +1760,7 @@
 17,Rockford,105938
 17,Peoria,2731743
 17,Peoria,143263
+17,Peoria,112878
 17,Peoria,112313
 17,Peoria,105938
 17,Aurora,2731743
@@ -373,6 +1773,108 @@
 17,Springfield,112878
 17,Springfield,112313
 17,Springfield,105938
+17,Chicago,2731743
+17,Chicago,143263
+17,Chicago,112878
+17,Chicago,112313
+17,Chicago,105938
+17,Rockford,2731743
+17,Rockford,143263
+17,Rockford,112878
+17,Rockford,112313
+17,Rockford,105938
+17,Peoria,2731743
+17,Peoria,143263
+17,Peoria,112878
+17,Peoria,112313
+17,Peoria,105938
+17,Aurora,2731743
+17,Aurora,143263
+17,Aurora,112878
+17,Aurora,112313
+17,Aurora,105938
+17,Springfield,2731743
+17,Springfield,143263
+17,Springfield,112878
+17,Springfield,112313
+17,Springfield,105938
+17,Chicago,2731743
+17,Chicago,143263
+17,Chicago,112878
+17,Chicago,112313
+17,Chicago,105938
+17,Rockford,2731743
+17,Rockford,143263
+17,Rockford,112878
+17,Rockford,112313
+17,Rockford,105938
+17,Peoria,2731743
+17,Peoria,143263
+17,Peoria,112878
+17,Peoria,112313
+17,Peoria,105938
+17,Aurora,2731743
+17,Aurora,143263
+17,Aurora,112878
+17,Aurora,112313
+17,Aurora,105938
+17,Springfield,2731743
+17,Springfield,143263
+17,Springfield,112878
+17,Springfield,112313
+17,Springfield,105938
+17,Chicago,2731743
+17,Chicago,143263
+17,Chicago,112878
+17,Chicago,112313
+17,Chicago,105938
+17,Rockford,2731743
+17,Rockford,143263
+17,Rockford,112878
+17,Rockford,112313
+17,Rockford,105938
+17,Peoria,2731743
+17,Peoria,143263
+17,Peoria,112878
+17,Peoria,112313
+17,Peoria,105938
+17,Aurora,2731743
+17,Aurora,143263
+17,Aurora,112878
+17,Aurora,112313
+17,Aurora,105938
+17,Springfield,2731743
+17,Springfield,143263
+17,Springfield,112878
+17,Springfield,112313
+17,Springfield,105938
+17,Chicago,2731743
+17,Chicago,143263
+17,Chicago,112878
+17,Chicago,112313
+17,Chicago,105938
+17,Rockford,2731743
+17,Rockford,143263
+17,Rockford,112878
+17,Rockford,112313
+17,Rockford,105938
+17,Peoria,2731743
+17,Peoria,143263
+17,Peoria,112878
+17,Peoria,112313
+17,Peoria,105938
+17,Aurora,2731743
+17,Aurora,143263
+17,Aurora,112878
+17,Aurora,112313
+17,Aurora,105938
+17,Springfield,2731743
+17,Springfield,143263
+17,Springfield,112878
+17,Springfield,112313
+17,Springfield,105938
+18,Indianapolis,752279
+18,Indianapolis,183359
 18,Indianapolis,129452
 18,Indianapolis,114256
 18,Indianapolis,105092
@@ -384,8 +1886,6 @@
 18,Evansville,752279
 18,Evansville,183359
 18,Evansville,129452
-18,Indianapolis,752279
-18,Indianapolis,183359
 18,Evansville,114256
 18,Evansville,105092
 18,Gary,752279
@@ -398,7 +1898,106 @@
 18,South Bend,129452
 18,South Bend,114256
 18,South Bend,105092
-19,Davenport,96964
+18,Indianapolis,752279
+18,Indianapolis,183359
+18,Indianapolis,129452
+18,Indianapolis,114256
+18,Indianapolis,105092
+18,Fort Wayne,752279
+18,Fort Wayne,183359
+18,Fort Wayne,129452
+18,Fort Wayne,114256
+18,Fort Wayne,105092
+18,Evansville,752279
+18,Evansville,183359
+18,Evansville,129452
+18,Evansville,114256
+18,Evansville,105092
+18,Gary,752279
+18,Gary,183359
+18,Gary,129452
+18,Gary,114256
+18,Gary,105092
+18,South Bend,752279
+18,South Bend,183359
+18,South Bend,129452
+18,South Bend,114256
+18,South Bend,105092
+18,Indianapolis,752279
+18,Indianapolis,183359
+18,Indianapolis,129452
+18,Indianapolis,114256
+18,Indianapolis,105092
+18,Fort Wayne,752279
+18,Fort Wayne,183359
+18,Fort Wayne,129452
+18,Fort Wayne,114256
+18,Fort Wayne,105092
+18,Evansville,752279
+18,Evansville,183359
+18,Evansville,129452
+18,Evansville,114256
+18,Evansville,105092
+18,Gary,752279
+18,Gary,183359
+18,Gary,129452
+18,Gary,114256
+18,Gary,105092
+18,South Bend,752279
+18,South Bend,183359
+18,South Bend,129452
+18,South Bend,114256
+18,South Bend,105092
+18,Indianapolis,752279
+18,Indianapolis,183359
+18,Indianapolis,129452
+18,Indianapolis,114256
+18,Indianapolis,105092
+18,Fort Wayne,752279
+18,Fort Wayne,183359
+18,Fort Wayne,129452
+18,Fort Wayne,114256
+18,Fort Wayne,105092
+18,Evansville,752279
+18,Evansville,183359
+18,Evansville,129452
+18,Evansville,114256
+18,Evansville,105092
+18,Gary,752279
+18,Gary,183359
+18,Gary,129452
+18,Gary,114256
+18,Gary,105092
+18,South Bend,752279
+18,South Bend,183359
+18,South Bend,129452
+18,South Bend,114256
+18,South Bend,105092
+18,Indianapolis,752279
+18,Indianapolis,183359
+18,Indianapolis,129452
+18,Indianapolis,114256
+18,Indianapolis,105092
+18,Fort Wayne,752279
+18,Fort Wayne,183359
+18,Fort Wayne,129452
+18,Fort Wayne,114256
+18,Fort Wayne,105092
+18,Evansville,752279
+18,Evansville,183359
+18,Evansville,129452
+18,Evansville,114256
+18,Evansville,105092
+18,Gary,752279
+18,Gary,183359
+18,Gary,129452
+18,Gary,114256
+18,Gary,105092
+18,South Bend,752279
+18,South Bend,183359
+18,South Bend,129452
+18,South Bend,114256
+18,South Bend,105092
 19,Des Moines,193965
 19,Des Moines,113438
 19,Des Moines,96964
@@ -411,6 +2010,107 @@
 19,Cedar Rapids,66537
 19,Davenport,193965
 19,Davenport,113438
+19,Davenport,96964
+19,Davenport,82735
+19,Davenport,66537
+19,Sioux City,193965
+19,Sioux City,113438
+19,Sioux City,96964
+19,Sioux City,82735
+19,Sioux City,66537
+19,Waterloo,193965
+19,Waterloo,113438
+19,Waterloo,96964
+19,Waterloo,82735
+19,Waterloo,66537
+19,Des Moines,193965
+19,Des Moines,113438
+19,Des Moines,96964
+19,Des Moines,82735
+19,Des Moines,66537
+19,Cedar Rapids,193965
+19,Cedar Rapids,113438
+19,Cedar Rapids,96964
+19,Cedar Rapids,82735
+19,Cedar Rapids,66537
+19,Davenport,193965
+19,Davenport,113438
+19,Davenport,96964
+19,Davenport,82735
+19,Davenport,66537
+19,Sioux City,193965
+19,Sioux City,113438
+19,Sioux City,96964
+19,Sioux City,82735
+19,Sioux City,66537
+19,Waterloo,193965
+19,Waterloo,113438
+19,Waterloo,96964
+19,Waterloo,82735
+19,Waterloo,66537
+19,Des Moines,193965
+19,Des Moines,113438
+19,Des Moines,96964
+19,Des Moines,82735
+19,Des Moines,66537
+19,Cedar Rapids,193965
+19,Cedar Rapids,113438
+19,Cedar Rapids,96964
+19,Cedar Rapids,82735
+19,Cedar Rapids,66537
+19,Davenport,193965
+19,Davenport,113438
+19,Davenport,96964
+19,Davenport,82735
+19,Davenport,66537
+19,Sioux City,193965
+19,Sioux City,113438
+19,Sioux City,96964
+19,Sioux City,82735
+19,Sioux City,66537
+19,Waterloo,193965
+19,Waterloo,113438
+19,Waterloo,96964
+19,Waterloo,82735
+19,Waterloo,66537
+19,Des Moines,193965
+19,Des Moines,113438
+19,Des Moines,96964
+19,Des Moines,82735
+19,Des Moines,66537
+19,Cedar Rapids,193965
+19,Cedar Rapids,113438
+19,Cedar Rapids,96964
+19,Cedar Rapids,82735
+19,Cedar Rapids,66537
+19,Davenport,193965
+19,Davenport,113438
+19,Davenport,96964
+19,Davenport,82735
+19,Davenport,66537
+19,Sioux City,193965
+19,Sioux City,113438
+19,Sioux City,96964
+19,Sioux City,82735
+19,Sioux City,66537
+19,Waterloo,193965
+19,Waterloo,113438
+19,Waterloo,96964
+19,Waterloo,82735
+19,Waterloo,66537
+19,Des Moines,193965
+19,Des Moines,113438
+19,Des Moines,96964
+19,Des Moines,82735
+19,Des Moines,66537
+19,Cedar Rapids,193965
+19,Cedar Rapids,113438
+19,Cedar Rapids,96964
+19,Cedar Rapids,82735
+19,Cedar Rapids,66537
+19,Davenport,193965
+19,Davenport,113438
+19,Davenport,96964
 19,Davenport,82735
 19,Davenport,66537
 19,Sioux City,193965
@@ -448,7 +2148,106 @@
 20,Olathe,125225
 20,Olathe,120646
 20,Olathe,72455
-21,Lexington,225366
+20,Wichita,310236
+20,Wichita,142630
+20,Wichita,125225
+20,Wichita,120646
+20,Wichita,72455
+20,Kansas City,310236
+20,Kansas City,142630
+20,Kansas City,125225
+20,Kansas City,120646
+20,Kansas City,72455
+20,Overland Park,310236
+20,Overland Park,142630
+20,Overland Park,125225
+20,Overland Park,120646
+20,Overland Park,72455
+20,Topeka,310236
+20,Topeka,142630
+20,Topeka,125225
+20,Topeka,120646
+20,Topeka,72455
+20,Olathe,310236
+20,Olathe,142630
+20,Olathe,125225
+20,Olathe,120646
+20,Olathe,72455
+20,Wichita,310236
+20,Wichita,142630
+20,Wichita,125225
+20,Wichita,120646
+20,Wichita,72455
+20,Kansas City,310236
+20,Kansas City,142630
+20,Kansas City,125225
+20,Kansas City,120646
+20,Kansas City,72455
+20,Overland Park,310236
+20,Overland Park,142630
+20,Overland Park,125225
+20,Overland Park,120646
+20,Overland Park,72455
+20,Topeka,310236
+20,Topeka,142630
+20,Topeka,125225
+20,Topeka,120646
+20,Topeka,72455
+20,Olathe,310236
+20,Olathe,142630
+20,Olathe,125225
+20,Olathe,120646
+20,Olathe,72455
+20,Wichita,310236
+20,Wichita,142630
+20,Wichita,125225
+20,Wichita,120646
+20,Wichita,72455
+20,Kansas City,310236
+20,Kansas City,142630
+20,Kansas City,125225
+20,Kansas City,120646
+20,Kansas City,72455
+20,Overland Park,310236
+20,Overland Park,142630
+20,Overland Park,125225
+20,Overland Park,120646
+20,Overland Park,72455
+20,Topeka,310236
+20,Topeka,142630
+20,Topeka,125225
+20,Topeka,120646
+20,Topeka,72455
+20,Olathe,310236
+20,Olathe,142630
+20,Olathe,125225
+20,Olathe,120646
+20,Olathe,72455
+20,Wichita,310236
+20,Wichita,142630
+20,Wichita,125225
+20,Wichita,120646
+20,Wichita,72455
+20,Kansas City,310236
+20,Kansas City,142630
+20,Kansas City,125225
+20,Kansas City,120646
+20,Kansas City,72455
+20,Overland Park,310236
+20,Overland Park,142630
+20,Overland Park,125225
+20,Overland Park,120646
+20,Overland Park,72455
+20,Topeka,310236
+20,Topeka,142630
+20,Topeka,125225
+20,Topeka,120646
+20,Topeka,72455
+20,Olathe,310236
+20,Olathe,142630
+20,Olathe,125225
+20,Olathe,120646
+20,Olathe,72455
 21,Louisville,270308
 21,Louisville,237612
 21,Louisville,225366
@@ -461,6 +2260,7 @@
 21,Lexington-Fayette,45451
 21,Lexington,270308
 21,Lexington,237612
+21,Lexington,225366
 21,Lexington,53645
 21,Lexington,45451
 21,Owensboro,270308
@@ -473,6 +2273,107 @@
 21,Bowling Green,225366
 21,Bowling Green,53645
 21,Bowling Green,45451
+21,Louisville,270308
+21,Louisville,237612
+21,Louisville,225366
+21,Louisville,53645
+21,Louisville,45451
+21,Lexington-Fayette,270308
+21,Lexington-Fayette,237612
+21,Lexington-Fayette,225366
+21,Lexington-Fayette,53645
+21,Lexington-Fayette,45451
+21,Lexington,270308
+21,Lexington,237612
+21,Lexington,225366
+21,Lexington,53645
+21,Lexington,45451
+21,Owensboro,270308
+21,Owensboro,237612
+21,Owensboro,225366
+21,Owensboro,53645
+21,Owensboro,45451
+21,Bowling Green,270308
+21,Bowling Green,237612
+21,Bowling Green,225366
+21,Bowling Green,53645
+21,Bowling Green,45451
+21,Louisville,270308
+21,Louisville,237612
+21,Louisville,225366
+21,Louisville,53645
+21,Louisville,45451
+21,Lexington-Fayette,270308
+21,Lexington-Fayette,237612
+21,Lexington-Fayette,225366
+21,Lexington-Fayette,53645
+21,Lexington-Fayette,45451
+21,Lexington,270308
+21,Lexington,237612
+21,Lexington,225366
+21,Lexington,53645
+21,Lexington,45451
+21,Owensboro,270308
+21,Owensboro,237612
+21,Owensboro,225366
+21,Owensboro,53645
+21,Owensboro,45451
+21,Bowling Green,270308
+21,Bowling Green,237612
+21,Bowling Green,225366
+21,Bowling Green,53645
+21,Bowling Green,45451
+21,Louisville,270308
+21,Louisville,237612
+21,Louisville,225366
+21,Louisville,53645
+21,Louisville,45451
+21,Lexington-Fayette,270308
+21,Lexington-Fayette,237612
+21,Lexington-Fayette,225366
+21,Lexington-Fayette,53645
+21,Lexington-Fayette,45451
+21,Lexington,270308
+21,Lexington,237612
+21,Lexington,225366
+21,Lexington,53645
+21,Lexington,45451
+21,Owensboro,270308
+21,Owensboro,237612
+21,Owensboro,225366
+21,Owensboro,53645
+21,Owensboro,45451
+21,Bowling Green,270308
+21,Bowling Green,237612
+21,Bowling Green,225366
+21,Bowling Green,53645
+21,Bowling Green,45451
+21,Louisville,270308
+21,Louisville,237612
+21,Louisville,225366
+21,Louisville,53645
+21,Louisville,45451
+21,Lexington-Fayette,270308
+21,Lexington-Fayette,237612
+21,Lexington-Fayette,225366
+21,Lexington-Fayette,53645
+21,Lexington-Fayette,45451
+21,Lexington,270308
+21,Lexington,237612
+21,Lexington,225366
+21,Lexington,53645
+21,Lexington,45451
+21,Owensboro,270308
+21,Owensboro,237612
+21,Owensboro,225366
+21,Owensboro,53645
+21,Owensboro,45451
+21,Bowling Green,270308
+21,Bowling Green,237612
+21,Bowling Green,225366
+21,Bowling Green,53645
+21,Bowling Green,45451
+22,New Orleans,484149
 22,New Orleans,227482
 22,New Orleans,196982
 22,New Orleans,149428
@@ -485,7 +2386,6 @@
 22,Shreveport,484149
 22,Shreveport,227482
 22,Shreveport,196982
-22,New Orleans,484149
 22,Shreveport,149428
 22,Shreveport,102281
 22,Metairie,484149
@@ -498,7 +2398,106 @@
 22,Lafayette,196982
 22,Lafayette,149428
 22,Lafayette,102281
-23,Bangor,32004
+22,New Orleans,484149
+22,New Orleans,227482
+22,New Orleans,196982
+22,New Orleans,149428
+22,New Orleans,102281
+22,Baton Rouge,484149
+22,Baton Rouge,227482
+22,Baton Rouge,196982
+22,Baton Rouge,149428
+22,Baton Rouge,102281
+22,Shreveport,484149
+22,Shreveport,227482
+22,Shreveport,196982
+22,Shreveport,149428
+22,Shreveport,102281
+22,Metairie,484149
+22,Metairie,227482
+22,Metairie,196982
+22,Metairie,149428
+22,Metairie,102281
+22,Lafayette,484149
+22,Lafayette,227482
+22,Lafayette,196982
+22,Lafayette,149428
+22,Lafayette,102281
+22,New Orleans,484149
+22,New Orleans,227482
+22,New Orleans,196982
+22,New Orleans,149428
+22,New Orleans,102281
+22,Baton Rouge,484149
+22,Baton Rouge,227482
+22,Baton Rouge,196982
+22,Baton Rouge,149428
+22,Baton Rouge,102281
+22,Shreveport,484149
+22,Shreveport,227482
+22,Shreveport,196982
+22,Shreveport,149428
+22,Shreveport,102281
+22,Metairie,484149
+22,Metairie,227482
+22,Metairie,196982
+22,Metairie,149428
+22,Metairie,102281
+22,Lafayette,484149
+22,Lafayette,227482
+22,Lafayette,196982
+22,Lafayette,149428
+22,Lafayette,102281
+22,New Orleans,484149
+22,New Orleans,227482
+22,New Orleans,196982
+22,New Orleans,149428
+22,New Orleans,102281
+22,Baton Rouge,484149
+22,Baton Rouge,227482
+22,Baton Rouge,196982
+22,Baton Rouge,149428
+22,Baton Rouge,102281
+22,Shreveport,484149
+22,Shreveport,227482
+22,Shreveport,196982
+22,Shreveport,149428
+22,Shreveport,102281
+22,Metairie,484149
+22,Metairie,227482
+22,Metairie,196982
+22,Metairie,149428
+22,Metairie,102281
+22,Lafayette,484149
+22,Lafayette,227482
+22,Lafayette,196982
+22,Lafayette,149428
+22,Lafayette,102281
+22,New Orleans,484149
+22,New Orleans,227482
+22,New Orleans,196982
+22,New Orleans,149428
+22,New Orleans,102281
+22,Baton Rouge,484149
+22,Baton Rouge,227482
+22,Baton Rouge,196982
+22,Baton Rouge,149428
+22,Baton Rouge,102281
+22,Shreveport,484149
+22,Shreveport,227482
+22,Shreveport,196982
+22,Shreveport,149428
+22,Shreveport,102281
+22,Metairie,484149
+22,Metairie,227482
+22,Metairie,196982
+22,Metairie,149428
+22,Metairie,102281
+22,Lafayette,484149
+22,Lafayette,227482
+22,Lafayette,196982
+22,Lafayette,149428
+22,Lafayette,102281
 23,Portland,61982
 23,Portland,37385
 23,Portland,32004
@@ -511,6 +2510,7 @@
 23,Lewiston,22596
 23,Bangor,61982
 23,Bangor,37385
+23,Bangor,32004
 23,Bangor,23364
 23,Bangor,22596
 23,Auburn,61982
@@ -523,6 +2523,206 @@
 23,South Portland,32004
 23,South Portland,23364
 23,South Portland,22596
+23,Portland,61982
+23,Portland,37385
+23,Portland,32004
+23,Portland,23364
+23,Portland,22596
+23,Lewiston,61982
+23,Lewiston,37385
+23,Lewiston,32004
+23,Lewiston,23364
+23,Lewiston,22596
+23,Bangor,61982
+23,Bangor,37385
+23,Bangor,32004
+23,Bangor,23364
+23,Bangor,22596
+23,Auburn,61982
+23,Auburn,37385
+23,Auburn,32004
+23,Auburn,23364
+23,Auburn,22596
+23,South Portland,61982
+23,South Portland,37385
+23,South Portland,32004
+23,South Portland,23364
+23,South Portland,22596
+23,Portland,61982
+23,Portland,37385
+23,Portland,32004
+23,Portland,23364
+23,Portland,22596
+23,Lewiston,61982
+23,Lewiston,37385
+23,Lewiston,32004
+23,Lewiston,23364
+23,Lewiston,22596
+23,Bangor,61982
+23,Bangor,37385
+23,Bangor,32004
+23,Bangor,23364
+23,Bangor,22596
+23,Auburn,61982
+23,Auburn,37385
+23,Auburn,32004
+23,Auburn,23364
+23,Auburn,22596
+23,South Portland,61982
+23,South Portland,37385
+23,South Portland,32004
+23,South Portland,23364
+23,South Portland,22596
+23,Portland,61982
+23,Portland,37385
+23,Portland,32004
+23,Portland,23364
+23,Portland,22596
+23,Lewiston,61982
+23,Lewiston,37385
+23,Lewiston,32004
+23,Lewiston,23364
+23,Lewiston,22596
+23,Bangor,61982
+23,Bangor,37385
+23,Bangor,32004
+23,Bangor,23364
+23,Bangor,22596
+23,Auburn,61982
+23,Auburn,37385
+23,Auburn,32004
+23,Auburn,23364
+23,Auburn,22596
+23,South Portland,61982
+23,South Portland,37385
+23,South Portland,32004
+23,South Portland,23364
+23,South Portland,22596
+23,Portland,61982
+23,Portland,37385
+23,Portland,32004
+23,Portland,23364
+23,Portland,22596
+23,Lewiston,61982
+23,Lewiston,37385
+23,Lewiston,32004
+23,Lewiston,23364
+23,Lewiston,22596
+23,Bangor,61982
+23,Bangor,37385
+23,Bangor,32004
+23,Bangor,23364
+23,Bangor,22596
+23,Auburn,61982
+23,Auburn,37385
+23,Auburn,32004
+23,Auburn,23364
+23,Auburn,22596
+23,South Portland,61982
+23,South Portland,37385
+23,South Portland,32004
+23,South Portland,23364
+23,South Portland,22596
+24,Baltimore,702979
+24,Baltimore,76046
+24,Baltimore,75883
+24,Baltimore,65800
+24,Baltimore,62936
+24,Silver Spring,702979
+24,Silver Spring,76046
+24,Silver Spring,75883
+24,Silver Spring,65800
+24,Silver Spring,62936
+24,Columbia,702979
+24,Columbia,76046
+24,Columbia,75883
+24,Columbia,65800
+24,Columbia,62936
+24,Dundalk,702979
+24,Dundalk,76046
+24,Dundalk,75883
+24,Dundalk,65800
+24,Dundalk,62936
+24,Bethesda,702979
+24,Bethesda,76046
+24,Bethesda,75883
+24,Bethesda,65800
+24,Bethesda,62936
+24,Baltimore,702979
+24,Baltimore,76046
+24,Baltimore,75883
+24,Baltimore,65800
+24,Baltimore,62936
+24,Silver Spring,702979
+24,Silver Spring,76046
+24,Silver Spring,75883
+24,Silver Spring,65800
+24,Silver Spring,62936
+24,Columbia,702979
+24,Columbia,76046
+24,Columbia,75883
+24,Columbia,65800
+24,Columbia,62936
+24,Dundalk,702979
+24,Dundalk,76046
+24,Dundalk,75883
+24,Dundalk,65800
+24,Dundalk,62936
+24,Bethesda,702979
+24,Bethesda,76046
+24,Bethesda,75883
+24,Bethesda,65800
+24,Bethesda,62936
+24,Baltimore,702979
+24,Baltimore,76046
+24,Baltimore,75883
+24,Baltimore,65800
+24,Baltimore,62936
+24,Silver Spring,702979
+24,Silver Spring,76046
+24,Silver Spring,75883
+24,Silver Spring,65800
+24,Silver Spring,62936
+24,Columbia,702979
+24,Columbia,76046
+24,Columbia,75883
+24,Columbia,65800
+24,Columbia,62936
+24,Dundalk,702979
+24,Dundalk,76046
+24,Dundalk,75883
+24,Dundalk,65800
+24,Dundalk,62936
+24,Bethesda,702979
+24,Bethesda,76046
+24,Bethesda,75883
+24,Bethesda,65800
+24,Bethesda,62936
+24,Baltimore,702979
+24,Baltimore,76046
+24,Baltimore,75883
+24,Baltimore,65800
+24,Baltimore,62936
+24,Silver Spring,702979
+24,Silver Spring,76046
+24,Silver Spring,75883
+24,Silver Spring,65800
+24,Silver Spring,62936
+24,Columbia,702979
+24,Columbia,76046
+24,Columbia,75883
+24,Columbia,65800
+24,Columbia,62936
+24,Dundalk,702979
+24,Dundalk,76046
+24,Dundalk,75883
+24,Dundalk,65800
+24,Dundalk,62936
+24,Bethesda,702979
+24,Bethesda,76046
+24,Bethesda,75883
+24,Bethesda,65800
+24,Bethesda,62936
 24,Baltimore,702979
 24,Baltimore,76046
 24,Baltimore,75883
@@ -573,6 +2773,107 @@
 25,Lowell,149164
 25,Lowell,99890
 25,Lowell,96054
+25,Boston,547725
+25,Boston,165387
+25,Boston,149164
+25,Boston,99890
+25,Boston,96054
+25,Worcester,547725
+25,Worcester,165387
+25,Worcester,149164
+25,Worcester,99890
+25,Worcester,96054
+25,Springfield,547725
+25,Springfield,165387
+25,Springfield,149164
+25,Springfield,99890
+25,Springfield,96054
+25,Cambridge,547725
+25,Cambridge,165387
+25,Cambridge,149164
+25,Cambridge,99890
+25,Cambridge,96054
+25,Lowell,547725
+25,Lowell,165387
+25,Lowell,149164
+25,Lowell,99890
+25,Lowell,96054
+25,Boston,547725
+25,Boston,165387
+25,Boston,149164
+25,Boston,99890
+25,Boston,96054
+25,Worcester,547725
+25,Worcester,165387
+25,Worcester,149164
+25,Worcester,99890
+25,Worcester,96054
+25,Springfield,547725
+25,Springfield,165387
+25,Springfield,149164
+25,Springfield,99890
+25,Springfield,96054
+25,Cambridge,547725
+25,Cambridge,165387
+25,Cambridge,149164
+25,Cambridge,99890
+25,Cambridge,96054
+25,Lowell,547725
+25,Lowell,165387
+25,Lowell,149164
+25,Lowell,99890
+25,Lowell,96054
+25,Boston,547725
+25,Boston,165387
+25,Boston,149164
+25,Boston,99890
+25,Boston,96054
+25,Worcester,547725
+25,Worcester,165387
+25,Worcester,149164
+25,Worcester,99890
+25,Worcester,96054
+25,Springfield,547725
+25,Springfield,165387
+25,Springfield,149164
+25,Springfield,99890
+25,Springfield,96054
+25,Cambridge,547725
+25,Cambridge,165387
+25,Cambridge,149164
+25,Cambridge,99890
+25,Cambridge,96054
+25,Lowell,547725
+25,Lowell,165387
+25,Lowell,149164
+25,Lowell,99890
+25,Lowell,96054
+25,Boston,547725
+25,Boston,165387
+25,Boston,149164
+25,Boston,99890
+25,Boston,96054
+25,Worcester,547725
+25,Worcester,165387
+25,Worcester,149164
+25,Worcester,99890
+25,Worcester,96054
+25,Springfield,547725
+25,Springfield,165387
+25,Springfield,149164
+25,Springfield,99890
+25,Springfield,96054
+25,Cambridge,547725
+25,Cambridge,165387
+25,Cambridge,149164
+25,Cambridge,99890
+25,Cambridge,96054
+25,Lowell,547725
+25,Lowell,165387
+25,Lowell,149164
+25,Lowell,99890
+25,Lowell,96054
+26,Detroit,992038
 26,Detroit,190395
 26,Detroit,142625
 26,Detroit,138164
@@ -585,7 +2886,6 @@
 26,Warren,992038
 26,Warren,190395
 26,Warren,142625
-26,Detroit,992038
 26,Warren,138164
 26,Warren,119590
 26,Flint,992038
@@ -598,7 +2898,106 @@
 26,Lansing,142625
 26,Lansing,138164
 26,Lansing,119590
-27,Bloomington,85185
+26,Detroit,992038
+26,Detroit,190395
+26,Detroit,142625
+26,Detroit,138164
+26,Detroit,119590
+26,Grand Rapids,992038
+26,Grand Rapids,190395
+26,Grand Rapids,142625
+26,Grand Rapids,138164
+26,Grand Rapids,119590
+26,Warren,992038
+26,Warren,190395
+26,Warren,142625
+26,Warren,138164
+26,Warren,119590
+26,Flint,992038
+26,Flint,190395
+26,Flint,142625
+26,Flint,138164
+26,Flint,119590
+26,Lansing,992038
+26,Lansing,190395
+26,Lansing,142625
+26,Lansing,138164
+26,Lansing,119590
+26,Detroit,992038
+26,Detroit,190395
+26,Detroit,142625
+26,Detroit,138164
+26,Detroit,119590
+26,Grand Rapids,992038
+26,Grand Rapids,190395
+26,Grand Rapids,142625
+26,Grand Rapids,138164
+26,Grand Rapids,119590
+26,Warren,992038
+26,Warren,190395
+26,Warren,142625
+26,Warren,138164
+26,Warren,119590
+26,Flint,992038
+26,Flint,190395
+26,Flint,142625
+26,Flint,138164
+26,Flint,119590
+26,Lansing,992038
+26,Lansing,190395
+26,Lansing,142625
+26,Lansing,138164
+26,Lansing,119590
+26,Detroit,992038
+26,Detroit,190395
+26,Detroit,142625
+26,Detroit,138164
+26,Detroit,119590
+26,Grand Rapids,992038
+26,Grand Rapids,190395
+26,Grand Rapids,142625
+26,Grand Rapids,138164
+26,Grand Rapids,119590
+26,Warren,992038
+26,Warren,190395
+26,Warren,142625
+26,Warren,138164
+26,Warren,119590
+26,Flint,992038
+26,Flint,190395
+26,Flint,142625
+26,Flint,138164
+26,Flint,119590
+26,Lansing,992038
+26,Lansing,190395
+26,Lansing,142625
+26,Lansing,138164
+26,Lansing,119590
+26,Detroit,992038
+26,Detroit,190395
+26,Detroit,142625
+26,Detroit,138164
+26,Detroit,119590
+26,Grand Rapids,992038
+26,Grand Rapids,190395
+26,Grand Rapids,142625
+26,Grand Rapids,138164
+26,Grand Rapids,119590
+26,Warren,992038
+26,Warren,190395
+26,Warren,142625
+26,Warren,138164
+26,Warren,119590
+26,Flint,992038
+26,Flint,190395
+26,Flint,142625
+26,Flint,138164
+26,Flint,119590
+26,Lansing,992038
+26,Lansing,190395
+26,Lansing,142625
+26,Lansing,138164
+26,Lansing,119590
 27,Minneapolis,354590
 27,Minneapolis,262071
 27,Minneapolis,85185
@@ -611,6 +3010,7 @@
 27,Saint Paul,75769
 27,Bloomington,354590
 27,Bloomington,262071
+27,Bloomington,85185
 27,Bloomington,83990
 27,Bloomington,75769
 27,Duluth,354590
@@ -623,6 +3023,206 @@
 27,Rochester,85185
 27,Rochester,83990
 27,Rochester,75769
+27,Minneapolis,354590
+27,Minneapolis,262071
+27,Minneapolis,85185
+27,Minneapolis,83990
+27,Minneapolis,75769
+27,Saint Paul,354590
+27,Saint Paul,262071
+27,Saint Paul,85185
+27,Saint Paul,83990
+27,Saint Paul,75769
+27,Bloomington,354590
+27,Bloomington,262071
+27,Bloomington,85185
+27,Bloomington,83990
+27,Bloomington,75769
+27,Duluth,354590
+27,Duluth,262071
+27,Duluth,85185
+27,Duluth,83990
+27,Duluth,75769
+27,Rochester,354590
+27,Rochester,262071
+27,Rochester,85185
+27,Rochester,83990
+27,Rochester,75769
+27,Minneapolis,354590
+27,Minneapolis,262071
+27,Minneapolis,85185
+27,Minneapolis,83990
+27,Minneapolis,75769
+27,Saint Paul,354590
+27,Saint Paul,262071
+27,Saint Paul,85185
+27,Saint Paul,83990
+27,Saint Paul,75769
+27,Bloomington,354590
+27,Bloomington,262071
+27,Bloomington,85185
+27,Bloomington,83990
+27,Bloomington,75769
+27,Duluth,354590
+27,Duluth,262071
+27,Duluth,85185
+27,Duluth,83990
+27,Duluth,75769
+27,Rochester,354590
+27,Rochester,262071
+27,Rochester,85185
+27,Rochester,83990
+27,Rochester,75769
+27,Minneapolis,354590
+27,Minneapolis,262071
+27,Minneapolis,85185
+27,Minneapolis,83990
+27,Minneapolis,75769
+27,Saint Paul,354590
+27,Saint Paul,262071
+27,Saint Paul,85185
+27,Saint Paul,83990
+27,Saint Paul,75769
+27,Bloomington,354590
+27,Bloomington,262071
+27,Bloomington,85185
+27,Bloomington,83990
+27,Bloomington,75769
+27,Duluth,354590
+27,Duluth,262071
+27,Duluth,85185
+27,Duluth,83990
+27,Duluth,75769
+27,Rochester,354590
+27,Rochester,262071
+27,Rochester,85185
+27,Rochester,83990
+27,Rochester,75769
+27,Minneapolis,354590
+27,Minneapolis,262071
+27,Minneapolis,85185
+27,Minneapolis,83990
+27,Minneapolis,75769
+27,Saint Paul,354590
+27,Saint Paul,262071
+27,Saint Paul,85185
+27,Saint Paul,83990
+27,Saint Paul,75769
+27,Bloomington,354590
+27,Bloomington,262071
+27,Bloomington,85185
+27,Bloomington,83990
+27,Bloomington,75769
+27,Duluth,354590
+27,Duluth,262071
+27,Duluth,85185
+27,Duluth,83990
+27,Duluth,75769
+27,Rochester,354590
+27,Rochester,262071
+27,Rochester,85185
+27,Rochester,83990
+27,Rochester,75769
+28,Jackson,193097
+28,Jackson,47832
+28,Jackson,47692
+28,Jackson,44394
+28,Jackson,43023
+28,Biloxi,193097
+28,Biloxi,47832
+28,Biloxi,47692
+28,Biloxi,44394
+28,Biloxi,43023
+28,Hattiesburg,193097
+28,Hattiesburg,47832
+28,Hattiesburg,47692
+28,Hattiesburg,44394
+28,Hattiesburg,43023
+28,Greenville,193097
+28,Greenville,47832
+28,Greenville,47692
+28,Greenville,44394
+28,Greenville,43023
+28,Gulfport,193097
+28,Gulfport,47832
+28,Gulfport,47692
+28,Gulfport,44394
+28,Gulfport,43023
+28,Jackson,193097
+28,Jackson,47832
+28,Jackson,47692
+28,Jackson,44394
+28,Jackson,43023
+28,Biloxi,193097
+28,Biloxi,47832
+28,Biloxi,47692
+28,Biloxi,44394
+28,Biloxi,43023
+28,Hattiesburg,193097
+28,Hattiesburg,47832
+28,Hattiesburg,47692
+28,Hattiesburg,44394
+28,Hattiesburg,43023
+28,Greenville,193097
+28,Greenville,47832
+28,Greenville,47692
+28,Greenville,44394
+28,Greenville,43023
+28,Gulfport,193097
+28,Gulfport,47832
+28,Gulfport,47692
+28,Gulfport,44394
+28,Gulfport,43023
+28,Jackson,193097
+28,Jackson,47832
+28,Jackson,47692
+28,Jackson,44394
+28,Jackson,43023
+28,Biloxi,193097
+28,Biloxi,47832
+28,Biloxi,47692
+28,Biloxi,44394
+28,Biloxi,43023
+28,Hattiesburg,193097
+28,Hattiesburg,47832
+28,Hattiesburg,47692
+28,Hattiesburg,44394
+28,Hattiesburg,43023
+28,Greenville,193097
+28,Greenville,47832
+28,Greenville,47692
+28,Greenville,44394
+28,Greenville,43023
+28,Gulfport,193097
+28,Gulfport,47832
+28,Gulfport,47692
+28,Gulfport,44394
+28,Gulfport,43023
+28,Jackson,193097
+28,Jackson,47832
+28,Jackson,47692
+28,Jackson,44394
+28,Jackson,43023
+28,Biloxi,193097
+28,Biloxi,47832
+28,Biloxi,47692
+28,Biloxi,44394
+28,Biloxi,43023
+28,Hattiesburg,193097
+28,Hattiesburg,47832
+28,Hattiesburg,47692
+28,Hattiesburg,44394
+28,Hattiesburg,43023
+28,Greenville,193097
+28,Greenville,47832
+28,Greenville,47692
+28,Greenville,44394
+28,Greenville,43023
+28,Gulfport,193097
+28,Gulfport,47832
+28,Gulfport,47692
+28,Gulfport,44394
+28,Gulfport,43023
 28,Jackson,193097
 28,Jackson,47832
 28,Jackson,47692
@@ -673,6 +3273,206 @@
 29,Columbia,149727
 29,Columbia,111669
 29,Columbia,74072
+29,Kansas City,443878
+29,Kansas City,368215
+29,Kansas City,149727
+29,Kansas City,111669
+29,Kansas City,74072
+29,Saint Louis,443878
+29,Saint Louis,368215
+29,Saint Louis,149727
+29,Saint Louis,111669
+29,Saint Louis,74072
+29,Springfield,443878
+29,Springfield,368215
+29,Springfield,149727
+29,Springfield,111669
+29,Springfield,74072
+29,Independence,443878
+29,Independence,368215
+29,Independence,149727
+29,Independence,111669
+29,Independence,74072
+29,Columbia,443878
+29,Columbia,368215
+29,Columbia,149727
+29,Columbia,111669
+29,Columbia,74072
+29,Kansas City,443878
+29,Kansas City,368215
+29,Kansas City,149727
+29,Kansas City,111669
+29,Kansas City,74072
+29,Saint Louis,443878
+29,Saint Louis,368215
+29,Saint Louis,149727
+29,Saint Louis,111669
+29,Saint Louis,74072
+29,Springfield,443878
+29,Springfield,368215
+29,Springfield,149727
+29,Springfield,111669
+29,Springfield,74072
+29,Independence,443878
+29,Independence,368215
+29,Independence,149727
+29,Independence,111669
+29,Independence,74072
+29,Columbia,443878
+29,Columbia,368215
+29,Columbia,149727
+29,Columbia,111669
+29,Columbia,74072
+29,Kansas City,443878
+29,Kansas City,368215
+29,Kansas City,149727
+29,Kansas City,111669
+29,Kansas City,74072
+29,Saint Louis,443878
+29,Saint Louis,368215
+29,Saint Louis,149727
+29,Saint Louis,111669
+29,Saint Louis,74072
+29,Springfield,443878
+29,Springfield,368215
+29,Springfield,149727
+29,Springfield,111669
+29,Springfield,74072
+29,Independence,443878
+29,Independence,368215
+29,Independence,149727
+29,Independence,111669
+29,Independence,74072
+29,Columbia,443878
+29,Columbia,368215
+29,Columbia,149727
+29,Columbia,111669
+29,Columbia,74072
+29,Kansas City,443878
+29,Kansas City,368215
+29,Kansas City,149727
+29,Kansas City,111669
+29,Kansas City,74072
+29,Saint Louis,443878
+29,Saint Louis,368215
+29,Saint Louis,149727
+29,Saint Louis,111669
+29,Saint Louis,74072
+29,Springfield,443878
+29,Springfield,368215
+29,Springfield,149727
+29,Springfield,111669
+29,Springfield,74072
+29,Independence,443878
+29,Independence,368215
+29,Independence,149727
+29,Independence,111669
+29,Independence,74072
+29,Columbia,443878
+29,Columbia,368215
+29,Columbia,149727
+29,Columbia,111669
+29,Columbia,74072
+30,Billings,86578
+30,Billings,58202
+30,Billings,45364
+30,Billings,34190
+30,Billings,26339
+30,Great Falls,86578
+30,Great Falls,58202
+30,Great Falls,45364
+30,Great Falls,34190
+30,Great Falls,26339
+30,Missoula,86578
+30,Missoula,58202
+30,Missoula,45364
+30,Missoula,34190
+30,Missoula,26339
+30,Butte,86578
+30,Butte,58202
+30,Butte,45364
+30,Butte,34190
+30,Butte,26339
+30,Helena,86578
+30,Helena,58202
+30,Helena,45364
+30,Helena,34190
+30,Helena,26339
+30,Billings,86578
+30,Billings,58202
+30,Billings,45364
+30,Billings,34190
+30,Billings,26339
+30,Great Falls,86578
+30,Great Falls,58202
+30,Great Falls,45364
+30,Great Falls,34190
+30,Great Falls,26339
+30,Missoula,86578
+30,Missoula,58202
+30,Missoula,45364
+30,Missoula,34190
+30,Missoula,26339
+30,Butte,86578
+30,Butte,58202
+30,Butte,45364
+30,Butte,34190
+30,Butte,26339
+30,Helena,86578
+30,Helena,58202
+30,Helena,45364
+30,Helena,34190
+30,Helena,26339
+30,Billings,86578
+30,Billings,58202
+30,Billings,45364
+30,Billings,34190
+30,Billings,26339
+30,Great Falls,86578
+30,Great Falls,58202
+30,Great Falls,45364
+30,Great Falls,34190
+30,Great Falls,26339
+30,Missoula,86578
+30,Missoula,58202
+30,Missoula,45364
+30,Missoula,34190
+30,Missoula,26339
+30,Butte,86578
+30,Butte,58202
+30,Butte,45364
+30,Butte,34190
+30,Butte,26339
+30,Helena,86578
+30,Helena,58202
+30,Helena,45364
+30,Helena,34190
+30,Helena,26339
+30,Billings,86578
+30,Billings,58202
+30,Billings,45364
+30,Billings,34190
+30,Billings,26339
+30,Great Falls,86578
+30,Great Falls,58202
+30,Great Falls,45364
+30,Great Falls,34190
+30,Great Falls,26339
+30,Missoula,86578
+30,Missoula,58202
+30,Missoula,45364
+30,Missoula,34190
+30,Missoula,26339
+30,Butte,86578
+30,Butte,58202
+30,Butte,45364
+30,Butte,34190
+30,Butte,26339
+30,Helena,86578
+30,Helena,58202
+30,Helena,45364
+30,Helena,34190
+30,Helena,26339
 30,Billings,86578
 30,Billings,58202
 30,Billings,45364
@@ -723,56 +3523,359 @@
 31,Kearney,41274
 31,Kearney,41147
 31,Kearney,26216
-32,Sparks,60238
-32,Sparks,64536
-32,Sparks,101997
-32,Sparks,145029
-32,Sparks,327878
-32,North Las Vegas,60238
-32,North Las Vegas,64536
-32,North Las Vegas,101997
-32,North Las Vegas,145029
-32,North Las Vegas,327878
-32,Henderson,60238
-32,Henderson,64536
-32,Henderson,101997
-32,Henderson,145029
-32,Henderson,327878
-32,Reno,60238
-32,Reno,64536
-32,Reno,101997
-32,Reno,145029
-32,Reno,327878
-32,Las Vegas,60238
-32,Las Vegas,64536
-32,Las Vegas,101997
-32,Las Vegas,145029
+31,Omaha,345033
+31,Omaha,203076
+31,Omaha,41274
+31,Omaha,41147
+31,Omaha,26216
+31,Lincoln,345033
+31,Lincoln,203076
+31,Lincoln,41274
+31,Lincoln,41147
+31,Lincoln,26216
+31,Bellevue,345033
+31,Bellevue,203076
+31,Bellevue,41274
+31,Bellevue,41147
+31,Bellevue,26216
+31,Grand Island,345033
+31,Grand Island,203076
+31,Grand Island,41274
+31,Grand Island,41147
+31,Grand Island,26216
+31,Kearney,345033
+31,Kearney,203076
+31,Kearney,41274
+31,Kearney,41147
+31,Kearney,26216
+31,Omaha,345033
+31,Omaha,203076
+31,Omaha,41274
+31,Omaha,41147
+31,Omaha,26216
+31,Lincoln,345033
+31,Lincoln,203076
+31,Lincoln,41274
+31,Lincoln,41147
+31,Lincoln,26216
+31,Bellevue,345033
+31,Bellevue,203076
+31,Bellevue,41274
+31,Bellevue,41147
+31,Bellevue,26216
+31,Grand Island,345033
+31,Grand Island,203076
+31,Grand Island,41274
+31,Grand Island,41147
+31,Grand Island,26216
+31,Kearney,345033
+31,Kearney,203076
+31,Kearney,41274
+31,Kearney,41147
+31,Kearney,26216
+31,Omaha,345033
+31,Omaha,203076
+31,Omaha,41274
+31,Omaha,41147
+31,Omaha,26216
+31,Lincoln,345033
+31,Lincoln,203076
+31,Lincoln,41274
+31,Lincoln,41147
+31,Lincoln,26216
+31,Bellevue,345033
+31,Bellevue,203076
+31,Bellevue,41274
+31,Bellevue,41147
+31,Bellevue,26216
+31,Grand Island,345033
+31,Grand Island,203076
+31,Grand Island,41274
+31,Grand Island,41147
+31,Grand Island,26216
+31,Kearney,345033
+31,Kearney,203076
+31,Kearney,41274
+31,Kearney,41147
+31,Kearney,26216
+31,Omaha,345033
+31,Omaha,203076
+31,Omaha,41274
+31,Omaha,41147
+31,Omaha,26216
+31,Lincoln,345033
+31,Lincoln,203076
+31,Lincoln,41274
+31,Lincoln,41147
+31,Lincoln,26216
+31,Bellevue,345033
+31,Bellevue,203076
+31,Bellevue,41274
+31,Bellevue,41147
+31,Bellevue,26216
+31,Grand Island,345033
+31,Grand Island,203076
+31,Grand Island,41274
+31,Grand Island,41147
+31,Grand Island,26216
+31,Kearney,345033
+31,Kearney,203076
+31,Kearney,41274
+31,Kearney,41147
+31,Kearney,26216
 32,Las Vegas,327878
+32,Las Vegas,145029
+32,Las Vegas,101997
+32,Las Vegas,64536
+32,Las Vegas,60238
+32,Reno,327878
+32,Reno,145029
+32,Reno,101997
+32,Reno,64536
+32,Reno,60238
+32,Henderson,327878
+32,Henderson,145029
+32,Henderson,101997
+32,Henderson,64536
+32,Henderson,60238
+32,North Las Vegas,327878
+32,North Las Vegas,145029
+32,North Las Vegas,101997
+32,North Las Vegas,64536
+32,North Las Vegas,60238
+32,Sparks,327878
+32,Sparks,145029
+32,Sparks,101997
+32,Sparks,64536
+32,Sparks,60238
+32,Las Vegas,327878
+32,Las Vegas,145029
+32,Las Vegas,101997
+32,Las Vegas,64536
+32,Las Vegas,60238
+32,Reno,327878
+32,Reno,145029
+32,Reno,101997
+32,Reno,64536
+32,Reno,60238
+32,Henderson,327878
+32,Henderson,145029
+32,Henderson,101997
+32,Henderson,64536
+32,Henderson,60238
+32,North Las Vegas,327878
+32,North Las Vegas,145029
+32,North Las Vegas,101997
+32,North Las Vegas,64536
+32,North Las Vegas,60238
+32,Sparks,327878
+32,Sparks,145029
+32,Sparks,101997
+32,Sparks,64536
+32,Sparks,60238
+32,Las Vegas,327878
+32,Las Vegas,145029
+32,Las Vegas,101997
+32,Las Vegas,64536
+32,Las Vegas,60238
+32,Reno,327878
+32,Reno,145029
+32,Reno,101997
+32,Reno,64536
+32,Reno,60238
+32,Henderson,327878
+32,Henderson,145029
+32,Henderson,101997
+32,Henderson,64536
+32,Henderson,60238
+32,North Las Vegas,327878
+32,North Las Vegas,145029
+32,North Las Vegas,101997
+32,North Las Vegas,64536
+32,North Las Vegas,60238
+32,Sparks,327878
+32,Sparks,145029
+32,Sparks,101997
+32,Sparks,64536
+32,Sparks,60238
+32,Las Vegas,327878
+32,Las Vegas,145029
+32,Las Vegas,101997
+32,Las Vegas,64536
+32,Las Vegas,60238
+32,Reno,327878
+32,Reno,145029
+32,Reno,101997
+32,Reno,64536
+32,Reno,60238
+32,Henderson,327878
+32,Henderson,145029
+32,Henderson,101997
+32,Henderson,64536
+32,Henderson,60238
+32,North Las Vegas,327878
+32,North Las Vegas,145029
+32,North Las Vegas,101997
+32,North Las Vegas,64536
+32,North Las Vegas,60238
+32,Sparks,327878
+32,Sparks,145029
+32,Sparks,101997
+32,Sparks,64536
+32,Sparks,60238
+32,Las Vegas,327878
+32,Las Vegas,145029
+32,Las Vegas,101997
+32,Las Vegas,64536
+32,Las Vegas,60238
+32,Reno,327878
+32,Reno,145029
+32,Reno,101997
+32,Reno,64536
+32,Reno,60238
+32,Henderson,327878
+32,Henderson,145029
+32,Henderson,101997
+32,Henderson,64536
+32,Henderson,60238
+32,North Las Vegas,327878
+32,North Las Vegas,145029
+32,North Las Vegas,101997
+32,North Las Vegas,64536
+32,North Las Vegas,60238
+32,Sparks,327878
+32,Sparks,145029
+32,Sparks,101997
+32,Sparks,64536
+32,Sparks,60238
 33,Manchester,96640
-33,Dover,24891
-33,Dover,27023
-33,Dover,36198
-33,Dover,79631
-33,Dover,96640
-33,Rochester,24891
-33,Rochester,27023
-33,Rochester,36198
-33,Rochester,79631
-33,Rochester,96640
-33,Concord,24891
-33,Concord,27023
-33,Concord,36198
-33,Concord,79631
-33,Concord,96640
-33,Nashua,24891
-33,Nashua,27023
-33,Nashua,36198
-33,Nashua,79631
-33,Nashua,96640
-33,Manchester,24891
-33,Manchester,27023
-33,Manchester,36198
 33,Manchester,79631
+33,Manchester,36198
+33,Manchester,27023
+33,Manchester,24891
+33,Nashua,96640
+33,Nashua,79631
+33,Nashua,36198
+33,Nashua,27023
+33,Nashua,24891
+33,Concord,96640
+33,Concord,79631
+33,Concord,36198
+33,Concord,27023
+33,Concord,24891
+33,Rochester,96640
+33,Rochester,79631
+33,Rochester,36198
+33,Rochester,27023
+33,Rochester,24891
+33,Dover,96640
+33,Dover,79631
+33,Dover,36198
+33,Dover,27023
+33,Dover,24891
+33,Manchester,96640
+33,Manchester,79631
+33,Manchester,36198
+33,Manchester,27023
+33,Manchester,24891
+33,Nashua,96640
+33,Nashua,79631
+33,Nashua,36198
+33,Nashua,27023
+33,Nashua,24891
+33,Concord,96640
+33,Concord,79631
+33,Concord,36198
+33,Concord,27023
+33,Concord,24891
+33,Rochester,96640
+33,Rochester,79631
+33,Rochester,36198
+33,Rochester,27023
+33,Rochester,24891
+33,Dover,96640
+33,Dover,79631
+33,Dover,36198
+33,Dover,27023
+33,Dover,24891
+33,Manchester,96640
+33,Manchester,79631
+33,Manchester,36198
+33,Manchester,27023
+33,Manchester,24891
+33,Nashua,96640
+33,Nashua,79631
+33,Nashua,36198
+33,Nashua,27023
+33,Nashua,24891
+33,Concord,96640
+33,Concord,79631
+33,Concord,36198
+33,Concord,27023
+33,Concord,24891
+33,Rochester,96640
+33,Rochester,79631
+33,Rochester,36198
+33,Rochester,27023
+33,Rochester,24891
+33,Dover,96640
+33,Dover,79631
+33,Dover,36198
+33,Dover,27023
+33,Dover,24891
+33,Manchester,96640
+33,Manchester,79631
+33,Manchester,36198
+33,Manchester,27023
+33,Manchester,24891
+33,Nashua,96640
+33,Nashua,79631
+33,Nashua,36198
+33,Nashua,27023
+33,Nashua,24891
+33,Concord,96640
+33,Concord,79631
+33,Concord,36198
+33,Concord,27023
+33,Concord,24891
+33,Rochester,96640
+33,Rochester,79631
+33,Rochester,36198
+33,Rochester,27023
+33,Rochester,24891
+33,Dover,96640
+33,Dover,79631
+33,Dover,36198
+33,Dover,27023
+33,Dover,24891
+33,Manchester,96640
+33,Manchester,79631
+33,Manchester,36198
+33,Manchester,27023
+33,Manchester,24891
+33,Nashua,96640
+33,Nashua,79631
+33,Nashua,36198
+33,Nashua,27023
+33,Nashua,24891
+33,Concord,96640
+33,Concord,79631
+33,Concord,36198
+33,Concord,27023
+33,Concord,24891
+33,Rochester,96640
+33,Rochester,79631
+33,Rochester,36198
+33,Rochester,27023
+33,Rochester,24891
+33,Dover,96640
+33,Dover,79631
+33,Dover,36198
+33,Dover,27023
+33,Dover,24891
+34,Newark,258751
+34,Newark,226022
+34,Newark,138290
 34,Newark,106298
 34,Newark,88680
 34,Jersey City,258751
@@ -783,9 +3886,6 @@
 34,Paterson,258751
 34,Paterson,226022
 34,Paterson,138290
-34,Newark,258751
-34,Newark,226022
-34,Newark,138290
 34,Paterson,106298
 34,Paterson,88680
 34,Elizabeth,258751
@@ -798,7 +3898,106 @@
 34,Edison,138290
 34,Edison,106298
 34,Edison,88680
-35,Santa Fe,62514
+34,Newark,258751
+34,Newark,226022
+34,Newark,138290
+34,Newark,106298
+34,Newark,88680
+34,Jersey City,258751
+34,Jersey City,226022
+34,Jersey City,138290
+34,Jersey City,106298
+34,Jersey City,88680
+34,Paterson,258751
+34,Paterson,226022
+34,Paterson,138290
+34,Paterson,106298
+34,Paterson,88680
+34,Elizabeth,258751
+34,Elizabeth,226022
+34,Elizabeth,138290
+34,Elizabeth,106298
+34,Elizabeth,88680
+34,Edison,258751
+34,Edison,226022
+34,Edison,138290
+34,Edison,106298
+34,Edison,88680
+34,Newark,258751
+34,Newark,226022
+34,Newark,138290
+34,Newark,106298
+34,Newark,88680
+34,Jersey City,258751
+34,Jersey City,226022
+34,Jersey City,138290
+34,Jersey City,106298
+34,Jersey City,88680
+34,Paterson,258751
+34,Paterson,226022
+34,Paterson,138290
+34,Paterson,106298
+34,Paterson,88680
+34,Elizabeth,258751
+34,Elizabeth,226022
+34,Elizabeth,138290
+34,Elizabeth,106298
+34,Elizabeth,88680
+34,Edison,258751
+34,Edison,226022
+34,Edison,138290
+34,Edison,106298
+34,Edison,88680
+34,Newark,258751
+34,Newark,226022
+34,Newark,138290
+34,Newark,106298
+34,Newark,88680
+34,Jersey City,258751
+34,Jersey City,226022
+34,Jersey City,138290
+34,Jersey City,106298
+34,Jersey City,88680
+34,Paterson,258751
+34,Paterson,226022
+34,Paterson,138290
+34,Paterson,106298
+34,Paterson,88680
+34,Elizabeth,258751
+34,Elizabeth,226022
+34,Elizabeth,138290
+34,Elizabeth,106298
+34,Elizabeth,88680
+34,Edison,258751
+34,Edison,226022
+34,Edison,138290
+34,Edison,106298
+34,Edison,88680
+34,Newark,258751
+34,Newark,226022
+34,Newark,138290
+34,Newark,106298
+34,Newark,88680
+34,Jersey City,258751
+34,Jersey City,226022
+34,Jersey City,138290
+34,Jersey City,106298
+34,Jersey City,88680
+34,Paterson,258751
+34,Paterson,226022
+34,Paterson,138290
+34,Paterson,106298
+34,Paterson,88680
+34,Elizabeth,258751
+34,Elizabeth,226022
+34,Elizabeth,138290
+34,Elizabeth,106298
+34,Elizabeth,88680
+34,Edison,258751
+34,Edison,226022
+34,Edison,138290
+34,Edison,106298
+34,Edison,88680
 35,Albuquerque,411994
 35,Albuquerque,71043
 35,Albuquerque,62514
@@ -811,6 +4010,107 @@
 35,Las Cruces,41492
 35,Santa Fe,411994
 35,Santa Fe,71043
+35,Santa Fe,62514
+35,Santa Fe,47395
+35,Santa Fe,41492
+35,Roswell,411994
+35,Roswell,71043
+35,Roswell,62514
+35,Roswell,47395
+35,Roswell,41492
+35,Rio Rancho,411994
+35,Rio Rancho,71043
+35,Rio Rancho,62514
+35,Rio Rancho,47395
+35,Rio Rancho,41492
+35,Albuquerque,411994
+35,Albuquerque,71043
+35,Albuquerque,62514
+35,Albuquerque,47395
+35,Albuquerque,41492
+35,Las Cruces,411994
+35,Las Cruces,71043
+35,Las Cruces,62514
+35,Las Cruces,47395
+35,Las Cruces,41492
+35,Santa Fe,411994
+35,Santa Fe,71043
+35,Santa Fe,62514
+35,Santa Fe,47395
+35,Santa Fe,41492
+35,Roswell,411994
+35,Roswell,71043
+35,Roswell,62514
+35,Roswell,47395
+35,Roswell,41492
+35,Rio Rancho,411994
+35,Rio Rancho,71043
+35,Rio Rancho,62514
+35,Rio Rancho,47395
+35,Rio Rancho,41492
+35,Albuquerque,411994
+35,Albuquerque,71043
+35,Albuquerque,62514
+35,Albuquerque,47395
+35,Albuquerque,41492
+35,Las Cruces,411994
+35,Las Cruces,71043
+35,Las Cruces,62514
+35,Las Cruces,47395
+35,Las Cruces,41492
+35,Santa Fe,411994
+35,Santa Fe,71043
+35,Santa Fe,62514
+35,Santa Fe,47395
+35,Santa Fe,41492
+35,Roswell,411994
+35,Roswell,71043
+35,Roswell,62514
+35,Roswell,47395
+35,Roswell,41492
+35,Rio Rancho,411994
+35,Rio Rancho,71043
+35,Rio Rancho,62514
+35,Rio Rancho,47395
+35,Rio Rancho,41492
+35,Albuquerque,411994
+35,Albuquerque,71043
+35,Albuquerque,62514
+35,Albuquerque,47395
+35,Albuquerque,41492
+35,Las Cruces,411994
+35,Las Cruces,71043
+35,Las Cruces,62514
+35,Las Cruces,47395
+35,Las Cruces,41492
+35,Santa Fe,411994
+35,Santa Fe,71043
+35,Santa Fe,62514
+35,Santa Fe,47395
+35,Santa Fe,41492
+35,Roswell,411994
+35,Roswell,71043
+35,Roswell,62514
+35,Roswell,47395
+35,Roswell,41492
+35,Rio Rancho,411994
+35,Rio Rancho,71043
+35,Rio Rancho,62514
+35,Rio Rancho,47395
+35,Rio Rancho,41492
+35,Albuquerque,411994
+35,Albuquerque,71043
+35,Albuquerque,62514
+35,Albuquerque,47395
+35,Albuquerque,41492
+35,Las Cruces,411994
+35,Las Cruces,71043
+35,Las Cruces,62514
+35,Las Cruces,47395
+35,Las Cruces,41492
+35,Santa Fe,411994
+35,Santa Fe,71043
+35,Santa Fe,62514
 35,Santa Fe,47395
 35,Santa Fe,41492
 35,Roswell,411994
@@ -848,7 +4148,106 @@
 36,Syracuse,231170
 36,Syracuse,183490
 36,Syracuse,159895
-37,Greensboro,196167
+36,New York,7333253
+36,New York,312965
+36,New York,231170
+36,New York,183490
+36,New York,159895
+36,Buffalo,7333253
+36,Buffalo,312965
+36,Buffalo,231170
+36,Buffalo,183490
+36,Buffalo,159895
+36,Rochester,7333253
+36,Rochester,312965
+36,Rochester,231170
+36,Rochester,183490
+36,Rochester,159895
+36,Yonkers,7333253
+36,Yonkers,312965
+36,Yonkers,231170
+36,Yonkers,183490
+36,Yonkers,159895
+36,Syracuse,7333253
+36,Syracuse,312965
+36,Syracuse,231170
+36,Syracuse,183490
+36,Syracuse,159895
+36,New York,7333253
+36,New York,312965
+36,New York,231170
+36,New York,183490
+36,New York,159895
+36,Buffalo,7333253
+36,Buffalo,312965
+36,Buffalo,231170
+36,Buffalo,183490
+36,Buffalo,159895
+36,Rochester,7333253
+36,Rochester,312965
+36,Rochester,231170
+36,Rochester,183490
+36,Rochester,159895
+36,Yonkers,7333253
+36,Yonkers,312965
+36,Yonkers,231170
+36,Yonkers,183490
+36,Yonkers,159895
+36,Syracuse,7333253
+36,Syracuse,312965
+36,Syracuse,231170
+36,Syracuse,183490
+36,Syracuse,159895
+36,New York,7333253
+36,New York,312965
+36,New York,231170
+36,New York,183490
+36,New York,159895
+36,Buffalo,7333253
+36,Buffalo,312965
+36,Buffalo,231170
+36,Buffalo,183490
+36,Buffalo,159895
+36,Rochester,7333253
+36,Rochester,312965
+36,Rochester,231170
+36,Rochester,183490
+36,Rochester,159895
+36,Yonkers,7333253
+36,Yonkers,312965
+36,Yonkers,231170
+36,Yonkers,183490
+36,Yonkers,159895
+36,Syracuse,7333253
+36,Syracuse,312965
+36,Syracuse,231170
+36,Syracuse,183490
+36,Syracuse,159895
+36,New York,7333253
+36,New York,312965
+36,New York,231170
+36,New York,183490
+36,New York,159895
+36,Buffalo,7333253
+36,Buffalo,312965
+36,Buffalo,231170
+36,Buffalo,183490
+36,Buffalo,159895
+36,Rochester,7333253
+36,Rochester,312965
+36,Rochester,231170
+36,Rochester,183490
+36,Rochester,159895
+36,Yonkers,7333253
+36,Yonkers,312965
+36,Yonkers,231170
+36,Yonkers,183490
+36,Yonkers,159895
+36,Syracuse,7333253
+36,Syracuse,312965
+36,Syracuse,231170
+36,Syracuse,183490
+36,Syracuse,159895
 37,Charlotte,437797
 37,Charlotte,236707
 37,Charlotte,196167
@@ -861,6 +4260,7 @@
 37,Raleigh,143439
 37,Greensboro,437797
 37,Greensboro,236707
+37,Greensboro,196167
 37,Greensboro,155128
 37,Greensboro,143439
 37,Winston-Salem,437797
@@ -873,6 +4273,107 @@
 37,Durham,196167
 37,Durham,155128
 37,Durham,143439
+37,Charlotte,437797
+37,Charlotte,236707
+37,Charlotte,196167
+37,Charlotte,155128
+37,Charlotte,143439
+37,Raleigh,437797
+37,Raleigh,236707
+37,Raleigh,196167
+37,Raleigh,155128
+37,Raleigh,143439
+37,Greensboro,437797
+37,Greensboro,236707
+37,Greensboro,196167
+37,Greensboro,155128
+37,Greensboro,143439
+37,Winston-Salem,437797
+37,Winston-Salem,236707
+37,Winston-Salem,196167
+37,Winston-Salem,155128
+37,Winston-Salem,143439
+37,Durham,437797
+37,Durham,236707
+37,Durham,196167
+37,Durham,155128
+37,Durham,143439
+37,Charlotte,437797
+37,Charlotte,236707
+37,Charlotte,196167
+37,Charlotte,155128
+37,Charlotte,143439
+37,Raleigh,437797
+37,Raleigh,236707
+37,Raleigh,196167
+37,Raleigh,155128
+37,Raleigh,143439
+37,Greensboro,437797
+37,Greensboro,236707
+37,Greensboro,196167
+37,Greensboro,155128
+37,Greensboro,143439
+37,Winston-Salem,437797
+37,Winston-Salem,236707
+37,Winston-Salem,196167
+37,Winston-Salem,155128
+37,Winston-Salem,143439
+37,Durham,437797
+37,Durham,236707
+37,Durham,196167
+37,Durham,155128
+37,Durham,143439
+37,Charlotte,437797
+37,Charlotte,236707
+37,Charlotte,196167
+37,Charlotte,155128
+37,Charlotte,143439
+37,Raleigh,437797
+37,Raleigh,236707
+37,Raleigh,196167
+37,Raleigh,155128
+37,Raleigh,143439
+37,Greensboro,437797
+37,Greensboro,236707
+37,Greensboro,196167
+37,Greensboro,155128
+37,Greensboro,143439
+37,Winston-Salem,437797
+37,Winston-Salem,236707
+37,Winston-Salem,196167
+37,Winston-Salem,155128
+37,Winston-Salem,143439
+37,Durham,437797
+37,Durham,236707
+37,Durham,196167
+37,Durham,155128
+37,Durham,143439
+37,Charlotte,437797
+37,Charlotte,236707
+37,Charlotte,196167
+37,Charlotte,155128
+37,Charlotte,143439
+37,Raleigh,437797
+37,Raleigh,236707
+37,Raleigh,196167
+37,Raleigh,155128
+37,Raleigh,143439
+37,Greensboro,437797
+37,Greensboro,236707
+37,Greensboro,196167
+37,Greensboro,155128
+37,Greensboro,143439
+37,Winston-Salem,437797
+37,Winston-Salem,236707
+37,Winston-Salem,196167
+37,Winston-Salem,155128
+37,Winston-Salem,143439
+37,Durham,437797
+37,Durham,236707
+37,Durham,196167
+37,Durham,155128
+37,Durham,143439
+38,Fargo,79715
 38,Fargo,52592
 38,Fargo,50168
 38,Fargo,35352
@@ -885,7 +4386,6 @@
 38,Grand Forks,79715
 38,Grand Forks,52592
 38,Grand Forks,50168
-38,Fargo,79715
 38,Grand Forks,35352
 38,Grand Forks,16190
 38,Minot,79715
@@ -898,7 +4398,106 @@
 38,Dickinson,50168
 38,Dickinson,35352
 38,Dickinson,16190
-39,Cincinnati,358170
+38,Fargo,79715
+38,Fargo,52592
+38,Fargo,50168
+38,Fargo,35352
+38,Fargo,16190
+38,Bismarck,79715
+38,Bismarck,52592
+38,Bismarck,50168
+38,Bismarck,35352
+38,Bismarck,16190
+38,Grand Forks,79715
+38,Grand Forks,52592
+38,Grand Forks,50168
+38,Grand Forks,35352
+38,Grand Forks,16190
+38,Minot,79715
+38,Minot,52592
+38,Minot,50168
+38,Minot,35352
+38,Minot,16190
+38,Dickinson,79715
+38,Dickinson,52592
+38,Dickinson,50168
+38,Dickinson,35352
+38,Dickinson,16190
+38,Fargo,79715
+38,Fargo,52592
+38,Fargo,50168
+38,Fargo,35352
+38,Fargo,16190
+38,Bismarck,79715
+38,Bismarck,52592
+38,Bismarck,50168
+38,Bismarck,35352
+38,Bismarck,16190
+38,Grand Forks,79715
+38,Grand Forks,52592
+38,Grand Forks,50168
+38,Grand Forks,35352
+38,Grand Forks,16190
+38,Minot,79715
+38,Minot,52592
+38,Minot,50168
+38,Minot,35352
+38,Minot,16190
+38,Dickinson,79715
+38,Dickinson,52592
+38,Dickinson,50168
+38,Dickinson,35352
+38,Dickinson,16190
+38,Fargo,79715
+38,Fargo,52592
+38,Fargo,50168
+38,Fargo,35352
+38,Fargo,16190
+38,Bismarck,79715
+38,Bismarck,52592
+38,Bismarck,50168
+38,Bismarck,35352
+38,Bismarck,16190
+38,Grand Forks,79715
+38,Grand Forks,52592
+38,Grand Forks,50168
+38,Grand Forks,35352
+38,Grand Forks,16190
+38,Minot,79715
+38,Minot,52592
+38,Minot,50168
+38,Minot,35352
+38,Minot,16190
+38,Dickinson,79715
+38,Dickinson,52592
+38,Dickinson,50168
+38,Dickinson,35352
+38,Dickinson,16190
+38,Fargo,79715
+38,Fargo,52592
+38,Fargo,50168
+38,Fargo,35352
+38,Fargo,16190
+38,Bismarck,79715
+38,Bismarck,52592
+38,Bismarck,50168
+38,Bismarck,35352
+38,Bismarck,16190
+38,Grand Forks,79715
+38,Grand Forks,52592
+38,Grand Forks,50168
+38,Grand Forks,35352
+38,Grand Forks,16190
+38,Minot,79715
+38,Minot,52592
+38,Minot,50168
+38,Minot,35352
+38,Minot,16190
+38,Dickinson,79715
+38,Dickinson,52592
+38,Dickinson,50168
+38,Dickinson,35352
+38,Dickinson,16190
 39,Columbus,635913
 39,Columbus,492901
 39,Columbus,358170
@@ -911,6 +4510,7 @@
 39,Cleveland,221886
 39,Cincinnati,635913
 39,Cincinnati,492901
+39,Cincinnati,358170
 39,Cincinnati,322550
 39,Cincinnati,221886
 39,Toledo,635913
@@ -923,6 +4523,206 @@
 39,Akron,358170
 39,Akron,322550
 39,Akron,221886
+39,Columbus,635913
+39,Columbus,492901
+39,Columbus,358170
+39,Columbus,322550
+39,Columbus,221886
+39,Cleveland,635913
+39,Cleveland,492901
+39,Cleveland,358170
+39,Cleveland,322550
+39,Cleveland,221886
+39,Cincinnati,635913
+39,Cincinnati,492901
+39,Cincinnati,358170
+39,Cincinnati,322550
+39,Cincinnati,221886
+39,Toledo,635913
+39,Toledo,492901
+39,Toledo,358170
+39,Toledo,322550
+39,Toledo,221886
+39,Akron,635913
+39,Akron,492901
+39,Akron,358170
+39,Akron,322550
+39,Akron,221886
+39,Columbus,635913
+39,Columbus,492901
+39,Columbus,358170
+39,Columbus,322550
+39,Columbus,221886
+39,Cleveland,635913
+39,Cleveland,492901
+39,Cleveland,358170
+39,Cleveland,322550
+39,Cleveland,221886
+39,Cincinnati,635913
+39,Cincinnati,492901
+39,Cincinnati,358170
+39,Cincinnati,322550
+39,Cincinnati,221886
+39,Toledo,635913
+39,Toledo,492901
+39,Toledo,358170
+39,Toledo,322550
+39,Toledo,221886
+39,Akron,635913
+39,Akron,492901
+39,Akron,358170
+39,Akron,322550
+39,Akron,221886
+39,Columbus,635913
+39,Columbus,492901
+39,Columbus,358170
+39,Columbus,322550
+39,Columbus,221886
+39,Cleveland,635913
+39,Cleveland,492901
+39,Cleveland,358170
+39,Cleveland,322550
+39,Cleveland,221886
+39,Cincinnati,635913
+39,Cincinnati,492901
+39,Cincinnati,358170
+39,Cincinnati,322550
+39,Cincinnati,221886
+39,Toledo,635913
+39,Toledo,492901
+39,Toledo,358170
+39,Toledo,322550
+39,Toledo,221886
+39,Akron,635913
+39,Akron,492901
+39,Akron,358170
+39,Akron,322550
+39,Akron,221886
+39,Columbus,635913
+39,Columbus,492901
+39,Columbus,358170
+39,Columbus,322550
+39,Columbus,221886
+39,Cleveland,635913
+39,Cleveland,492901
+39,Cleveland,358170
+39,Cleveland,322550
+39,Cleveland,221886
+39,Cincinnati,635913
+39,Cincinnati,492901
+39,Cincinnati,358170
+39,Cincinnati,322550
+39,Cincinnati,221886
+39,Toledo,635913
+39,Toledo,492901
+39,Toledo,358170
+39,Toledo,322550
+39,Toledo,221886
+39,Akron,635913
+39,Akron,492901
+39,Akron,358170
+39,Akron,322550
+39,Akron,221886
+40,Oklahoma City,463201
+40,Oklahoma City,374851
+40,Oklahoma City,87290
+40,Oklahoma City,86078
+40,Oklahoma City,65679
+40,Tulsa,463201
+40,Tulsa,374851
+40,Tulsa,87290
+40,Tulsa,86078
+40,Tulsa,65679
+40,Norman,463201
+40,Norman,374851
+40,Norman,87290
+40,Norman,86078
+40,Norman,65679
+40,Lawton,463201
+40,Lawton,374851
+40,Lawton,87290
+40,Lawton,86078
+40,Lawton,65679
+40,Broken Arrow,463201
+40,Broken Arrow,374851
+40,Broken Arrow,87290
+40,Broken Arrow,86078
+40,Broken Arrow,65679
+40,Oklahoma City,463201
+40,Oklahoma City,374851
+40,Oklahoma City,87290
+40,Oklahoma City,86078
+40,Oklahoma City,65679
+40,Tulsa,463201
+40,Tulsa,374851
+40,Tulsa,87290
+40,Tulsa,86078
+40,Tulsa,65679
+40,Norman,463201
+40,Norman,374851
+40,Norman,87290
+40,Norman,86078
+40,Norman,65679
+40,Lawton,463201
+40,Lawton,374851
+40,Lawton,87290
+40,Lawton,86078
+40,Lawton,65679
+40,Broken Arrow,463201
+40,Broken Arrow,374851
+40,Broken Arrow,87290
+40,Broken Arrow,86078
+40,Broken Arrow,65679
+40,Oklahoma City,463201
+40,Oklahoma City,374851
+40,Oklahoma City,87290
+40,Oklahoma City,86078
+40,Oklahoma City,65679
+40,Tulsa,463201
+40,Tulsa,374851
+40,Tulsa,87290
+40,Tulsa,86078
+40,Tulsa,65679
+40,Norman,463201
+40,Norman,374851
+40,Norman,87290
+40,Norman,86078
+40,Norman,65679
+40,Lawton,463201
+40,Lawton,374851
+40,Lawton,87290
+40,Lawton,86078
+40,Lawton,65679
+40,Broken Arrow,463201
+40,Broken Arrow,374851
+40,Broken Arrow,87290
+40,Broken Arrow,86078
+40,Broken Arrow,65679
+40,Oklahoma City,463201
+40,Oklahoma City,374851
+40,Oklahoma City,87290
+40,Oklahoma City,86078
+40,Oklahoma City,65679
+40,Tulsa,463201
+40,Tulsa,374851
+40,Tulsa,87290
+40,Tulsa,86078
+40,Tulsa,65679
+40,Norman,463201
+40,Norman,374851
+40,Norman,87290
+40,Norman,86078
+40,Norman,65679
+40,Lawton,463201
+40,Lawton,374851
+40,Lawton,87290
+40,Lawton,86078
+40,Lawton,65679
+40,Broken Arrow,463201
+40,Broken Arrow,374851
+40,Broken Arrow,87290
+40,Broken Arrow,86078
+40,Broken Arrow,65679
 40,Oklahoma City,463201
 40,Oklahoma City,374851
 40,Oklahoma City,87290
@@ -973,6 +4773,107 @@
 41,Beaverton,115912
 41,Beaverton,78594
 41,Beaverton,59367
+41,Portland,450777
+41,Portland,118122
+41,Portland,115912
+41,Portland,78594
+41,Portland,59367
+41,Eugene,450777
+41,Eugene,118122
+41,Eugene,115912
+41,Eugene,78594
+41,Eugene,59367
+41,Salem,450777
+41,Salem,118122
+41,Salem,115912
+41,Salem,78594
+41,Salem,59367
+41,Gresham,450777
+41,Gresham,118122
+41,Gresham,115912
+41,Gresham,78594
+41,Gresham,59367
+41,Beaverton,450777
+41,Beaverton,118122
+41,Beaverton,115912
+41,Beaverton,78594
+41,Beaverton,59367
+41,Portland,450777
+41,Portland,118122
+41,Portland,115912
+41,Portland,78594
+41,Portland,59367
+41,Eugene,450777
+41,Eugene,118122
+41,Eugene,115912
+41,Eugene,78594
+41,Eugene,59367
+41,Salem,450777
+41,Salem,118122
+41,Salem,115912
+41,Salem,78594
+41,Salem,59367
+41,Gresham,450777
+41,Gresham,118122
+41,Gresham,115912
+41,Gresham,78594
+41,Gresham,59367
+41,Beaverton,450777
+41,Beaverton,118122
+41,Beaverton,115912
+41,Beaverton,78594
+41,Beaverton,59367
+41,Portland,450777
+41,Portland,118122
+41,Portland,115912
+41,Portland,78594
+41,Portland,59367
+41,Eugene,450777
+41,Eugene,118122
+41,Eugene,115912
+41,Eugene,78594
+41,Eugene,59367
+41,Salem,450777
+41,Salem,118122
+41,Salem,115912
+41,Salem,78594
+41,Salem,59367
+41,Gresham,450777
+41,Gresham,118122
+41,Gresham,115912
+41,Gresham,78594
+41,Gresham,59367
+41,Beaverton,450777
+41,Beaverton,118122
+41,Beaverton,115912
+41,Beaverton,78594
+41,Beaverton,59367
+41,Portland,450777
+41,Portland,118122
+41,Portland,115912
+41,Portland,78594
+41,Portland,59367
+41,Eugene,450777
+41,Eugene,118122
+41,Eugene,115912
+41,Eugene,78594
+41,Eugene,59367
+41,Salem,450777
+41,Salem,118122
+41,Salem,115912
+41,Salem,78594
+41,Salem,59367
+41,Gresham,450777
+41,Gresham,118122
+41,Gresham,115912
+41,Gresham,78594
+41,Gresham,59367
+41,Beaverton,450777
+41,Beaverton,118122
+41,Beaverton,115912
+41,Beaverton,78594
+41,Beaverton,59367
+42,Philadelphia,1524249
 42,Philadelphia,358883
 42,Philadelphia,108398
 42,Philadelphia,105339
@@ -985,7 +4886,6 @@
 42,Erie,1524249
 42,Erie,358883
 42,Erie,108398
-42,Philadelphia,1524249
 42,Erie,105339
 42,Erie,78246
 42,Allentown,1524249
@@ -998,7 +4898,106 @@
 42,Reading,108398
 42,Reading,105339
 42,Reading,78246
-44,Cranston,77323
+42,Philadelphia,1524249
+42,Philadelphia,358883
+42,Philadelphia,108398
+42,Philadelphia,105339
+42,Philadelphia,78246
+42,Pittsburgh,1524249
+42,Pittsburgh,358883
+42,Pittsburgh,108398
+42,Pittsburgh,105339
+42,Pittsburgh,78246
+42,Erie,1524249
+42,Erie,358883
+42,Erie,108398
+42,Erie,105339
+42,Erie,78246
+42,Allentown,1524249
+42,Allentown,358883
+42,Allentown,108398
+42,Allentown,105339
+42,Allentown,78246
+42,Reading,1524249
+42,Reading,358883
+42,Reading,108398
+42,Reading,105339
+42,Reading,78246
+42,Philadelphia,1524249
+42,Philadelphia,358883
+42,Philadelphia,108398
+42,Philadelphia,105339
+42,Philadelphia,78246
+42,Pittsburgh,1524249
+42,Pittsburgh,358883
+42,Pittsburgh,108398
+42,Pittsburgh,105339
+42,Pittsburgh,78246
+42,Erie,1524249
+42,Erie,358883
+42,Erie,108398
+42,Erie,105339
+42,Erie,78246
+42,Allentown,1524249
+42,Allentown,358883
+42,Allentown,108398
+42,Allentown,105339
+42,Allentown,78246
+42,Reading,1524249
+42,Reading,358883
+42,Reading,108398
+42,Reading,105339
+42,Reading,78246
+42,Philadelphia,1524249
+42,Philadelphia,358883
+42,Philadelphia,108398
+42,Philadelphia,105339
+42,Philadelphia,78246
+42,Pittsburgh,1524249
+42,Pittsburgh,358883
+42,Pittsburgh,108398
+42,Pittsburgh,105339
+42,Pittsburgh,78246
+42,Erie,1524249
+42,Erie,358883
+42,Erie,108398
+42,Erie,105339
+42,Erie,78246
+42,Allentown,1524249
+42,Allentown,358883
+42,Allentown,108398
+42,Allentown,105339
+42,Allentown,78246
+42,Reading,1524249
+42,Reading,358883
+42,Reading,108398
+42,Reading,105339
+42,Reading,78246
+42,Philadelphia,1524249
+42,Philadelphia,358883
+42,Philadelphia,108398
+42,Philadelphia,105339
+42,Philadelphia,78246
+42,Pittsburgh,1524249
+42,Pittsburgh,358883
+42,Pittsburgh,108398
+42,Pittsburgh,105339
+42,Pittsburgh,78246
+42,Erie,1524249
+42,Erie,358883
+42,Erie,108398
+42,Erie,105339
+42,Erie,78246
+42,Allentown,1524249
+42,Allentown,358883
+42,Allentown,108398
+42,Allentown,105339
+42,Allentown,78246
+42,Reading,1524249
+42,Reading,358883
+42,Reading,108398
+42,Reading,105339
+42,Reading,78246
 44,Providence,150639
 44,Providence,86006
 44,Providence,77323
@@ -1011,6 +5010,7 @@
 44,Warwick,50059
 44,Cranston,150639
 44,Cranston,86006
+44,Cranston,77323
 44,Cranston,69002
 44,Cranston,50059
 44,Pawtucket,150639
@@ -1023,6 +5023,206 @@
 44,East Providence,77323
 44,East Providence,69002
 44,East Providence,50059
+44,Providence,150639
+44,Providence,86006
+44,Providence,77323
+44,Providence,69002
+44,Providence,50059
+44,Warwick,150639
+44,Warwick,86006
+44,Warwick,77323
+44,Warwick,69002
+44,Warwick,50059
+44,Cranston,150639
+44,Cranston,86006
+44,Cranston,77323
+44,Cranston,69002
+44,Cranston,50059
+44,Pawtucket,150639
+44,Pawtucket,86006
+44,Pawtucket,77323
+44,Pawtucket,69002
+44,Pawtucket,50059
+44,East Providence,150639
+44,East Providence,86006
+44,East Providence,77323
+44,East Providence,69002
+44,East Providence,50059
+44,Providence,150639
+44,Providence,86006
+44,Providence,77323
+44,Providence,69002
+44,Providence,50059
+44,Warwick,150639
+44,Warwick,86006
+44,Warwick,77323
+44,Warwick,69002
+44,Warwick,50059
+44,Cranston,150639
+44,Cranston,86006
+44,Cranston,77323
+44,Cranston,69002
+44,Cranston,50059
+44,Pawtucket,150639
+44,Pawtucket,86006
+44,Pawtucket,77323
+44,Pawtucket,69002
+44,Pawtucket,50059
+44,East Providence,150639
+44,East Providence,86006
+44,East Providence,77323
+44,East Providence,69002
+44,East Providence,50059
+44,Providence,150639
+44,Providence,86006
+44,Providence,77323
+44,Providence,69002
+44,Providence,50059
+44,Warwick,150639
+44,Warwick,86006
+44,Warwick,77323
+44,Warwick,69002
+44,Warwick,50059
+44,Cranston,150639
+44,Cranston,86006
+44,Cranston,77323
+44,Cranston,69002
+44,Cranston,50059
+44,Pawtucket,150639
+44,Pawtucket,86006
+44,Pawtucket,77323
+44,Pawtucket,69002
+44,Pawtucket,50059
+44,East Providence,150639
+44,East Providence,86006
+44,East Providence,77323
+44,East Providence,69002
+44,East Providence,50059
+44,Providence,150639
+44,Providence,86006
+44,Providence,77323
+44,Providence,69002
+44,Providence,50059
+44,Warwick,150639
+44,Warwick,86006
+44,Warwick,77323
+44,Warwick,69002
+44,Warwick,50059
+44,Cranston,150639
+44,Cranston,86006
+44,Cranston,77323
+44,Cranston,69002
+44,Cranston,50059
+44,Pawtucket,150639
+44,Pawtucket,86006
+44,Pawtucket,77323
+44,Pawtucket,69002
+44,Pawtucket,50059
+44,East Providence,150639
+44,East Providence,86006
+44,East Providence,77323
+44,East Providence,69002
+44,East Providence,50059
+45,Columbia,104101
+45,Columbia,76854
+45,Columbia,67720
+45,Columbia,59808
+45,Columbia,47006
+45,Charleston,104101
+45,Charleston,76854
+45,Charleston,67720
+45,Charleston,59808
+45,Charleston,47006
+45,North Charleston,104101
+45,North Charleston,76854
+45,North Charleston,67720
+45,North Charleston,59808
+45,North Charleston,47006
+45,Greenville,104101
+45,Greenville,76854
+45,Greenville,67720
+45,Greenville,59808
+45,Greenville,47006
+45,Rock Hill,104101
+45,Rock Hill,76854
+45,Rock Hill,67720
+45,Rock Hill,59808
+45,Rock Hill,47006
+45,Columbia,104101
+45,Columbia,76854
+45,Columbia,67720
+45,Columbia,59808
+45,Columbia,47006
+45,Charleston,104101
+45,Charleston,76854
+45,Charleston,67720
+45,Charleston,59808
+45,Charleston,47006
+45,North Charleston,104101
+45,North Charleston,76854
+45,North Charleston,67720
+45,North Charleston,59808
+45,North Charleston,47006
+45,Greenville,104101
+45,Greenville,76854
+45,Greenville,67720
+45,Greenville,59808
+45,Greenville,47006
+45,Rock Hill,104101
+45,Rock Hill,76854
+45,Rock Hill,67720
+45,Rock Hill,59808
+45,Rock Hill,47006
+45,Columbia,104101
+45,Columbia,76854
+45,Columbia,67720
+45,Columbia,59808
+45,Columbia,47006
+45,Charleston,104101
+45,Charleston,76854
+45,Charleston,67720
+45,Charleston,59808
+45,Charleston,47006
+45,North Charleston,104101
+45,North Charleston,76854
+45,North Charleston,67720
+45,North Charleston,59808
+45,North Charleston,47006
+45,Greenville,104101
+45,Greenville,76854
+45,Greenville,67720
+45,Greenville,59808
+45,Greenville,47006
+45,Rock Hill,104101
+45,Rock Hill,76854
+45,Rock Hill,67720
+45,Rock Hill,59808
+45,Rock Hill,47006
+45,Columbia,104101
+45,Columbia,76854
+45,Columbia,67720
+45,Columbia,59808
+45,Columbia,47006
+45,Charleston,104101
+45,Charleston,76854
+45,Charleston,67720
+45,Charleston,59808
+45,Charleston,47006
+45,North Charleston,104101
+45,North Charleston,76854
+45,North Charleston,67720
+45,North Charleston,59808
+45,North Charleston,47006
+45,Greenville,104101
+45,Greenville,76854
+45,Greenville,67720
+45,Greenville,59808
+45,Greenville,47006
+45,Rock Hill,104101
+45,Rock Hill,76854
+45,Rock Hill,67720
+45,Rock Hill,59808
+45,Rock Hill,47006
 45,Columbia,104101
 45,Columbia,76854
 45,Columbia,67720
@@ -1073,6 +5273,206 @@
 46,Brookings,25091
 46,Brookings,19279
 46,Brookings,17241
+46,Sioux Falls,109174
+46,Sioux Falls,57609
+46,Sioux Falls,25091
+46,Sioux Falls,19279
+46,Sioux Falls,17241
+46,Rapid City,109174
+46,Rapid City,57609
+46,Rapid City,25091
+46,Rapid City,19279
+46,Rapid City,17241
+46,Aberdeen,109174
+46,Aberdeen,57609
+46,Aberdeen,25091
+46,Aberdeen,19279
+46,Aberdeen,17241
+46,Watertown,109174
+46,Watertown,57609
+46,Watertown,25091
+46,Watertown,19279
+46,Watertown,17241
+46,Brookings,109174
+46,Brookings,57609
+46,Brookings,25091
+46,Brookings,19279
+46,Brookings,17241
+46,Sioux Falls,109174
+46,Sioux Falls,57609
+46,Sioux Falls,25091
+46,Sioux Falls,19279
+46,Sioux Falls,17241
+46,Rapid City,109174
+46,Rapid City,57609
+46,Rapid City,25091
+46,Rapid City,19279
+46,Rapid City,17241
+46,Aberdeen,109174
+46,Aberdeen,57609
+46,Aberdeen,25091
+46,Aberdeen,19279
+46,Aberdeen,17241
+46,Watertown,109174
+46,Watertown,57609
+46,Watertown,25091
+46,Watertown,19279
+46,Watertown,17241
+46,Brookings,109174
+46,Brookings,57609
+46,Brookings,25091
+46,Brookings,19279
+46,Brookings,17241
+46,Sioux Falls,109174
+46,Sioux Falls,57609
+46,Sioux Falls,25091
+46,Sioux Falls,19279
+46,Sioux Falls,17241
+46,Rapid City,109174
+46,Rapid City,57609
+46,Rapid City,25091
+46,Rapid City,19279
+46,Rapid City,17241
+46,Aberdeen,109174
+46,Aberdeen,57609
+46,Aberdeen,25091
+46,Aberdeen,19279
+46,Aberdeen,17241
+46,Watertown,109174
+46,Watertown,57609
+46,Watertown,25091
+46,Watertown,19279
+46,Watertown,17241
+46,Brookings,109174
+46,Brookings,57609
+46,Brookings,25091
+46,Brookings,19279
+46,Brookings,17241
+46,Sioux Falls,109174
+46,Sioux Falls,57609
+46,Sioux Falls,25091
+46,Sioux Falls,19279
+46,Sioux Falls,17241
+46,Rapid City,109174
+46,Rapid City,57609
+46,Rapid City,25091
+46,Rapid City,19279
+46,Rapid City,17241
+46,Aberdeen,109174
+46,Aberdeen,57609
+46,Aberdeen,25091
+46,Aberdeen,19279
+46,Aberdeen,17241
+46,Watertown,109174
+46,Watertown,57609
+46,Watertown,25091
+46,Watertown,19279
+46,Watertown,17241
+46,Brookings,109174
+46,Brookings,57609
+46,Brookings,25091
+46,Brookings,19279
+46,Brookings,17241
+47,Memphis,614289
+47,Memphis,504505
+47,Memphis,169311
+47,Memphis,152259
+47,Memphis,92116
+47,Nashville,614289
+47,Nashville,504505
+47,Nashville,169311
+47,Nashville,152259
+47,Nashville,92116
+47,Knoxville,614289
+47,Knoxville,504505
+47,Knoxville,169311
+47,Knoxville,152259
+47,Knoxville,92116
+47,Chattanooga,614289
+47,Chattanooga,504505
+47,Chattanooga,169311
+47,Chattanooga,152259
+47,Chattanooga,92116
+47,Clarksville,614289
+47,Clarksville,504505
+47,Clarksville,169311
+47,Clarksville,152259
+47,Clarksville,92116
+47,Memphis,614289
+47,Memphis,504505
+47,Memphis,169311
+47,Memphis,152259
+47,Memphis,92116
+47,Nashville,614289
+47,Nashville,504505
+47,Nashville,169311
+47,Nashville,152259
+47,Nashville,92116
+47,Knoxville,614289
+47,Knoxville,504505
+47,Knoxville,169311
+47,Knoxville,152259
+47,Knoxville,92116
+47,Chattanooga,614289
+47,Chattanooga,504505
+47,Chattanooga,169311
+47,Chattanooga,152259
+47,Chattanooga,92116
+47,Clarksville,614289
+47,Clarksville,504505
+47,Clarksville,169311
+47,Clarksville,152259
+47,Clarksville,92116
+47,Memphis,614289
+47,Memphis,504505
+47,Memphis,169311
+47,Memphis,152259
+47,Memphis,92116
+47,Nashville,614289
+47,Nashville,504505
+47,Nashville,169311
+47,Nashville,152259
+47,Nashville,92116
+47,Knoxville,614289
+47,Knoxville,504505
+47,Knoxville,169311
+47,Knoxville,152259
+47,Knoxville,92116
+47,Chattanooga,614289
+47,Chattanooga,504505
+47,Chattanooga,169311
+47,Chattanooga,152259
+47,Chattanooga,92116
+47,Clarksville,614289
+47,Clarksville,504505
+47,Clarksville,169311
+47,Clarksville,152259
+47,Clarksville,92116
+47,Memphis,614289
+47,Memphis,504505
+47,Memphis,169311
+47,Memphis,152259
+47,Memphis,92116
+47,Nashville,614289
+47,Nashville,504505
+47,Nashville,169311
+47,Nashville,152259
+47,Nashville,92116
+47,Knoxville,614289
+47,Knoxville,504505
+47,Knoxville,169311
+47,Knoxville,152259
+47,Knoxville,92116
+47,Chattanooga,614289
+47,Chattanooga,504505
+47,Chattanooga,169311
+47,Chattanooga,152259
+47,Chattanooga,92116
+47,Clarksville,614289
+47,Clarksville,504505
+47,Clarksville,169311
+47,Clarksville,152259
+47,Clarksville,92116
 47,Memphis,614289
 47,Memphis,504505
 47,Memphis,169311
@@ -1123,7 +5523,106 @@
 48,Austin,998905
 48,Austin,579307
 48,Austin,514013
-49,Provo,88519
+48,Houston,1702086
+48,Houston,1022830
+48,Houston,998905
+48,Houston,579307
+48,Houston,514013
+48,Dallas,1702086
+48,Dallas,1022830
+48,Dallas,998905
+48,Dallas,579307
+48,Dallas,514013
+48,San Antonio,1702086
+48,San Antonio,1022830
+48,San Antonio,998905
+48,San Antonio,579307
+48,San Antonio,514013
+48,El Paso,1702086
+48,El Paso,1022830
+48,El Paso,998905
+48,El Paso,579307
+48,El Paso,514013
+48,Austin,1702086
+48,Austin,1022830
+48,Austin,998905
+48,Austin,579307
+48,Austin,514013
+48,Houston,1702086
+48,Houston,1022830
+48,Houston,998905
+48,Houston,579307
+48,Houston,514013
+48,Dallas,1702086
+48,Dallas,1022830
+48,Dallas,998905
+48,Dallas,579307
+48,Dallas,514013
+48,San Antonio,1702086
+48,San Antonio,1022830
+48,San Antonio,998905
+48,San Antonio,579307
+48,San Antonio,514013
+48,El Paso,1702086
+48,El Paso,1022830
+48,El Paso,998905
+48,El Paso,579307
+48,El Paso,514013
+48,Austin,1702086
+48,Austin,1022830
+48,Austin,998905
+48,Austin,579307
+48,Austin,514013
+48,Houston,1702086
+48,Houston,1022830
+48,Houston,998905
+48,Houston,579307
+48,Houston,514013
+48,Dallas,1702086
+48,Dallas,1022830
+48,Dallas,998905
+48,Dallas,579307
+48,Dallas,514013
+48,San Antonio,1702086
+48,San Antonio,1022830
+48,San Antonio,998905
+48,San Antonio,579307
+48,San Antonio,514013
+48,El Paso,1702086
+48,El Paso,1022830
+48,El Paso,998905
+48,El Paso,579307
+48,El Paso,514013
+48,Austin,1702086
+48,Austin,1022830
+48,Austin,998905
+48,Austin,579307
+48,Austin,514013
+48,Houston,1702086
+48,Houston,1022830
+48,Houston,998905
+48,Houston,579307
+48,Houston,514013
+48,Dallas,1702086
+48,Dallas,1022830
+48,Dallas,998905
+48,Dallas,579307
+48,Dallas,514013
+48,San Antonio,1702086
+48,San Antonio,1022830
+48,San Antonio,998905
+48,San Antonio,579307
+48,San Antonio,514013
+48,El Paso,1702086
+48,El Paso,1022830
+48,El Paso,998905
+48,El Paso,579307
+48,El Paso,514013
+48,Austin,1702086
+48,Austin,1022830
+48,Austin,998905
+48,Austin,579307
+48,Austin,514013
 49,Salt Lake City,171849
 49,Salt Lake City,94663
 49,Salt Lake City,88519
@@ -1136,6 +5635,7 @@
 49,West Valley City,74402
 49,Provo,171849
 49,Provo,94663
+49,Provo,88519
 49,Provo,85406
 49,Provo,74402
 49,Sandy City,171849
@@ -1148,6 +5648,108 @@
 49,Orem,88519
 49,Orem,85406
 49,Orem,74402
+49,Salt Lake City,171849
+49,Salt Lake City,94663
+49,Salt Lake City,88519
+49,Salt Lake City,85406
+49,Salt Lake City,74402
+49,West Valley City,171849
+49,West Valley City,94663
+49,West Valley City,88519
+49,West Valley City,85406
+49,West Valley City,74402
+49,Provo,171849
+49,Provo,94663
+49,Provo,88519
+49,Provo,85406
+49,Provo,74402
+49,Sandy City,171849
+49,Sandy City,94663
+49,Sandy City,88519
+49,Sandy City,85406
+49,Sandy City,74402
+49,Orem,171849
+49,Orem,94663
+49,Orem,88519
+49,Orem,85406
+49,Orem,74402
+49,Salt Lake City,171849
+49,Salt Lake City,94663
+49,Salt Lake City,88519
+49,Salt Lake City,85406
+49,Salt Lake City,74402
+49,West Valley City,171849
+49,West Valley City,94663
+49,West Valley City,88519
+49,West Valley City,85406
+49,West Valley City,74402
+49,Provo,171849
+49,Provo,94663
+49,Provo,88519
+49,Provo,85406
+49,Provo,74402
+49,Sandy City,171849
+49,Sandy City,94663
+49,Sandy City,88519
+49,Sandy City,85406
+49,Sandy City,74402
+49,Orem,171849
+49,Orem,94663
+49,Orem,88519
+49,Orem,85406
+49,Orem,74402
+49,Salt Lake City,171849
+49,Salt Lake City,94663
+49,Salt Lake City,88519
+49,Salt Lake City,85406
+49,Salt Lake City,74402
+49,West Valley City,171849
+49,West Valley City,94663
+49,West Valley City,88519
+49,West Valley City,85406
+49,West Valley City,74402
+49,Provo,171849
+49,Provo,94663
+49,Provo,88519
+49,Provo,85406
+49,Provo,74402
+49,Sandy City,171849
+49,Sandy City,94663
+49,Sandy City,88519
+49,Sandy City,85406
+49,Sandy City,74402
+49,Orem,171849
+49,Orem,94663
+49,Orem,88519
+49,Orem,85406
+49,Orem,74402
+49,Salt Lake City,171849
+49,Salt Lake City,94663
+49,Salt Lake City,88519
+49,Salt Lake City,85406
+49,Salt Lake City,74402
+49,West Valley City,171849
+49,West Valley City,94663
+49,West Valley City,88519
+49,West Valley City,85406
+49,West Valley City,74402
+49,Provo,171849
+49,Provo,94663
+49,Provo,88519
+49,Provo,85406
+49,Provo,74402
+49,Sandy City,171849
+49,Sandy City,94663
+49,Sandy City,88519
+49,Sandy City,85406
+49,Sandy City,74402
+49,Orem,171849
+49,Orem,94663
+49,Orem,88519
+49,Orem,85406
+49,Orem,74402
+50,Burlington,38306
+50,Burlington,17489
 50,Burlington,13170
 50,Burlington,9532
 50,Burlington,9466
@@ -1159,8 +5761,6 @@
 50,South Burlington,38306
 50,South Burlington,17489
 50,South Burlington,13170
-50,Burlington,38306
-50,Burlington,17489
 50,South Burlington,9532
 50,South Burlington,9466
 50,Bennington,38306
@@ -1173,7 +5773,106 @@
 50,Barre,13170
 50,Barre,9532
 50,Barre,9466
-51,Richmond,201108
+50,Burlington,38306
+50,Burlington,17489
+50,Burlington,13170
+50,Burlington,9532
+50,Burlington,9466
+50,Rutland,38306
+50,Rutland,17489
+50,Rutland,13170
+50,Rutland,9532
+50,Rutland,9466
+50,South Burlington,38306
+50,South Burlington,17489
+50,South Burlington,13170
+50,South Burlington,9532
+50,South Burlington,9466
+50,Bennington,38306
+50,Bennington,17489
+50,Bennington,13170
+50,Bennington,9532
+50,Bennington,9466
+50,Barre,38306
+50,Barre,17489
+50,Barre,13170
+50,Barre,9532
+50,Barre,9466
+50,Burlington,38306
+50,Burlington,17489
+50,Burlington,13170
+50,Burlington,9532
+50,Burlington,9466
+50,Rutland,38306
+50,Rutland,17489
+50,Rutland,13170
+50,Rutland,9532
+50,Rutland,9466
+50,South Burlington,38306
+50,South Burlington,17489
+50,South Burlington,13170
+50,South Burlington,9532
+50,South Burlington,9466
+50,Bennington,38306
+50,Bennington,17489
+50,Bennington,13170
+50,Bennington,9532
+50,Bennington,9466
+50,Barre,38306
+50,Barre,17489
+50,Barre,13170
+50,Barre,9532
+50,Barre,9466
+50,Burlington,38306
+50,Burlington,17489
+50,Burlington,13170
+50,Burlington,9532
+50,Burlington,9466
+50,Rutland,38306
+50,Rutland,17489
+50,Rutland,13170
+50,Rutland,9532
+50,Rutland,9466
+50,South Burlington,38306
+50,South Burlington,17489
+50,South Burlington,13170
+50,South Burlington,9532
+50,South Burlington,9466
+50,Bennington,38306
+50,Bennington,17489
+50,Bennington,13170
+50,Bennington,9532
+50,Bennington,9466
+50,Barre,38306
+50,Barre,17489
+50,Barre,13170
+50,Barre,9532
+50,Barre,9466
+50,Burlington,38306
+50,Burlington,17489
+50,Burlington,13170
+50,Burlington,9532
+50,Burlington,9466
+50,Rutland,38306
+50,Rutland,17489
+50,Rutland,13170
+50,Rutland,9532
+50,Rutland,9466
+50,South Burlington,38306
+50,South Burlington,17489
+50,South Burlington,13170
+50,South Burlington,9532
+50,South Burlington,9466
+50,Bennington,38306
+50,Bennington,17489
+50,Bennington,13170
+50,Bennington,9532
+50,Bennington,9466
+50,Barre,38306
+50,Barre,17489
+50,Barre,13170
+50,Barre,9532
+50,Barre,9466
 51,Virginia Beach,430295
 51,Virginia Beach,241426
 51,Virginia Beach,201108
@@ -1186,6 +5885,107 @@
 51,Norfolk,179127
 51,Richmond,430295
 51,Richmond,241426
+51,Richmond,201108
+51,Richmond,180577
+51,Richmond,179127
+51,Chesapeake,430295
+51,Chesapeake,241426
+51,Chesapeake,201108
+51,Chesapeake,180577
+51,Chesapeake,179127
+51,Newport News,430295
+51,Newport News,241426
+51,Newport News,201108
+51,Newport News,180577
+51,Newport News,179127
+51,Virginia Beach,430295
+51,Virginia Beach,241426
+51,Virginia Beach,201108
+51,Virginia Beach,180577
+51,Virginia Beach,179127
+51,Norfolk,430295
+51,Norfolk,241426
+51,Norfolk,201108
+51,Norfolk,180577
+51,Norfolk,179127
+51,Richmond,430295
+51,Richmond,241426
+51,Richmond,201108
+51,Richmond,180577
+51,Richmond,179127
+51,Chesapeake,430295
+51,Chesapeake,241426
+51,Chesapeake,201108
+51,Chesapeake,180577
+51,Chesapeake,179127
+51,Newport News,430295
+51,Newport News,241426
+51,Newport News,201108
+51,Newport News,180577
+51,Newport News,179127
+51,Virginia Beach,430295
+51,Virginia Beach,241426
+51,Virginia Beach,201108
+51,Virginia Beach,180577
+51,Virginia Beach,179127
+51,Norfolk,430295
+51,Norfolk,241426
+51,Norfolk,201108
+51,Norfolk,180577
+51,Norfolk,179127
+51,Richmond,430295
+51,Richmond,241426
+51,Richmond,201108
+51,Richmond,180577
+51,Richmond,179127
+51,Chesapeake,430295
+51,Chesapeake,241426
+51,Chesapeake,201108
+51,Chesapeake,180577
+51,Chesapeake,179127
+51,Newport News,430295
+51,Newport News,241426
+51,Newport News,201108
+51,Newport News,180577
+51,Newport News,179127
+51,Virginia Beach,430295
+51,Virginia Beach,241426
+51,Virginia Beach,201108
+51,Virginia Beach,180577
+51,Virginia Beach,179127
+51,Norfolk,430295
+51,Norfolk,241426
+51,Norfolk,201108
+51,Norfolk,180577
+51,Norfolk,179127
+51,Richmond,430295
+51,Richmond,241426
+51,Richmond,201108
+51,Richmond,180577
+51,Richmond,179127
+51,Chesapeake,430295
+51,Chesapeake,241426
+51,Chesapeake,201108
+51,Chesapeake,180577
+51,Chesapeake,179127
+51,Newport News,430295
+51,Newport News,241426
+51,Newport News,201108
+51,Newport News,180577
+51,Newport News,179127
+51,Virginia Beach,430295
+51,Virginia Beach,241426
+51,Virginia Beach,201108
+51,Virginia Beach,180577
+51,Virginia Beach,179127
+51,Norfolk,430295
+51,Norfolk,241426
+51,Norfolk,201108
+51,Norfolk,180577
+51,Norfolk,179127
+51,Richmond,430295
+51,Richmond,241426
+51,Richmond,201108
 51,Richmond,180577
 51,Richmond,179127
 51,Chesapeake,430295
@@ -1223,7 +6023,106 @@
 53,Everett,183060
 53,Everett,84239
 53,Everett,76685
-54,Wheeling,33969
+53,Seattle,520947
+53,Seattle,192781
+53,Seattle,183060
+53,Seattle,84239
+53,Seattle,76685
+53,Spokane,520947
+53,Spokane,192781
+53,Spokane,183060
+53,Spokane,84239
+53,Spokane,76685
+53,Tacoma,520947
+53,Tacoma,192781
+53,Tacoma,183060
+53,Tacoma,84239
+53,Tacoma,76685
+53,Bellevue,520947
+53,Bellevue,192781
+53,Bellevue,183060
+53,Bellevue,84239
+53,Bellevue,76685
+53,Everett,520947
+53,Everett,192781
+53,Everett,183060
+53,Everett,84239
+53,Everett,76685
+53,Seattle,520947
+53,Seattle,192781
+53,Seattle,183060
+53,Seattle,84239
+53,Seattle,76685
+53,Spokane,520947
+53,Spokane,192781
+53,Spokane,183060
+53,Spokane,84239
+53,Spokane,76685
+53,Tacoma,520947
+53,Tacoma,192781
+53,Tacoma,183060
+53,Tacoma,84239
+53,Tacoma,76685
+53,Bellevue,520947
+53,Bellevue,192781
+53,Bellevue,183060
+53,Bellevue,84239
+53,Bellevue,76685
+53,Everett,520947
+53,Everett,192781
+53,Everett,183060
+53,Everett,84239
+53,Everett,76685
+53,Seattle,520947
+53,Seattle,192781
+53,Seattle,183060
+53,Seattle,84239
+53,Seattle,76685
+53,Spokane,520947
+53,Spokane,192781
+53,Spokane,183060
+53,Spokane,84239
+53,Spokane,76685
+53,Tacoma,520947
+53,Tacoma,192781
+53,Tacoma,183060
+53,Tacoma,84239
+53,Tacoma,76685
+53,Bellevue,520947
+53,Bellevue,192781
+53,Bellevue,183060
+53,Bellevue,84239
+53,Bellevue,76685
+53,Everett,520947
+53,Everett,192781
+53,Everett,183060
+53,Everett,84239
+53,Everett,76685
+53,Seattle,520947
+53,Seattle,192781
+53,Seattle,183060
+53,Seattle,84239
+53,Seattle,76685
+53,Spokane,520947
+53,Spokane,192781
+53,Spokane,183060
+53,Spokane,84239
+53,Spokane,76685
+53,Tacoma,520947
+53,Tacoma,192781
+53,Tacoma,183060
+53,Tacoma,84239
+53,Tacoma,76685
+53,Bellevue,520947
+53,Bellevue,192781
+53,Bellevue,183060
+53,Bellevue,84239
+53,Bellevue,76685
+53,Everett,520947
+53,Everett,192781
+53,Everett,183060
+53,Everett,84239
+53,Everett,76685
 54,Charleston,56553
 54,Charleston,53789
 54,Charleston,33969
@@ -1236,6 +6135,7 @@
 54,Huntington,26517
 54,Wheeling,56553
 54,Wheeling,53789
+54,Wheeling,33969
 54,Wheeling,33102
 54,Wheeling,26517
 54,Parkersburg,56553
@@ -1248,6 +6148,107 @@
 54,Morgantown,33969
 54,Morgantown,33102
 54,Morgantown,26517
+54,Charleston,56553
+54,Charleston,53789
+54,Charleston,33969
+54,Charleston,33102
+54,Charleston,26517
+54,Huntington,56553
+54,Huntington,53789
+54,Huntington,33969
+54,Huntington,33102
+54,Huntington,26517
+54,Wheeling,56553
+54,Wheeling,53789
+54,Wheeling,33969
+54,Wheeling,33102
+54,Wheeling,26517
+54,Parkersburg,56553
+54,Parkersburg,53789
+54,Parkersburg,33969
+54,Parkersburg,33102
+54,Parkersburg,26517
+54,Morgantown,56553
+54,Morgantown,53789
+54,Morgantown,33969
+54,Morgantown,33102
+54,Morgantown,26517
+54,Charleston,56553
+54,Charleston,53789
+54,Charleston,33969
+54,Charleston,33102
+54,Charleston,26517
+54,Huntington,56553
+54,Huntington,53789
+54,Huntington,33969
+54,Huntington,33102
+54,Huntington,26517
+54,Wheeling,56553
+54,Wheeling,53789
+54,Wheeling,33969
+54,Wheeling,33102
+54,Wheeling,26517
+54,Parkersburg,56553
+54,Parkersburg,53789
+54,Parkersburg,33969
+54,Parkersburg,33102
+54,Parkersburg,26517
+54,Morgantown,56553
+54,Morgantown,53789
+54,Morgantown,33969
+54,Morgantown,33102
+54,Morgantown,26517
+54,Charleston,56553
+54,Charleston,53789
+54,Charleston,33969
+54,Charleston,33102
+54,Charleston,26517
+54,Huntington,56553
+54,Huntington,53789
+54,Huntington,33969
+54,Huntington,33102
+54,Huntington,26517
+54,Wheeling,56553
+54,Wheeling,53789
+54,Wheeling,33969
+54,Wheeling,33102
+54,Wheeling,26517
+54,Parkersburg,56553
+54,Parkersburg,53789
+54,Parkersburg,33969
+54,Parkersburg,33102
+54,Parkersburg,26517
+54,Morgantown,56553
+54,Morgantown,53789
+54,Morgantown,33969
+54,Morgantown,33102
+54,Morgantown,26517
+54,Charleston,56553
+54,Charleston,53789
+54,Charleston,33969
+54,Charleston,33102
+54,Charleston,26517
+54,Huntington,56553
+54,Huntington,53789
+54,Huntington,33969
+54,Huntington,33102
+54,Huntington,26517
+54,Wheeling,56553
+54,Wheeling,53789
+54,Wheeling,33969
+54,Wheeling,33102
+54,Wheeling,26517
+54,Parkersburg,56553
+54,Parkersburg,53789
+54,Parkersburg,33969
+54,Parkersburg,33102
+54,Parkersburg,26517
+54,Morgantown,56553
+54,Morgantown,53789
+54,Morgantown,33969
+54,Morgantown,33102
+54,Morgantown,26517
+55,Milwaukee,617044
 55,Milwaukee,194586
 55,Milwaukee,102708
 55,Milwaukee,86014
@@ -1260,7 +6261,6 @@
 55,Green Bay,617044
 55,Green Bay,194586
 55,Green Bay,102708
-55,Milwaukee,617044
 55,Green Bay,86014
 55,Green Bay,85122
 55,Racine,617044
@@ -1273,7 +6273,106 @@
 55,Kenosha,102708
 55,Kenosha,86014
 55,Kenosha,85122
-56,Laramie,27223
+55,Milwaukee,617044
+55,Milwaukee,194586
+55,Milwaukee,102708
+55,Milwaukee,86014
+55,Milwaukee,85122
+55,Madison,617044
+55,Madison,194586
+55,Madison,102708
+55,Madison,86014
+55,Madison,85122
+55,Green Bay,617044
+55,Green Bay,194586
+55,Green Bay,102708
+55,Green Bay,86014
+55,Green Bay,85122
+55,Racine,617044
+55,Racine,194586
+55,Racine,102708
+55,Racine,86014
+55,Racine,85122
+55,Kenosha,617044
+55,Kenosha,194586
+55,Kenosha,102708
+55,Kenosha,86014
+55,Kenosha,85122
+55,Milwaukee,617044
+55,Milwaukee,194586
+55,Milwaukee,102708
+55,Milwaukee,86014
+55,Milwaukee,85122
+55,Madison,617044
+55,Madison,194586
+55,Madison,102708
+55,Madison,86014
+55,Madison,85122
+55,Green Bay,617044
+55,Green Bay,194586
+55,Green Bay,102708
+55,Green Bay,86014
+55,Green Bay,85122
+55,Racine,617044
+55,Racine,194586
+55,Racine,102708
+55,Racine,86014
+55,Racine,85122
+55,Kenosha,617044
+55,Kenosha,194586
+55,Kenosha,102708
+55,Kenosha,86014
+55,Kenosha,85122
+55,Milwaukee,617044
+55,Milwaukee,194586
+55,Milwaukee,102708
+55,Milwaukee,86014
+55,Milwaukee,85122
+55,Madison,617044
+55,Madison,194586
+55,Madison,102708
+55,Madison,86014
+55,Madison,85122
+55,Green Bay,617044
+55,Green Bay,194586
+55,Green Bay,102708
+55,Green Bay,86014
+55,Green Bay,85122
+55,Racine,617044
+55,Racine,194586
+55,Racine,102708
+55,Racine,86014
+55,Racine,85122
+55,Kenosha,617044
+55,Kenosha,194586
+55,Kenosha,102708
+55,Kenosha,86014
+55,Kenosha,85122
+55,Milwaukee,617044
+55,Milwaukee,194586
+55,Milwaukee,102708
+55,Milwaukee,86014
+55,Milwaukee,85122
+55,Madison,617044
+55,Madison,194586
+55,Madison,102708
+55,Madison,86014
+55,Madison,85122
+55,Green Bay,617044
+55,Green Bay,194586
+55,Green Bay,102708
+55,Green Bay,86014
+55,Green Bay,85122
+55,Racine,617044
+55,Racine,194586
+55,Racine,102708
+55,Racine,86014
+55,Racine,85122
+55,Kenosha,617044
+55,Kenosha,194586
+55,Kenosha,102708
+55,Kenosha,86014
+55,Kenosha,85122
 56,Cheyenne,53559
 56,Cheyenne,49192
 56,Cheyenne,27223
@@ -1286,6 +6385,7 @@
 56,Casper,18761
 56,Laramie,53559
 56,Laramie,49192
+56,Laramie,27223
 56,Laramie,20144
 56,Laramie,18761
 56,Rock Springs,53559
@@ -1298,156 +6398,856 @@
 56,Gillette,27223
 56,Gillette,20144
 56,Gillette,18761
-60,Utumea West,
-60,Utumea West,
-60,Utumea West,
-60,Utumea West,
-60,Utumea West,
-60,Utusia,
-60,Utusia,
-60,Utusia,
-60,Utusia,
-60,Utusia,
-60,Vaiala,
-60,Vaiala,
-60,Vaiala,
-60,Vaiala,
-60,Vaiala,
-60,Vailoatai,
-60,Vailoatai,
-60,Vailoatai,
-60,Vailoatai,
-60,Vailoatai,
-60,Vaitogi,
-60,Vaitogi,
-60,Vaitogi,
-60,Vaitogi,
-60,Vaitogi,
-64,Relong,
-64,Relong,
-64,Relong,
-64,Relong,
-64,Relong,
-64,Rewo,
-64,Rewo,
-64,Rewo,
-64,Rewo,
-64,Rewo,
-64,Riikeen,
-64,Riikeen,
-64,Riikeen,
-64,Riikeen,
-64,Riikeen,
-64,Rimiit,
-64,Rimiit,
-64,Rimiit,
-64,Rimiit,
-64,Rimiit,
-64,Riy,
-64,Riy,
-64,Riy,
-64,Riy,
-64,Riy,
-66,Coontz Junction,
-66,Coontz Junction,
-66,Coontz Junction,
-66,Coontz Junction,
-66,Corten Torres,
-66,Corten Torres,
-66,Corten Torres,
-66,Corten Torres,
-66,Corten Torres,
-66,Matugan,
-66,Matugan,
-66,Matugan,
-66,Coontz Junction,
-66,Matugan,
-66,Matugan,
-66,Manaca,
-66,Manaca,
-66,Manaca,
-66,Manaca,
-66,Manaca,
-66,Maite,
-66,Maite,
-66,Maite,
-66,Maite,
-66,Maite,
-68,Anejet,
-68,Anekirea,
-68,Anekirea,
-68,Anekirea,
-68,Anekirea,
-68,Anekirea,
+56,Cheyenne,53559
+56,Cheyenne,49192
+56,Cheyenne,27223
+56,Cheyenne,20144
+56,Cheyenne,18761
+56,Casper,53559
+56,Casper,49192
+56,Casper,27223
+56,Casper,20144
+56,Casper,18761
+56,Laramie,53559
+56,Laramie,49192
+56,Laramie,27223
+56,Laramie,20144
+56,Laramie,18761
+56,Rock Springs,53559
+56,Rock Springs,49192
+56,Rock Springs,27223
+56,Rock Springs,20144
+56,Rock Springs,18761
+56,Gillette,53559
+56,Gillette,49192
+56,Gillette,27223
+56,Gillette,20144
+56,Gillette,18761
+56,Cheyenne,53559
+56,Cheyenne,49192
+56,Cheyenne,27223
+56,Cheyenne,20144
+56,Cheyenne,18761
+56,Casper,53559
+56,Casper,49192
+56,Casper,27223
+56,Casper,20144
+56,Casper,18761
+56,Laramie,53559
+56,Laramie,49192
+56,Laramie,27223
+56,Laramie,20144
+56,Laramie,18761
+56,Rock Springs,53559
+56,Rock Springs,49192
+56,Rock Springs,27223
+56,Rock Springs,20144
+56,Rock Springs,18761
+56,Gillette,53559
+56,Gillette,49192
+56,Gillette,27223
+56,Gillette,20144
+56,Gillette,18761
+56,Cheyenne,53559
+56,Cheyenne,49192
+56,Cheyenne,27223
+56,Cheyenne,20144
+56,Cheyenne,18761
+56,Casper,53559
+56,Casper,49192
+56,Casper,27223
+56,Casper,20144
+56,Casper,18761
+56,Laramie,53559
+56,Laramie,49192
+56,Laramie,27223
+56,Laramie,20144
+56,Laramie,18761
+56,Rock Springs,53559
+56,Rock Springs,49192
+56,Rock Springs,27223
+56,Rock Springs,20144
+56,Rock Springs,18761
+56,Gillette,53559
+56,Gillette,49192
+56,Gillette,27223
+56,Gillette,20144
+56,Gillette,18761
+56,Cheyenne,53559
+56,Cheyenne,49192
+56,Cheyenne,27223
+56,Cheyenne,20144
+56,Cheyenne,18761
+56,Casper,53559
+56,Casper,49192
+56,Casper,27223
+56,Casper,20144
+56,Casper,18761
+56,Laramie,53559
+56,Laramie,49192
+56,Laramie,27223
+56,Laramie,20144
+56,Laramie,18761
+56,Rock Springs,53559
+56,Rock Springs,49192
+56,Rock Springs,27223
+56,Rock Springs,20144
+56,Rock Springs,18761
+56,Gillette,53559
+56,Gillette,49192
+56,Gillette,27223
+56,Gillette,20144
+56,Gillette,18761
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Leloaloa,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliituai,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauliifou,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauli'i,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+60,Lauagae,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Lapwusi,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leap,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Leebinaew,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehiak,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+64,Lehle Mwahu,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asan,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asbeco,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asfaja,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmisen,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+66,Asmuyao,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
 68,Aneloklab,
 68,Aneloklab,
 68,Aneloklab,
 68,Aneloklab,
 68,Aneloklab,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
 68,Anejet,
 68,Anejet,
 68,Anejet,
 68,Anejet,
-68,Aen,
-68,Aen,
-68,Aen,
-68,Aen,
-68,Aen,
-68,Bioleen,
-68,Bioleen,
-68,Bioleen,
-68,Bioleen,
-68,Bioleen,
+68,Anejet,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Bikoniing,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Aneloklab,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anekirea,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Anejet,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
+68,Ajiltake,
 69,Pi'ao, Chalan,
 69,Pi'ao, Chalan,
 69,Pi'ao, Chalan,
 69,Pi'ao, Chalan,
 69,Pi'ao, Chalan,
-69,Afetna,
-69,Afetna,
-69,Afetna,
-69,Afetna,
-69,Afetna,
-69,Kiya, Chalan,
-69,Kiya, Chalan,
-69,Kiya, Chalan,
-69,Kiya, Chalan,
-69,Kiya, Chalan,
-69,San Jose,
-69,San Jose,
-69,San Jose,
-69,San Jose,
-69,San Jose,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
 69,Laolao, Chalan,
 69,Laolao, Chalan,
 69,Laolao, Chalan,
 69,Laolao, Chalan,
 69,Laolao, Chalan,
-70,Mechang,
-70,Mechang,
-70,Mechang,
-70,Mechang,
-70,Mechang,
-70,Kloulklubed,
-70,Kloulklubed,
-70,Kloulklubed,
-70,Kloulklubed,
-70,Kloulklubed,
-70,Klebeang,
-70,Klebeang,
-70,Klebeang,
-70,Klebeang,
-70,Klebeang,
-70,Kamesang,
-70,Kamesang,
-70,Kamesang,
-70,Kamesang,
-70,Kamesang,
-70,Kaemesang,
-70,Kaemesang,
-70,Kaemesang,
-70,Kaemesang,
-70,Kaemesang,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Pi'ao, Chalan,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Oleai,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Marasu,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Laolao, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+69,Kiya, Chalan,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Ollei,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Olkang,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oketol,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Oikull,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
+70,Ogiil,
 72,San Juan,426832
 72,San Juan,202103
 72,San Juan,162404
@@ -1473,28 +7273,228 @@
 72,Caguas,162404
 72,Caguas,159151
 72,Caguas,92429
-78,Adelphi,
-78,Adelphi,
-78,Adelphi,
-78,Adelphi,
-78,Adelphi,
-78,Adrian,
-78,Adrian,
-78,Adrian,
-78,Adrian,
-78,Adrian,
-78,Allandale,
-78,Allandale,
-78,Allandale,
-78,Allandale,
-78,Allandale,
-78,Altona,
-78,Altona,
-78,Altona,
-78,Altona,
-78,Altona,
-78,Altona,
-78,Altona,
-78,Altona,
-78,Altona,
-78,Altona,
+72,San Juan,426832
+72,San Juan,202103
+72,San Juan,162404
+72,San Juan,159151
+72,San Juan,92429
+72,Bayamon,426832
+72,Bayamon,202103
+72,Bayamon,162404
+72,Bayamon,159151
+72,Bayamon,92429
+72,Carolina,426832
+72,Carolina,202103
+72,Carolina,162404
+72,Carolina,159151
+72,Carolina,92429
+72,Ponce,426832
+72,Ponce,202103
+72,Ponce,162404
+72,Ponce,159151
+72,Ponce,92429
+72,Caguas,426832
+72,Caguas,202103
+72,Caguas,162404
+72,Caguas,159151
+72,Caguas,92429
+72,San Juan,426832
+72,San Juan,202103
+72,San Juan,162404
+72,San Juan,159151
+72,San Juan,92429
+72,Bayamon,426832
+72,Bayamon,202103
+72,Bayamon,162404
+72,Bayamon,159151
+72,Bayamon,92429
+72,Carolina,426832
+72,Carolina,202103
+72,Carolina,162404
+72,Carolina,159151
+72,Carolina,92429
+72,Ponce,426832
+72,Ponce,202103
+72,Ponce,162404
+72,Ponce,159151
+72,Ponce,92429
+72,Caguas,426832
+72,Caguas,202103
+72,Caguas,162404
+72,Caguas,159151
+72,Caguas,92429
+72,San Juan,426832
+72,San Juan,202103
+72,San Juan,162404
+72,San Juan,159151
+72,San Juan,92429
+72,Bayamon,426832
+72,Bayamon,202103
+72,Bayamon,162404
+72,Bayamon,159151
+72,Bayamon,92429
+72,Carolina,426832
+72,Carolina,202103
+72,Carolina,162404
+72,Carolina,159151
+72,Carolina,92429
+72,Ponce,426832
+72,Ponce,202103
+72,Ponce,162404
+72,Ponce,159151
+72,Ponce,92429
+72,Caguas,426832
+72,Caguas,202103
+72,Caguas,162404
+72,Caguas,159151
+72,Caguas,92429
+72,San Juan,426832
+72,San Juan,202103
+72,San Juan,162404
+72,San Juan,159151
+72,San Juan,92429
+72,Bayamon,426832
+72,Bayamon,202103
+72,Bayamon,162404
+72,Bayamon,159151
+72,Bayamon,92429
+72,Carolina,426832
+72,Carolina,202103
+72,Carolina,162404
+72,Carolina,159151
+72,Carolina,92429
+72,Ponce,426832
+72,Ponce,202103
+72,Ponce,162404
+72,Ponce,159151
+72,Ponce,92429
+72,Caguas,426832
+72,Caguas,202103
+72,Caguas,162404
+72,Caguas,159151
+72,Caguas,92429
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hermitage,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hesselberg,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hoffman,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hogensborg,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
+78,Hope,
