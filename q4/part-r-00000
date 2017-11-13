@@ -1,60 +1,300 @@
-{(Nukuao,Undetermined,0,),(Oneroa,Undetermined,0,),(Oneunga,Undetermined,0,),(Orovaru,Undetermined,0,),(Pokoinu,Undetermined,0,)}
-{(Birmingham,Jefferson,1,264527),(Mobile,Mobile,1,204490),(Montgomery,Montgomery,1,195471),(Huntsville,Madison,1,160325),(Tuscaloosa,Tuscaloosa,1,79797)}
-{(Anchorage,Anchorage,2,253649),(Fairbanks,Fairbanks North Star,2,34321),(Juneau,Juneau,2,28758),(College,Fairbanks North Star,2,11249),(Ketchikan,Ketchikan Gateway,2,8781)}
-{(Phoenix,Maricopa,4,1048949),(Tucson,Pima,4,434726),(Mesa,Maricopa,4,313649),(Glendale,Maricopa,4,168439),(Scottsdale,Maricopa,4,152439)}
-{(Little Rock,Pulaski,5,178136),(Fort Smith,Sebastian,5,74480),(North Little Rock,Pulaski,5,62197),(Pine Bluff,Jefferson,5,57971),(Jonesboro,Craighead,5,50209)}
-{(Los Angeles,Los Angeles,6,3448613),(San Diego,San Diego,6,1151977),(San Jose,Santa Clara,6,816884),(San Francisco,San Francisco,6,734676),(Long Beach,Los Angeles,6,433852)}
-{(Denver,Denver,8,493559),(Colorado Springs,El Paso,8,316480),(Aurora,Adams,8,250717),(Lakewood,Jefferson,8,126031),(Pueblo,Pueblo,8,100471)}
-{(Bridgeport,Fairfield,9,132919),(Hartford,Hartford,9,124196),(New Haven,New Haven,9,119604),(Stamford,Fairfield,9,107199),(Waterbury,New Haven,9,103523)}
-{(Wilmington,New Castle,10,72799),(Dover,Kent,10,28876),(Newark,New Castle,10,27386),(Brookside,New Castle,10,15307),(Claymont,New Castle,10,9800)}
-{(Washington,District of Columbia,11,567094),(Adams Morgan (subdivision),District of Columbia,11,),(Anacostia,District of Columbia,11,),(Barnaby Terrace,District of Columbia,11,),(Barnaby Woods,District of Columbia,11,)}
-{(Jacksonville,Duval,12,665070),(Miami,Miami-Dade,12,373024),(Tampa,Hillsborough,12,285523),(Saint Petersburg,Pinellas,12,238585),(Hialeah,Miami-Dade,12,194120)}
-{(Atlanta,Fulton,13,396052),(Columbus,Muscogee,13,186470),(Savannah,Chatham,13,140597),(Macon,Bibb,13,109191),(Albany,Dougherty,13,81062)}
-{(Honolulu,Honolulu,15,385881),(Hilo,Hawaii,15,37808),(Kailua,Honolulu,15,36818),(Kaneohe,Honolulu,15,35448),(Waipahu,Honolulu,15,31435)}
-{(Boise,Ada,16,145987),(Idaho Falls,Bonneville,16,49928),(Pocatello,Bannock,16,49634),(Nampa,Canyon,16,35333),(Twin Falls,Twin Falls,16,31568)}
-{(Chicago,Cook,17,2731743),(Rockford,Winnebago,17,143263),(Peoria,Peoria,17,112878),(Aurora,Kane,17,112313),(Springfield,Sangamon,17,105938)}
-{(Indianapolis,Marion,18,752279),(Fort Wayne,Allen,18,183359),(Evansville,Vanderburgh,18,129452),(Gary,Lake,18,114256),(South Bend,St. Joseph,18,105092)}
-{(Des Moines,Polk,19,193965),(Cedar Rapids,Linn,19,113438),(Davenport,Scott,19,96964),(Sioux City,Woodbury,19,82735),(Waterloo,Black Hawk,19,66537)}
-{(Wichita,Sedgwick,20,310236),(Kansas City,Wyandotte,20,142630),(Overland Park,Johnson,20,125225),(Topeka,Shawnee,20,120646),(Olathe,Johnson,20,72455)}
-{(Louisville,Jefferson,21,270308),(Lexington-Fayette,Fayette,21,237612),(Lexington,Fayette,21,225366),(Owensboro,Daviess,21,53645),(Bowling Green,Warren,21,45451)}
-{(New Orleans,Orleans,22,484149),(Baton Rouge,East Baton Rouge,22,227482),(Shreveport,Caddo,22,196982),(Metairie,Jefferson,22,149428),(Lafayette,Lafayette,22,102281)}
-{(Portland,Cumberland,23,61982),(Lewiston,Androscoggin,23,37385),(Bangor,Penobscot,23,32004),(Auburn,Androscoggin,23,23364),(South Portland,Cumberland,23,22596)}
-{(Baltimore,Baltimore (city),24,702979),(Silver Spring,Montgomery,24,76046),(Columbia,Howard,24,75883),(Dundalk,Baltimore,24,65800),(Bethesda,Montgomery,24,62936)}
-{(Boston,Suffolk,25,547725),(Worcester,Worcester,25,165387),(Springfield,Hampden,25,149164),(Cambridge,Middlesex,25,99890),(Lowell,Middlesex,25,96054)}
-{(Detroit,Wayne,26,992038),(Grand Rapids,Kent,26,190395),(Warren,Macomb,26,142625),(Flint,Genesee,26,138164),(Lansing,Ingham,26,119590)}
-{(Minneapolis,Hennepin,27,354590),(Saint Paul,Ramsey,27,262071),(Bloomington,Hennepin,27,85185),(Duluth,St. Louis,27,83990),(Rochester,Olmsted,27,75769)}
-{(Jackson,Hinds,28,193097),(Biloxi,Harrison,28,47832),(Hattiesburg,Forrest,28,47692),(Greenville,Washington,28,44394),(Gulfport,Harrison,28,43023)}
-{(Kansas City,Jackson,29,443878),(Saint Louis,St. Louis (city),29,368215),(Springfield,Greene,29,149727),(Independence,Jackson,29,111669),(Columbia,Boone,29,74072)}
-{(Billings,Yellowstone,30,86578),(Great Falls,Cascade,30,58202),(Missoula,Missoula,30,45364),(Butte,Silver Bow,30,34190),(Helena,Lewis and Clark,30,26339)}
-{(Omaha,Douglas,31,345033),(Lincoln,Lancaster,31,203076),(Bellevue,Sarpy,31,41274),(Grand Island,Hall,31,41147),(Kearney,Buffalo,31,26216)}
-{(Las Vegas,Clark,32,327878),(Reno,Washoe,32,145029),(Henderson,Clark,32,101997),(North Las Vegas,Clark,32,64536),(Sparks,Washoe,32,60238)}
-{(Manchester,Hillsborough,33,96640),(Nashua,Hillsborough,33,79631),(Concord,Merrimack,33,36198),(Rochester,Strafford,33,27023),(Dover,Strafford,33,24891)}
-{(Newark,Essex,34,258751),(Jersey City,Hudson,34,226022),(Paterson,Passaic,34,138290),(Elizabeth,Union,34,106298),(Edison,Middlesex,34,88680)}
-{(Albuquerque,Bernalillo,35,411994),(Las Cruces,Dona Ana,35,71043),(Santa Fe,Santa Fe,35,62514),(Roswell,Chaves,35,47395),(Rio Rancho,Sandoval,35,41492)}
-{(New York,New York,36,7333253),(Buffalo,Erie,36,312965),(Rochester,Monroe,36,231170),(Yonkers,Westchester,36,183490),(Syracuse,Onondaga,36,159895)}
-{(Charlotte,Mecklenburg,37,437797),(Raleigh,Wake,37,236707),(Greensboro,Guilford,37,196167),(Winston-Salem,Forsyth,37,155128),(Durham,Durham,37,143439)}
-{(Fargo,Cass,38,79715),(Bismarck,Burleigh,38,52592),(Grand Forks,Grand Forks,38,50168),(Minot,Ward,38,35352),(Dickinson,Stark,38,16190)}
-{(Columbus,Franklin,39,635913),(Cleveland,Cuyahoga,39,492901),(Cincinnati,Hamilton,39,358170),(Toledo,Lucas,39,322550),(Akron,Summit,39,221886)}
-{(Oklahoma City,Oklahoma,40,463201),(Tulsa,Tulsa,40,374851),(Norman,Cleveland,40,87290),(Lawton,Comanche,40,86078),(Broken Arrow,Tulsa,40,65679)}
-{(Portland,Multnomah,41,450777),(Eugene,Lane,41,118122),(Salem,Marion,41,115912),(Gresham,Multnomah,41,78594),(Beaverton,Washington,41,59367)}
-{(Philadelphia,Philadelphia,42,1524249),(Pittsburgh,Allegheny,42,358883),(Erie,Erie,42,108398),(Allentown,Lehigh,42,105339),(Reading,Berks,42,78246)}
-{(Providence,Providence,44,150639),(Warwick,Kent,44,86006),(Cranston,Providence,44,77323),(Pawtucket,Providence,44,69002),(East Providence,Providence,44,50059)}
-{(Columbia,Richland,45,104101),(Charleston,Charleston,45,76854),(North Charleston,Charleston,45,67720),(Greenville,Greenville,45,59808),(Rock Hill,York,45,47006)}
-{(Sioux Falls,Minnehaha,46,109174),(Rapid City,Pennington,46,57609),(Aberdeen,Brown,46,25091),(Watertown,Codington,46,19279),(Brookings,Brookings,46,17241)}
-{(Memphis,Shelby,47,614289),(Nashville,Davidson,47,504505),(Knoxville,Knox,47,169311),(Chattanooga,Hamilton,47,152259),(Clarksville,Montgomery,47,92116)}
-{(Houston,Harris,48,1702086),(Dallas,Dallas,48,1022830),(San Antonio,Bexar,48,998905),(El Paso,El Paso,48,579307),(Austin,Travis,48,514013)}
-{(Salt Lake City,Salt Lake,49,171849),(West Valley City,Salt Lake,49,94663),(Provo,Utah,49,88519),(Sandy City,Salt Lake,49,85406),(Orem,Utah,49,74402)}
-{(Burlington,Chittenden,50,38306),(Rutland,Rutland,50,17489),(South Burlington,Chittenden,50,13170),(Bennington,Bennington,50,9532),(Barre,Washington,50,9466)}
-{(Virginia Beach,Virginia Beach (city),51,430295),(Norfolk,Norfolk (city),51,241426),(Richmond,Richmond (city),51,201108),(Chesapeake,Chesapeake (city),51,180577),(Newport News,Newport News (city),51,179127)}
-{(Seattle,King,53,520947),(Spokane,Spokane,53,192781),(Tacoma,Pierce,53,183060),(Bellevue,King,53,84239),(Everett,Snohomish,53,76685)}
-{(Charleston,Kanawha,54,56553),(Huntington,Cabell,54,53789),(Wheeling,Ohio,54,33969),(Parkersburg,Wood,54,33102),(Morgantown,Monongalia,54,26517)}
-{(Milwaukee,Milwaukee,55,617044),(Madison,Dane,55,194586),(Green Bay,Brown,55,102708),(Racine,Racine,55,86014),(Kenosha,Kenosha,55,85122)}
-{(Cheyenne,Laramie,56,53559),(Casper,Natrona,56,49192),(Laramie,Albany,56,27223),(Rock Springs,Sweetwater,56,20144),(Gillette,Campbell,56,18761)}
-{(Leloaloa,Eastern,60,),(Lauliituai,Eastern,60,),(Lauliifou,Eastern,60,),(Lauli'i,Eastern,60,),(Lauagae,Eastern,60,)}
-{(Lapwusi,Pohnpei,64,),(Leap,Kosrae,64,),(Leebinaew,Yap,64,),(Lehiak,Pohnpei,64,),(Lehle Mwahu,Pohnpei,64,)}
-{(Asan,Guam,66,),(Asbeco,Guam,66,),(Asfaja,Guam,66,),(Asmisen,Guam,66,),(Asmuyao,Guam,66,)}
-{(Bikoniing,Undetermined,68,),(Aneloklab,Undetermined,68,),(Anekirea,Undetermined,68,),(Anejet,Undetermined,68,),(Ajiltake,Undetermined,68,)}
-{(Pi'ao, Chalan,Saipan,69,),(Oleai,Saipan,69,),(Marasu,Northern Islands,69,),(Laolao, Chalan,Saipan,69,),(Kiya, Chalan,Saipan,69,)}
-{(Ollei,Undetermined,70,),(Olkang,Undetermined,70,),(Oketol,Undetermined,70,),(Oikull,Undetermined,70,),(Ogiil,Undetermined,70,)}
-{(San Juan,San Juan,72,426832),(Bayamon,Bayamon,72,202103),(Carolina,Carolina,72,162404),(Ponce,Ponce,72,159151),(Caguas,Caguas,72,92429)}
-{(Hermitage,St. Croix,78,),(Hesselberg,St. Croix,78,),(Hoffman,St. Thomas,78,),(Hogensborg,St. Croix,78,),(Hope,St. Croix,78,)}
+0,Totokoitu,0,
+0,Vaipae,0,
+0,Via-Piake,0,
+0,Arutunga,0,
+0,Temuriavai,0,
+1,Birmingham,1,264527
+1,Mobile,1,204490
+1,Montgomery,1,195471
+1,Huntsville,1,160325
+1,Tuscaloosa,1,79797
+2,Anchorage,2,253649
+2,Fairbanks,2,34321
+2,Juneau,2,28758
+2,College,2,11249
+2,Ketchikan,2,8781
+4,Phoenix,4,1048949
+4,Tucson,4,434726
+4,Mesa,4,313649
+4,Glendale,4,168439
+4,Scottsdale,4,152439
+5,Little Rock,5,178136
+5,Fort Smith,5,74480
+5,North Little Rock,5,62197
+5,Pine Bluff,5,57971
+5,Jonesboro,5,50209
+6,Los Angeles,6,3448613
+6,San Diego,6,1151977
+6,San Jose,6,816884
+6,San Francisco,6,734676
+6,Long Beach,6,433852
+8,Denver,8,493559
+8,Colorado Springs,8,316480
+8,Aurora,8,250717
+8,Lakewood,8,126031
+8,Pueblo,8,100471
+9,Bridgeport,9,132919
+9,Hartford,9,124196
+9,New Haven,9,119604
+9,Stamford,9,107199
+9,Waterbury,9,103523
+10,Wilmington,10,72799
+10,Dover,10,28876
+10,Newark,10,27386
+10,Brookside,10,15307
+10,Claymont,10,9800
+11,Washington,11,567094
+11,Northeast Boundary (subdivision),11,
+11,Park Place,11,
+11,Park View,11,
+11,Penn Branch (subdivision),11,
+12,Jacksonville,12,665070
+12,Miami,12,373024
+12,Tampa,12,285523
+12,Saint Petersburg,12,238585
+12,Hialeah,12,194120
+13,Atlanta,13,396052
+13,Columbus,13,186470
+13,Savannah,13,140597
+13,Macon,13,109191
+13,Albany,13,81062
+15,Honolulu,15,385881
+15,Hilo,15,37808
+15,Kailua,15,36818
+15,Kaneohe,15,35448
+15,Waipahu,15,31435
+16,Boise,16,145987
+16,Idaho Falls,16,49928
+16,Pocatello,16,49634
+16,Nampa,16,35333
+16,Twin Falls,16,31568
+17,Chicago,17,2731743
+17,Rockford,17,143263
+17,Peoria,17,112878
+17,Aurora,17,112313
+17,Springfield,17,105938
+18,Indianapolis,18,752279
+18,Fort Wayne,18,183359
+18,Evansville,18,129452
+18,Gary,18,114256
+18,South Bend,18,105092
+19,Des Moines,19,193965
+19,Cedar Rapids,19,113438
+19,Davenport,19,96964
+19,Sioux City,19,82735
+19,Waterloo,19,66537
+20,Wichita,20,310236
+20,Kansas City,20,142630
+20,Overland Park,20,125225
+20,Topeka,20,120646
+20,Olathe,20,72455
+21,Louisville,21,270308
+21,Lexington-Fayette,21,237612
+21,Lexington,21,225366
+21,Owensboro,21,53645
+21,Bowling Green,21,45451
+22,New Orleans,22,484149
+22,Baton Rouge,22,227482
+22,Shreveport,22,196982
+22,Metairie,22,149428
+22,Lafayette,22,102281
+23,Portland,23,61982
+23,Lewiston,23,37385
+23,Bangor,23,32004
+23,Auburn,23,23364
+23,South Portland,23,22596
+24,Baltimore,24,702979
+24,Silver Spring,24,76046
+24,Columbia,24,75883
+24,Dundalk,24,65800
+24,Bethesda,24,62936
+25,Boston,25,547725
+25,Worcester,25,165387
+25,Springfield,25,149164
+25,Cambridge,25,99890
+25,Lowell,25,96054
+26,Detroit,26,992038
+26,Grand Rapids,26,190395
+26,Warren,26,142625
+26,Flint,26,138164
+26,Lansing,26,119590
+27,Minneapolis,27,354590
+27,Saint Paul,27,262071
+27,Bloomington,27,85185
+27,Duluth,27,83990
+27,Rochester,27,75769
+28,Jackson,28,193097
+28,Biloxi,28,47832
+28,Hattiesburg,28,47692
+28,Greenville,28,44394
+28,Gulfport,28,43023
+29,Kansas City,29,443878
+29,Saint Louis,29,368215
+29,Springfield,29,149727
+29,Independence,29,111669
+29,Columbia,29,74072
+30,Billings,30,86578
+30,Great Falls,30,58202
+30,Missoula,30,45364
+30,Butte,30,34190
+30,Helena,30,26339
+31,Omaha,31,345033
+31,Lincoln,31,203076
+31,Bellevue,31,41274
+31,Grand Island,31,41147
+31,Kearney,31,26216
+32,Las Vegas,32,327878
+32,Reno,32,145029
+32,Henderson,32,101997
+32,North Las Vegas,32,64536
+32,Sparks,32,60238
+33,Manchester,33,96640
+33,Nashua,33,79631
+33,Concord,33,36198
+33,Rochester,33,27023
+33,Dover,33,24891
+34,Newark,34,258751
+34,Jersey City,34,226022
+34,Paterson,34,138290
+34,Elizabeth,34,106298
+34,Edison,34,88680
+35,Albuquerque,35,411994
+35,Las Cruces,35,71043
+35,Santa Fe,35,62514
+35,Roswell,35,47395
+35,Rio Rancho,35,41492
+36,New York,36,7333253
+36,Buffalo,36,312965
+36,Rochester,36,231170
+36,Yonkers,36,183490
+36,Syracuse,36,159895
+37,Charlotte,37,437797
+37,Raleigh,37,236707
+37,Greensboro,37,196167
+37,Winston-Salem,37,155128
+37,Durham,37,143439
+38,Fargo,38,79715
+38,Bismarck,38,52592
+38,Grand Forks,38,50168
+38,Minot,38,35352
+38,Dickinson,38,16190
+39,Columbus,39,635913
+39,Cleveland,39,492901
+39,Cincinnati,39,358170
+39,Toledo,39,322550
+39,Akron,39,221886
+40,Oklahoma City,40,463201
+40,Tulsa,40,374851
+40,Norman,40,87290
+40,Lawton,40,86078
+40,Broken Arrow,40,65679
+41,Portland,41,450777
+41,Eugene,41,118122
+41,Salem,41,115912
+41,Gresham,41,78594
+41,Beaverton,41,59367
+42,Philadelphia,42,1524249
+42,Pittsburgh,42,358883
+42,Erie,42,108398
+42,Allentown,42,105339
+42,Reading,42,78246
+44,Providence,44,150639
+44,Warwick,44,86006
+44,Cranston,44,77323
+44,Pawtucket,44,69002
+44,East Providence,44,50059
+45,Columbia,45,104101
+45,Charleston,45,76854
+45,North Charleston,45,67720
+45,Greenville,45,59808
+45,Rock Hill,45,47006
+46,Sioux Falls,46,109174
+46,Rapid City,46,57609
+46,Aberdeen,46,25091
+46,Watertown,46,19279
+46,Brookings,46,17241
+47,Memphis,47,614289
+47,Nashville,47,504505
+47,Knoxville,47,169311
+47,Chattanooga,47,152259
+47,Clarksville,47,92116
+48,Houston,48,1702086
+48,Dallas,48,1022830
+48,San Antonio,48,998905
+48,El Paso,48,579307
+48,Austin,48,514013
+49,Salt Lake City,49,171849
+49,West Valley City,49,94663
+49,Provo,49,88519
+49,Sandy City,49,85406
+49,Orem,49,74402
+50,Burlington,50,38306
+50,Rutland,50,17489
+50,South Burlington,50,13170
+50,Bennington,50,9532
+50,Barre,50,9466
+51,Virginia Beach,51,430295
+51,Norfolk,51,241426
+51,Richmond,51,201108
+51,Chesapeake,51,180577
+51,Newport News,51,179127
+53,Seattle,53,520947
+53,Spokane,53,192781
+53,Tacoma,53,183060
+53,Bellevue,53,84239
+53,Everett,53,76685
+54,Charleston,54,56553
+54,Huntington,54,53789
+54,Wheeling,54,33969
+54,Parkersburg,54,33102
+54,Morgantown,54,26517
+55,Milwaukee,55,617044
+55,Madison,55,194586
+55,Green Bay,55,102708
+55,Racine,55,86014
+55,Kenosha,55,85122
+56,Cheyenne,56,53559
+56,Casper,56,49192
+56,Laramie,56,27223
+56,Rock Springs,56,20144
+56,Gillette,56,18761
+60,Utumea West,60,
+60,Utusia,60,
+60,Vaiala,60,
+60,Vailoatai,60,
+60,Vaitogi,60,
+64,Relong,64,
+64,Rewo,64,
+64,Riikeen,64,
+64,Rimiit,64,
+64,Riy,64,
+66,Coontz Junction,66,
+66,Corten Torres,66,
+66,Matugan,66,
+66,Manaca,66,
+66,Maite,66,
+68,Anekirea,68,
+68,Aneloklab,68,
+68,Anejet,68,
+68,Aen,68,
+68,Bioleen,68,
+69,Pi'ao, Chalan,69,
+69,Afetna,69,
+69,Kiya, Chalan,69,
+69,San Jose,69,
+69,Laolao, Chalan,69,
+70,Mechang,70,
+70,Kloulklubed,70,
+70,Klebeang,70,
+70,Kamesang,70,
+70,Kaemesang,70,
+72,San Juan,72,426832
+72,Bayamon,72,202103
+72,Carolina,72,162404
+72,Ponce,72,159151
+72,Caguas,72,92429
+78,Adelphi,78,
+78,Adrian,78,
+78,Allandale,78,
+78,Altona,78,
+78,Altona,78,
