@@ -2,15 +2,15 @@
 RUN /vol/automed/data/usgs/load_tables.pig
 
 -- Load feature table
-state_data = FOREACH feature
-             GENERATE state_name, county, type;
+feature_data = FOREACH feature
+               GENERATE state_name, county, type;
 
-state_detail = GROUP state_data BY (state_name, county);
+feature_detail = GROUP feature_data BY (state_name, county);
 
-state_ppl_stream = FOREACH state_detail {
-                        ppl_type = FILTER state_data
+state_ppl_stream = FOREACH feature_detail {
+                        ppl_type = FILTER feature_data
                                    BY type == 'ppl';
-                        stream_type = FILTER state_data
+                        stream_type = FILTER feature_data
                                       BY type == 'stream';
                    GENERATE group.state_name AS state_name,
                              group.county AS county,
