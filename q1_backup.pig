@@ -42,4 +42,4 @@ state_name_not_in_state = DISTINCT state_name_not_in_state_bag;
 sorted_result = ORDER state_name_not_in_state
                 BY state_name ASC;
 
-STORE sorted_result INTO 'q1' USING PigStorage(',');                 
+STORE sorted_result INTO 'q1' USING PigStorage(',');
