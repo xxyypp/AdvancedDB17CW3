@@ -13,19 +13,8 @@ state_data = FOREACH state
 state_and_feature_bag = JOIN feature_data BY feature_statename LEFT,
                           state_data BY name;
 
-state_and_feature = DISTINCT state_and_feature_bag;
+--state_and_feature = DISTINCT state_and_feature_bag;
 
-feature_not_in_state = FILTER state_and_feature
-                       BY state_data::name IS NULL;
+res = ORDER state_and_feature_bag BY feature_statename;
 
---Generate the result
-result_bag = FOREACH feature_not_in_state
-         GENERATE feature_data::feature_statename AS state_name;
-
-result = DISTINCT result_bag;
-
--- Order the result
-sorted_result = ORDER result
-               BY state_name ASC;
-
-STORE sorted_result INTO 'new_q1' USING PigStorage(',');
+STORE res INTO 'q1_no_distinct' USING PigStorage(',');
