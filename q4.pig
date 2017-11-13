@@ -19,7 +19,15 @@ top_five = FOREACH group_populated_data{
            GENERATE group AS state_code, FLATTEN(top);
            }
 
+-- Join with state
+join_result = JOIN state_data BY code,
+              top_five BY state_code;
 
+-- Result
+result = FOREACH join_result
+         GENERATE join_result.state_data::state_data_name AS state_name,
+                   name,
+                   population;
 
 
 
@@ -34,4 +42,4 @@ top_five = FOREACH group_populated_data{
          --}
 
 
-STORE top_five INTO 'q4' USING PigStorage(',');
+STORE result INTO 'q4' USING PigStorage(',');
