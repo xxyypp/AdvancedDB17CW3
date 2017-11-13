@@ -2,8 +2,12 @@
 RUN /vol/automed/data/usgs/load_tables.pig
 
 -- Load populated_place table
-populated_data = FOREACH populated_place
-                 GENERATE name, state_code, population;
+populated_data_with_null = FOREACH populated_place
+                           GENERATE name, state_code, population;
+
+-- Filter NULL value
+populated_data = FILTER populated_data_with_null
+                 BY population IS NOT NULL;
 
 -- Load populated_place table
 state_data = FOREACH state
@@ -26,15 +30,6 @@ join_result = JOIN state_data BY code,
 -- Result
 result = FOREACH join_result
          GENERATE state_data_name AS state_name, name AS name ,population AS population;
-
---result = FOREACH group_populated_data{
-            --order_populated_data = ORDER populated_data
-            --                       BY population DESC;
-            --top_five = LIMIT order_populated_data 5;
-           -- top_five = LIMIT group_populated_data 5;
-         --GENERATE top_five;
-         --GENERATE FLATTEN(top_five.state_code),FLATTEN(top_five.name), FLATTEN(top_five.population) ;
-         --}
 
 
 STORE result INTO 'q4' USING PigStorage(',');

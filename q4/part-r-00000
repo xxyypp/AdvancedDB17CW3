@@ -1,8 +1,3 @@
-UNKNOWN,Totokoitu,
-UNKNOWN,Vaipae,
-UNKNOWN,Via-Piake,
-UNKNOWN,Arutunga,
-UNKNOWN,Temuriavai,
 ALABAMA,Birmingham,264527
 ALABAMA,Mobile,204490
 ALABAMA,Montgomery,195471
@@ -44,10 +39,6 @@ DELAWARE,Newark,27386
 DELAWARE,Brookside,15307
 DELAWARE,Claymont,9800
 DISTRICT OF COLUMBIA,Washington,567094
-DISTRICT OF COLUMBIA,Northeast Boundary (subdivision),
-DISTRICT OF COLUMBIA,Park Place,
-DISTRICT OF COLUMBIA,Park View,
-DISTRICT OF COLUMBIA,Penn Branch (subdivision),
 FLORIDA,Jacksonville,665070
 FLORIDA,Miami,373024
 FLORIDA,Tampa,285523
@@ -258,43 +249,8 @@ WYOMING,Casper,49192
 WYOMING,Laramie,27223
 WYOMING,Rock Springs,20144
 WYOMING,Gillette,18761
-AMERICAN SAMOA,Utumea West,
-AMERICAN SAMOA,Utusia,
-AMERICAN SAMOA,Vaiala,
-AMERICAN SAMOA,Vailoatai,
-AMERICAN SAMOA,Vaitogi,
-FM,Relong,
-FM,Rewo,
-FM,Riikeen,
-FM,Rimiit,
-FM,Riy,
-GUAM,Coontz Junction,
-GUAM,Corten Torres,
-GUAM,Matugan,
-GUAM,Manaca,
-GUAM,Maite,
-MH,Anekirea,
-MH,Aneloklab,
-MH,Anejet,
-MH,Aen,
-MH,Bioleen,
-NORTHERN MARIANA ISLANDS,Pi'ao, Chalan,
-NORTHERN MARIANA ISLANDS,Afetna,
-NORTHERN MARIANA ISLANDS,Kiya, Chalan,
-NORTHERN MARIANA ISLANDS,San Jose,
-NORTHERN MARIANA ISLANDS,Laolao, Chalan,
-PALAU,Mechang,
-PALAU,Kloulklubed,
-PALAU,Klebeang,
-PALAU,Kamesang,
-PALAU,Kaemesang,
 PUERTO RICO,San Juan,426832
 PUERTO RICO,Bayamon,202103
 PUERTO RICO,Carolina,162404
 PUERTO RICO,Ponce,159151
 PUERTO RICO,Caguas,92429
-VIRGIN ISLANDS,Adelphi,
-VIRGIN ISLANDS,Adrian,
-VIRGIN ISLANDS,Allandale,
-VIRGIN ISLANDS,Altona,
-VIRGIN ISLANDS,Altona,
