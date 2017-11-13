@@ -25,12 +25,7 @@ join_result = JOIN state_data BY code,
 
 -- Result
 result = FOREACH join_result
-         GENERATE join_result.state_data::state_data_name AS state_name,
-                   name,
-                   population;
-
-
-
+         GENERATE state_data_name AS state_name, name AS name ,population AS population;
 
 --result = FOREACH group_populated_data{
             --order_populated_data = ORDER populated_data
