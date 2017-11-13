@@ -22,10 +22,10 @@ feature_not_in_state = FILTER state_and_feature
 result_bag = FOREACH feature_not_in_state
              GENERATE feature_data::feature_statename AS state_name;
 
-result = DISTINCT result_bag;
+--result = DISTINCT result_bag;
 
 -- Order the result
-sorted_result = ORDER result
+sorted_result = ORDER result_bag
                BY state_name ASC;
 
-STORE sorted_result INTO 'q1_1' USING PigStorage(',');
+STORE sorted_result INTO 'result_no_distinct' USING PigStorage(',');
