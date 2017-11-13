@@ -28,4 +28,4 @@ result = DISTINCT result_bag;
 sorted_result = ORDER result
                BY state_name ASC;
 
-STORE sorted_result INTO 'result_distinct' USING PigStorage(',');
+STORE sorted_result INTO 'q1' USING PigStorage(',');
