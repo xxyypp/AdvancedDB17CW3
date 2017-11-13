@@ -18,7 +18,7 @@ group_populated_data = GROUP populated_data BY state_code;
 
 -- Select top 5 populated places
 top_five = FOREACH group_populated_data{
-                sorted = ORDER populated_data BY population DESC;
+                sorted = ORDER populated_data BY population DESC, name DESC;
                 top = LIMIT sorted 5;
            GENERATE group AS state_code, FLATTEN(top);
            }
