@@ -15,14 +15,12 @@ state_and_feature_bag = JOIN feature_data BY feature_statename LEFT,
 
 state_and_feature = DISTINCT state_and_feature_bag;
 
-res = ORDER state_and_feature BY feature_statename;
-
 feature_not_in_state = FILTER state_and_feature
                        BY state_data::name IS NULL;
 
 --Generate the result
 result_bag = FOREACH feature_not_in_state
-         GENERATE feature_data::feature_statename AS state_name;
+             GENERATE feature_data::feature_statename AS state_name;
 
 result = DISTINCT result_bag;
 
@@ -30,4 +28,4 @@ result = DISTINCT result_bag;
 sorted_result = ORDER result
                BY state_name ASC;
 
-STORE res INTO 'q1_distinct' USING PigStorage(',');
+STORE sorted_result INTO 'q1_1' USING PigStorage(',');
