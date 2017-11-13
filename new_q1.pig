@@ -10,8 +10,10 @@ state_data = FOREACH state
              GENERATE name;
 
 -- Join two table
-state_and_feature = JOIN feature_data BY feature_statename LEFT,
+state_and_feature_bag = JOIN feature_data BY feature_statename LEFT,
                           state_data BY name;
+
+state_and_feature = DISTINCT state_and_feature_bag;
 
 feature_not_in_state = FILTER state_and_feature
                        BY state_data::name IS NULL;
