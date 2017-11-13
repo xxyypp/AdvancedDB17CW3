@@ -1,10 +1,10 @@
 Pig Stack Trace
 ---------------
 ERROR 1025: 
-<file q4.pig, line 16, column 20> Invalid field projection. Projected field [populated_data_with_null::population] does not exist in schema: name:chararray,state_code:int,population:int.
+<file q1.pig, line 31, column 26> Invalid field projection. Projected field [join_state_populated::state_data::state_code] does not exist in schema: feature_data::feature_county:chararray,feature_data::feature_state_name:chararray,join_state_populated_bag::state_data::state_code:int,join_state_populated_bag::state_data::state_name:chararray,join_state_populated_bag::populated_place_data::populated_county:chararray,join_state_populated_bag::populated_place_data::populated_state_code:int.
 
 org.apache.pig.impl.plan.PlanValidationException: ERROR 1025: 
-<file q4.pig, line 16, column 20> Invalid field projection. Projected field [populated_data_with_null::population] does not exist in schema: name:chararray,state_code:int,population:int.
+<file q1.pig, line 31, column 26> Invalid field projection. Projected field [join_state_populated::state_data::state_code] does not exist in schema: feature_data::feature_county:chararray,feature_data::feature_state_name:chararray,join_state_populated_bag::state_data::state_code:int,join_state_populated_bag::state_data::state_name:chararray,join_state_populated_bag::populated_place_data::populated_county:chararray,join_state_populated_bag::populated_place_data::populated_state_code:int.
 	at org.apache.pig.newplan.logical.expression.ProjectExpression.findColNum(ProjectExpression.java:191)
 	at org.apache.pig.newplan.logical.expression.ProjectExpression.setColumnNumberFromAlias(ProjectExpression.java:174)
 	at org.apache.pig.newplan.logical.visitor.ColumnAliasConversionVisitor$1.visit(ColumnAliasConversionVisitor.java:53)

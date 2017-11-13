@@ -18,16 +18,18 @@ join_state_populated_bag = JOIN state_data BY state_code,
                             populated_place_data BY populated_state_code;
 
 --Set based
-join_state_populated = DISTINCT join_state_populated_bag;
+--join_state_populated = DISTINCT join_state_populated_bag;
 
 --Find difference
 feature_and_join_bag = JOIN feature_data BY feature_county LEFT,
-                        join_state_populated BY populated_county;
+                        --join_state_populated BY populated_county;
+                        join_state_populated_bag BY populated_county;
 
 feature_and_join = DISTINCT feature_and_join_bag;
 
 feature_without_join = FILTER feature_and_join
-                       BY join_state_populated::state_data::state_code IS NULL;
+                       --BY join_state_populated::state_data::state_code IS NULL;
+                       BY join_state_populated_bag::state_data::state_code IS NULL;
 
 --Find state_name
 state_name_not_in_state_bag = FOREACH feature_without_join

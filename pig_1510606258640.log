@@ -1,21 +1,18 @@
 Pig Stack Trace
 ---------------
 ERROR 1025: 
-<file q3.pig, line 20, column 29> Invalid field projection. Projected field [county] does not exist in schema: group:chararray,state_data:bag{:tuple(state_name:chararray,county:chararray,type:chararray)}.
+<file q1.pig, line 31, column 26> Invalid field projection. Projected field [join_state_populated::state_data::state_code] does not exist in schema: feature_data::feature_county:chararray,feature_data::feature_state_name:chararray,join_state_populated_bag::state_data::state_code:int,join_state_populated_bag::state_data::state_name:chararray,join_state_populated_bag::populated_place_data::populated_county:chararray,join_state_populated_bag::populated_place_data::populated_state_code:int.
 
 org.apache.pig.impl.plan.PlanValidationException: ERROR 1025: 
-<file q3.pig, line 20, column 29> Invalid field projection. Projected field [county] does not exist in schema: group:chararray,state_data:bag{:tuple(state_name:chararray,county:chararray,type:chararray)}.
+<file q1.pig, line 31, column 26> Invalid field projection. Projected field [join_state_populated::state_data::state_code] does not exist in schema: feature_data::feature_county:chararray,feature_data::feature_state_name:chararray,join_state_populated_bag::state_data::state_code:int,join_state_populated_bag::state_data::state_name:chararray,join_state_populated_bag::populated_place_data::populated_county:chararray,join_state_populated_bag::populated_place_data::populated_state_code:int.
 	at org.apache.pig.newplan.logical.expression.ProjectExpression.findColNum(ProjectExpression.java:191)
 	at org.apache.pig.newplan.logical.expression.ProjectExpression.setColumnNumberFromAlias(ProjectExpression.java:174)
 	at org.apache.pig.newplan.logical.visitor.ColumnAliasConversionVisitor$1.visit(ColumnAliasConversionVisitor.java:53)
 	at org.apache.pig.newplan.logical.expression.ProjectExpression.accept(ProjectExpression.java:215)
 	at org.apache.pig.newplan.DependencyOrderWalker.walk(DependencyOrderWalker.java:75)
 	at org.apache.pig.newplan.PlanVisitor.visit(PlanVisitor.java:52)
-	at org.apache.pig.newplan.logical.optimizer.AllExpressionVisitor.visit(AllExpressionVisitor.java:142)
-	at org.apache.pig.newplan.logical.relational.LOInnerLoad.accept(LOInnerLoad.java:128)
-	at org.apache.pig.newplan.DependencyOrderWalker.walk(DependencyOrderWalker.java:75)
-	at org.apache.pig.newplan.logical.optimizer.AllExpressionVisitor.visit(AllExpressionVisitor.java:124)
-	at org.apache.pig.newplan.logical.relational.LOForEach.accept(LOForEach.java:76)
+	at org.apache.pig.newplan.logical.optimizer.AllExpressionVisitor.visit(AllExpressionVisitor.java:80)
+	at org.apache.pig.newplan.logical.relational.LOFilter.accept(LOFilter.java:79)
 	at org.apache.pig.newplan.DependencyOrderWalker.walk(DependencyOrderWalker.java:75)
 	at org.apache.pig.newplan.PlanVisitor.visit(PlanVisitor.java:52)
 	at org.apache.pig.PigServer$Graph.compile(PigServer.java:1728)
