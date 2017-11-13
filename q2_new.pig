@@ -2,29 +2,29 @@
 RUN /vol/automed/data/usgs/load_tables.pig
 
 -- Project just the columns of feature we need later
-feature_data = FOREACH feature
-               GENERATE state_name AS feature_state_name, county AS feature_county;
+state_data = FOREACH state
+             GENERATE code, name;
 
 -- Project just the columns of populated_place we need later
 populated_place_data = FOREACH populated_place
-                       GENERATE county AS populated_place_county, elevation, population;
+                       GENERATE state_code, elevation, population;
 
--- Join two table
-feature_with_populated = JOIN feature_data BY feature_county,
-                               populated_place_data BY populated_place_county;
+-- Group the data
+group_populated_place_data = GROUP populated_place_data BY state_code;
 
--- Group by
-group_feature_with_populated = GROUP feature_with_populated
-                               BY feature_with_populated.feature_data::feature_state_name;
+-- Calculation
+population_and_elevation = FOREACH group_populated_place_data
+                           GENERATE group AS state_code,
+                                     SUM(populated_place_data.population) AS population,
+                                     AVG(populated_place_data.elevation) AS elevation;
+-- Combine calculation with state
+join_result_with_state = JOIN population_and_elevation BY state_code,
+                              state_data BY code;
 
--- Calculate
-result_bag = FOREACH group_feature_with_populated
-             GENERATE feature_with_populated.feature_data::feature_state_name AS state_name,
-                       SUM(feature_with_populated.populated_place_data::population) AS population;
+result = FOREACH join_result_with_state
+         GENERATE name AS state_name,population,elevation;
 
--- Distinct
-result = DISTINCT result_bag;
-
+-- Order
 sorted_result = ORDER result
                 BY state_name ASC;
 
