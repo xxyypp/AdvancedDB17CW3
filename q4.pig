@@ -17,8 +17,8 @@ result = FOREACH group_populated_data{
             order_populated_data = ORDER populated_data
                                    BY population DESC;
             top_five = LIMIT order_populated_data 5;
-
-         GENERATE FLATTEN(top_five.state_code),FLATTEN(top_five.name), FLATTEN(top_five.population) ;
+         GENERATE top_five;
+         --GENERATE FLATTEN(top_five.state_code),FLATTEN(top_five.name), FLATTEN(top_five.population) ;
          }
 
 
