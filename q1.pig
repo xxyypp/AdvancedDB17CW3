@@ -25,9 +25,10 @@ feature_and_join_bag = JOIN feature_data BY feature_county LEFT,
                         --join_state_populated BY populated_county;
                         join_state_populated_bag BY populated_county;
 
-feature_and_join = DISTINCT feature_and_join_bag;
+--feature_and_join = DISTINCT feature_and_join_bag;
 
-feature_without_join = FILTER feature_and_join
+--feature_without_join = FILTER feature_and_join
+feature_without_join = FILTER feature_and_join_bag
                        --BY join_state_populated::state_data::state_code IS NULL;
                        BY join_state_populated_bag::state_data::state_code IS NULL;
 
