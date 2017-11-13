@@ -19,8 +19,10 @@ feature_not_in_state = FILTER state_and_feature
                        BY state_data::name IS NULL;
 
 --Generate the result
-result = FOREACH feature_not_in_state
+result_bag = FOREACH feature_not_in_state
          GENERATE feature_data::feature_statename AS state_name;
+
+result = DISTINCT result_bag;
 
 -- Order the result
 sorted_result = ORDER result
