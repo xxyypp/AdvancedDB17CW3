@@ -18,7 +18,7 @@ group_populated_data = GROUP populated_data BY state_code;
 
 -- Select top 5 populated places
 top_five = FOREACH group_populated_data{
-                sorted = ORDER populated_data BY population DESC, name DESC;
+                sorted = ORDER populated_data BY population DESC, name ASC;
                 top = LIMIT sorted 5;
            GENERATE group AS state_code, FLATTEN(top);
            }
@@ -31,5 +31,6 @@ join_result = JOIN state_data BY code,
 result = FOREACH join_result
          GENERATE state_data_name AS state_name, name AS name ,population AS population;
 
+final_result = ORDER result BY state_name ASC, population DESC, name ASC; 
 
-STORE result INTO 'q4' USING PigStorage(',');
+STORE final_result INTO 'q4' USING PigStorage(',');
