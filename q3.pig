@@ -22,6 +22,6 @@ sorted_result = ORDER state_ppl_stream
                  BY state_name, county;
 
 result_no_null_county = FILTER sorted_result
-                        BY county IS NOT NULL;
+                        BY (county != 'null') ;
 
 STORE result_no_null_county INTO 'q3' USING PigStorage(',');
