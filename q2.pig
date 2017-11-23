@@ -23,7 +23,7 @@ join_result_with_state = JOIN population_and_elevation BY state_code,
                               state_data BY code;
 
 result = FOREACH join_result_with_state
-         GENERATE UPPER(name) AS state_name,population AS population,ROUND(elevation) AS elevation;
+         GENERATE name AS state_name,population AS population,ROUND(elevation) AS elevation;
 
 -- Order
 sorted_result = ORDER result

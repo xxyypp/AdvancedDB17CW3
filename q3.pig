@@ -12,7 +12,7 @@ state_ppl_stream = FOREACH feature_detail {
                                    BY type == 'ppl';
                         stream_type = FILTER feature_data
                                       BY type == 'stream';
-                   GENERATE group.state_name AS state_name,
+                   GENERATE UPPER(group.state_name) AS state_name,
                              group.county AS county,
                              COUNT(ppl_type.type) AS no_ppl,
                              COUNT(stream_type.type) AS no_stream;
