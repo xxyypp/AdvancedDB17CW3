@@ -29,7 +29,7 @@ join_result = JOIN state_data BY code,
 
 -- Result
 result = FOREACH join_result
-         GENERATE UPPER(state_data_name) AS state_name, name AS name ,population AS population;
+         GENERATE state_data_name AS state_name, name AS name ,population AS population;
 
 final_result = ORDER result BY state_name ASC, population DESC, name ASC; 
 
