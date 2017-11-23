@@ -25,8 +25,11 @@ join_result_with_state = JOIN population_and_elevation BY state_code,
 result = FOREACH join_result_with_state
          GENERATE name AS state_name,population AS population,ROUND(elevation) AS elevation;
 
+no_unknown_result = FILTER result
+                    BY (state_name != 'UNKNOWN');
+
 -- Order
-sorted_result = ORDER result
+sorted_result = ORDER no_unknown_result
                 BY state_name ASC;
 
 STORE sorted_result INTO 'q2' USING PigStorage(',');
