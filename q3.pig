@@ -21,4 +21,7 @@ state_ppl_stream = FOREACH feature_detail {
 sorted_result = ORDER state_ppl_stream
                  BY state_name, county;
 
-STORE sorted_result INTO 'q3' USING PigStorage(',');
+result_no_null_county = FILTER sorted_result
+                        BY county IS NOT NULL;
+
+STORE result_no_null_county INTO 'q3' USING PigStorage(',');
