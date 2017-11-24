@@ -3,6 +3,6 @@ RUN /vol/automed/data/usgs/load_tables.pig
 
 -- Project just the columns of feature we need later
 state_data = FOREACH state
-             GENERATE name;
+             GENERATE code, name;
 
 STORE state_data INTO 'unknown' USING PigStorage(',');
